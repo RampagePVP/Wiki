@@ -1,0 +1,3 @@
+# Mirror Mage Robe
+
+Giydiğiniz andan itibaren extra bir armor oranı vermeyen bu mage robe, 1. sayfa büyülerini resist ettiği gibi damage oranı **High Mage Robe**'ye göre biraz fazladır. Size fiziksel olarak verilen damage oranının %25'ini rakibe hasar olarak gönderir. Bu mage robeye sahip olmak istiyorsanız **Rampage UO Reward** sisteminde yer alan **Mirror Leather**'dan 10 adet toplayarak bu derileri **Softening Potion** ile yumuşatmanız gerekecektir. Her bir **Mirror Leather**, 1 adet **Softening Potion** ile yumuşatılabilmektedir. Yumuşattığınız 10 adet **Mirror Leather**'a çift tıklayarak bu mage robeye belirli oranlarla sahip olabilirsiniz. **Softening Potion**'lara istenilen **Gold Fish** miktarını karşılamanız durumunda sahip olabilirsiniz.
