@@ -17,7 +17,6 @@
   * [Guild Istila](sistemler/guild-istila.md)
   * [Guild Wars(Britain Mezar)](sistemler/guild-wars-britain-mezar.md)
   * [Hazine](sistemler/hazine.md)
-  * [Iddaa Sistemi](sistemler/iddaa-sistemi.md)
   * [Jail Sistemi](sistemler/jail-sistemi.md)
   * [Kelle Sallandirma](sistemler/kelle-sallandirma.md)
   * [Koruyucu Melek](sistemler/koruyucu-melek.md)
