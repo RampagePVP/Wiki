@@ -35,6 +35,8 @@ Bütün binek yumurtaları **çantanızda** ve **safe alanda** açılır. Yumurt
 
 Şu bineklerden biri çıkar: Orn, Manticore, Chimaira, Beetle Wert, Cu Sidhe (Wolf), Typhaon, Wendigo, Silver Steed, Kii Rin, Silvercorn, Fire Steed, N-Mandre, Mustang, Frenzied Ostard, Mid Ostard, Shire, Arcane Ostard, Arcane Horse, Arcane Llama, Numa, Tartarus ve **Lamassu**. Lamassu diğerlerinden daha nadir çıkar.
 
+Random Egg'den nadiren **market binekleri** de çıkabilir.
+
 **Nereden:** CTF ve birçok etkinliğin ödülü, haftalık taming birinciliği, boss'lar ve dungeon ödülleri.
 
 ### Diğer yumurtalar
