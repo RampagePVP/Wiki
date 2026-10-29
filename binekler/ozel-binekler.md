@@ -10,25 +10,24 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 
 ### `.binekbonus` yeteneği olan binekler
 
-| Binek           | Yetenek                                       | Bekleme  |
-| --------------- | --------------------------------------------- | -------- |
-| Simurg          | Savaş Borusu                                  | 5 dk     |
-| Huma            | Koruyucu Aura                                 | 5 dk     |
-| Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)            | 5 dk     |
-| Lamassu         | Mana Yakma                                    | 5 dk     |
-| Bloodwing       | Fireball (+ Kan Emme, ölümcül darbe koruması) | 5 dk     |
-| Armored Steed   | Armor Ignore (+ PvP koruması)                 | 5 dk     |
-| Grayer          | Kan Kokusu (+ attan düşmez, poison tutmaz)    | 5 dk     |
-| Gryphon         | In Nox                                        | 5 dk     |
-| Hipogrif        | In Nox (+ alan büyüsü siler)                  | 5 dk     |
-| Pixiu           | Lamb Time (körlük)                            | 5 dk     |
-| T-Rash          | Gate siler (+ Parablow/Stun daha sık)         | 5 dk     |
-| Mysterious Horn | Mysterious Shield (dokunulmazlık)             | \~7,5 dk |
-| Fiura           | Klon + görünmezlik                            | \~7,5 dk |
-| Ferrin          | Absorb the Energy + `.ferrinheal`             | 7,5 dk   |
-| Percheron       | Percheron Healing (+ büyü bağışıklığı)        | 5 dk     |
-| Ordeal          | In Flam Power                                 | 5 dk     |
-| Typhaon         | Vas An Ort                                    | 3 dk     |
+| Binek           | Yetenek                                    | Bekleme  |
+| --------------- | ------------------------------------------ | -------- |
+| Simurg          | Savaş Borusu                               | 5 dk     |
+| Huma            | Koruyucu Aura                              | 5 dk     |
+| Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)         | 5 dk     |
+| Lamassu         | Mana Yakma                                 | 5 dk     |
+| Armored Steed   | Armor Ignore (+ PvP koruması)              | 5 dk     |
+| Grayer          | Kan Kokusu (+ attan düşmez, poison tutmaz) | 5 dk     |
+| Gryphon         | In Nox                                     | 5 dk     |
+| Hipogrif        | In Nox (+ alan büyüsü siler)               | 5 dk     |
+| Pixiu           | Lamb Time (körlük)                         | 5 dk     |
+| T-Rash          | Gate siler (+ Parablow/Stun daha sık)      | 5 dk     |
+| Mysterious Horn | Mysterious Shield (dokunulmazlık)          | \~7,5 dk |
+| Fiura           | Klon + görünmezlik                         | \~7,5 dk |
+| Ferrin          | Absorb the Energy + `.ferrinheal`          | 7,5 dk   |
+| Percheron       | Percheron Healing (+ büyü bağışıklığı)     | 5 dk     |
+| Ordeal          | In Flam Power                              | 5 dk     |
+| Typhaon         | Vas An Ort                                 | 3 dk     |
 
 ### Kendi komutu olan binekler
 
@@ -53,6 +52,7 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 | Glacier Steed                 | Paralyze Field ve ağdan etkilenmez                             |
 | Beetle Wert                   | Düzenli olarak ağ bırakır                                      |
 | Arcane Ostard / Horse / Llama | Warrior'ı zehirden korur                                       |
+| Bloodwing                     | Kan Emme, ölümcül darbe koruması                               |
 | Evil Wolf / Evil Horse        | Vurduğunuz hasardan can çalar                                  |
 
 Ghost Ostard için **Binek Taşı ve Yumurtalar** sayfasına bakın.
@@ -62,7 +62,7 @@ Ghost Ostard için **Binek Taşı ve Yumurtalar** sayfasına bakın.
 * `.binekbonus` her zaman **bindiğiniz** bineğin yeteneğini kullanır.
 * Yeteneklerin çoğu canınız **50'nin altındayken** ve **safe alanda** kullanılamaz.
 * Hedefli yetenekler sadece **oyunculara** atılabilir, kendinize atılamaz. Hedef görüş alanınızda olmalıdır.
-* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed, Silver Steed ve Bloodwing ateş topları, Mana Yakma ve Parçalayan Pençe'den etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
+* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed ve Silver Steed ateş topları, Mana Yakma ve Parçalayan Pençe'den etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
 * **Teleport engeli:** Şu bineklere binen oyuncunun üstüne Teleport büyüsüyle ışınlanılamaz: Armored Steed, Gryphon, Hipogrif, Pixiu, Mysterious Horn, Fiura, Ferrin, Primal Raptor, Percheron, Ordeal, Orn.
 
 ### Bineklerin kendini iyileştirmesi
@@ -112,13 +112,11 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ![Bloodwing](../.gitbook/assets/binek-bloodwing.png)
 
-* **Komut:** `.binekbonus` ya da `.bloodwing`; ölümcül darbe korumasının kalan süresi için `.bwsure`
+* **Komut:** `.bwsure` (ölümcül darbe korumasının kalan süresi). Bloodwing'in `.binekbonus` yeteneği yoktur; iki özelliği de binince kendiliğinden çalışır.
 
-**Kan Emme** (binince, sürekli): Silahla vurduğunuz her vuruşta, rakibin gerçekten kaybettiği canın bir kısmı size can olarak döner. Bloodwing, Evil Wolf ve Evil Horse'tan daha fazla can çalar. Rakip hasarı kalkanla ya da başka bir korumayla azaltırsa kazandığınız can da azalır; engellenen vuruş can vermez. Canınız tam değilken çalışır, ekranın sol altında kazandığınız can yazar.
+**Kan Emme** (binince, sürekli): Silahla vurduğunuz her vuruşta, rakibin gerçekten kaybettiği canın bir kısmı size can olarak döner. Bloodwing, Evil Wolf ve Evil Horse'tan daha fazla can çalar. Rakip hasarı kalkanla ya da başka bir korumayla azaltırsa kazandığınız can da azalır; engellenen vuruş can vermez. Canınız tam değilken çalışır, ekranın sol altında kazandığınız can yazar. **Zehirliyken çalışmaz**; zehir geçince yeniden başlar.
 
 **Ölümcül darbe koruması** (binince, 15 dakikada bir): Sizi öldürecek bir vuruş ya da büyü geldiğinde Bloodwing onu engeller ve sizi hayatta tutar. Sadece gerçekten öldürecek darbede devreye girer; canınız azken gelen küçük vuruşlar ve iyileştirme büyüleri korumayı harcamaz. Koruma kullanıldıktan sonra **15 dakika** bekler. `.bwsure` kalan süreyi gösterir.
-
-**Fireball** (`.binekbonus`, 5 dakikada bir): **11 kare** içindeki bir hedefe ateş topu atar. Hedef 5 dakika tekrar Bloodwing ateş topu yiyemez ve 2 dakika binek bonusu korumasına girer.
 
 ## Armored Steed
 
@@ -376,7 +374,7 @@ Vurduğu oyuncuyu zaman zaman bineğinden düşürür.
 
 * **Nereden:** Özel görev hazinesinin bekçisi öldürülünce çıkar, evcilleştirilir (**Taming (Evcilleştirme)** sayfası).
 
-**Binince:** Canınız tam değilken silahla vurduğunuz her vuruşta, rakibin gerçekten kaybettiği canın bir kısmı kadar **can** kazanırsınız. Engellenen vuruş can vermez. (Bloodwing'in Kan Emme'si daha güçlüdür.)
+**Binince:** Canınız tam değilken silahla vurduğunuz her vuruşta, rakibin gerçekten kaybettiği canın bir kısmı kadar **can** kazanırsınız. Engellenen vuruş can vermez, zehirliyken çalışmaz. (Bloodwing'in Kan Emme'si daha güçlüdür.)
 
 ***
 

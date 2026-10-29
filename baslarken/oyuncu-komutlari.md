@@ -112,7 +112,6 @@ Bazı bineklerin `.binekbonus` yeteneği kendi adıyla da çağrılabilir:
 | Typhaon               | `.typhaon`         |
 | Frozier               | `.frozier`         |
 | Ordeal                | `.ordeal`          |
-| Bloodwing             | `.bloodwing`       |
 | Grayer                | `.kankokusu`       |
 | Simurg                | `.savasborusu`     |
 | Huma                  | `.koruyucuaura`    |
