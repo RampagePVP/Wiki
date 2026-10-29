@@ -1,6 +1,6 @@
 # Eşya Deposu (.depo)
 
-Eşya deposu; scroll, belge, hazine sandığı, set parçası, silah, golem ve binek figürü gibi eşyalarınızı çantanızı ve bankanızı doldurmadan saklamanızı sağlar. Her karakterin kendi deposu vardır.
+Eşya deposu; scroll, belge, hazine sandığı, set parçası, silah, golem ve binek figürü gibi eşyalarınızı çantanızı ve bankanızı doldurmadan saklamanızı sağlar. Her karakterin kendi deposu vardır. **Profiller** ile setinizi, silahınızı ve bineğinizi depodan tek tuşla çekebilirsiniz.
 
 ## Depoyu açmak
 
@@ -22,9 +22,9 @@ Tekrar açmak için `.depo` yazmanız yeterlidir.
 
 | Bölge | İçerik                                                                                                                                                      |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sol   | Kategoriler; taşıdığınız ağırlık; ayrı saklanan özel eşya sayınız (en fazla 300); depodaki binek sayınız (en fazla 1000)                                    |
+| Sol   | Kategoriler; **Profiller** butonu; taşıdığınız ağırlık; ayrı saklanan özel eşya sayınız (en fazla 300); depodaki binek sayınız (en fazla 1000)              |
 | Sağ   | Seçili kategorideki eşyalar: resim, ad, **Depoda** ve **Çanta+Banka** sayıları, **Yatır** / **Çek** butonları. Sayfa başına 8 satır, sağ üstte sayfa okları |
-| Alt   | Çekilecek miktar kutusu, **Hedefleyerek Yatır**, **Bu Kategoriyi Yatır**, **Hepsini Yatır**, **Kapat**                                                      |
+| Alt   | Çekilecek miktar kutusu, **Hedefleyerek Yatır**, **Bu Kategoriyi Yatır**, **Hepsini Yatır**, **Kapat**; en altta her sayfada **Profil Çek** satırı          |
 
 Kategoride depoda da çantada da olmayan türler gri yazılır.
 
@@ -109,12 +109,45 @@ Animal Deed ile küçültülmüş binek figürlerinizi bu bölümde saklayabilir
 Çantanızda 3'ten fazla figür varken binek ya da golem çıkaramazsınız. Figür çektikten sonra fazlasını depoya ya da bankaya koyun.
 {% endhint %}
 
+## Profiller
+
+Profil, depodan tek tuşla çekeceğiniz kayıtlı bir eşya listesidir: örneğin bir set, bir silah, birkaç potion ve bir binek. Öldükten sonra safe alana gelip `.depo` yazın, en alttaki **Profil Çek** satırından profilinize basın; eşyalarınız ve bineğiniz çantanıza gelir.
+
+Her karakterin **3 profili** vardır.
+
+### Profil kurmak
+
+1. Soldaki **Profiller** butonuna basın, üstten profili seçin (Profil 1, 2 ya da 3).
+2. **Eşya Ekle**'ye basın. Kategorilerdeki satırlarda **Yatır** / **Çek** yerine **Ekle** çıkar.
+3. Eklemek istediğiniz satırdaki **Ekle**'ye basın:
+   * Set parçası, silah, potion, scroll gibi eşyalarda alttaki kutuya yazdığınız sayı **adet** olarak eklenir. Aynı eşyayı tekrar eklerseniz adedi güncellenir.
+   * Sarı satırdaki özel (upgrade/absorb'lu) eşyalarda eşyanın **kendisi** eklenir.
+   * Binek için **Binekler** bölümünde türü **Aç**ın ve bineğin satırındaki **Ekle**'ye basın. Her profilde bir binek olur; yeni eklediğiniz eskisinin yerine geçer.
+4. Bitince alttaki **Eklemeyi Bitir**'e basın.
+
+Profil sayfasında her satırın profildeki adedi ve depodaki durumu görünür (**Yok** = depoda kalmamış). **Sil** satırı profilden çıkarır; **Profili Temizle** (5 saniye içinde iki kez basın) bütün profili siler. Depodaki eşyalarınız bunlardan etkilenmez. Bir profilde en fazla 20 satır olabilir.
+
+### Profil çekmek
+
+Menünün en altındaki **Profil Çek** satırı her sayfada görünür; parantezde profildeki satır sayısı yazar.
+
+* Eşyalar ve binek figürü **çantanıza** gelir. Eşyaları kendiniz giyersiniz, bineği figüre çift tıklayarak çıkarırsınız.
+* Üzerinizde ya da çantanızda zaten olan kadarı verilmez. Örneğin profilde 10 potion varsa ve çantanızda 4 tane duruyorsa 6 tane verilir. Aynı türden figür çantanızdaysa ya da o bineğe biniyorsanız binek verilmez.
+* Eklediğiniz binek figürü depoda yoksa (çıkarıp kullandıysanız) depodaki aynı türden **en yüksek STR'li** figür verilir.
+* Depoda kalmamış eşyalar "Depoda yok" diye yazılır, diğerleri yine verilir.
+* Çantanızda yer yoksa ya da ağırlık taşıma sınırınızı aşıyorsa **hiçbir şey verilmez**; önce çantanızda yer açın.
+
+{% hint style="info" %}
+Profil sadece bir listedir; eşyaları depodan çeker. Profildeki eşyaların depoda bulunması gerekir. Depodaki adetleri profil sayfasında görebilirsiniz.
+{% endhint %}
+
 ## Bekleme süreleri
 
 | İşlem                           | Bekleme                                   |
 | ------------------------------- | ----------------------------------------- |
 | İki yatırma işlemi arası        | 0,4 saniye                                |
 | İki çekme işlemi arası          | 3 saniye                                  |
+| Profil Çek                      | 3 saniye (çekme ile aynı)                 |
 | Kategori ya da sayfa değiştirme | 1 saniye ("Bu kadar hızlı yapamazsınız.") |
 | `.depo` komutu                  | 1 saniye                                  |
 
