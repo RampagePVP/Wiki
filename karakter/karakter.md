@@ -103,7 +103,6 @@ Oyunda geçirdiğiniz her dakika hesabınıza **1 Online Kredi** ekler ("Kredi P
 
 | Ödül                                           | Kredi |
 | ---------------------------------------------- | ----- |
-| 1 Random Egg                                   | 400   |
 | 150 adet Str Deed Belgesi (çanta içinde)       | 600   |
 | 5 Extremely Ingot (çanta içinde)               | 900   |
 | Ender Hazine Haritası                          | 1.000 |

@@ -1,6 +1,6 @@
 # Binek Taşı ve Yumurtalar
 
-Bu sayfada binek satın alınan ya da kazanılan yerler anlatılıyor: gold ile binek satan **Binek Taşı**, **yumurtalar**, **Ruh Belgesi** ile Percheron, **Ghost Ostard** ve binek açık arttırması.
+Bu sayfada binek satın alınan ya da kazanılan yerler anlatılıyor: gold ile binek satan **Binek Taşı**, **yumurtalar**, fazla binekleri Random Egg'e çeviren **Binek Eritme Taşı**, **Ruh Belgesi** ile Percheron, **Ghost Ostard** ve binek açık arttırması.
 
 ## Binek Taşı (gold ile)
 
@@ -37,7 +37,7 @@ Bütün binek yumurtaları **çantanızda** ve **safe alanda** açılır. Yumurt
 
 Random Egg'den nadiren **market binekleri** de çıkabilir.
 
-**Nereden:** CTF ve birçok etkinliğin ödülü, haftalık taming birinciliği, boss'lar ve dungeon ödülleri.
+**Nereden:** Satın almanın tek yolu **Binek Eritme Taşı**'dır (aşağıda). Ayrıca CTF ve birçok etkinliğin ödülü, haftalık taming birinciliği, boss'lar ve dungeon ödülleri.
 
 ### Diğer yumurtalar
 
@@ -47,6 +47,35 @@ Random Egg'den nadiren **market binekleri** de çıkabilir.
 | **Special Egg** ("Ender Eşya", Olgun Ostard Egg adıyla) | Frenzied Ostard ya da Mid Ostard                                    | Etkinlik ödülleri, hazineler |
 | **Soul Egg**                                            | Indra ya da Numa                                                    | Kar etkinliği ödülleri       |
 | **Mother Ostard Egg**                                   | Nightmare                                                           | Yeni Yıl etkinliği ödülü     |
+
+## Binek Eritme Taşı
+
+Kullanmadığınız binek figürlerini safe alandaki **Binek Eritme Taşı**'nda eritip **Binek Bileti** alırsınız, biletlerle de **Random Egg** satın alırsınız.
+
+### Eritme
+
+* Taşa safe alanda çift tıklayın. Menüde çantanızdaki, bankanızdaki ve eşya deponuzdaki binek figürleri tür tür listelenir. Depodaki figürleri çekmenize gerek yoktur.
+* Sadece **Animal Deed ile küçültülmüş** figürler eritilebilir.
+* Her binek türünün bir bilet değeri vardır; değerli binekler daha çok bilet verir. Değerleri menüdeki **Bilet Değerleri** butonundan görebilirsiniz.
+* **Erit** o türün fazla figürlerini, **Tüm Fazlaları Erit** bütün türlerin fazlasını eritir. **Hedefleyerek Erit** ile tek bir figürü seçip eritirsiniz.
+* Her işlemden önce onay penceresi çıkar: kaç figürün eriyeceğini ve kaç bilet alacağınızı gösterir.
+
+### Erimeyen figürler
+
+* **3000 STR ya da 1750 DEX** ve üstü figürler korunur, hiçbir şekilde erimez.
+* Erit ve Tüm Fazlaları Erit her türden en az bir figür bırakır. O türden korunan figürünüz yoksa en iyi figürünüz saklanır.
+* Süreli figürler ve eşya deposunda **Profiller**'e eklenmiş figürler erimez.
+* Sıradan at, lama ve ostard'lar, golemler, guild, görev ve kurban binekleri eritilemez.
+
+{% hint style="warning" %}
+Eritilen figür geri gelmez. Hedefleyerek Erit, seçtiğiniz figür o türden son figürünüz olsa bile onu eritir.
+{% endhint %}
+
+### Random Egg almak
+
+* Menüdeki **Bilet Mağazası**'ndan 5'li ya da 10'lu Random Egg paketi alınır. Fiyatlar menüde yazar; 10'lu paket biraz daha ucuzdur.
+* Bir hesap günde en fazla **20 Random Egg** alabilir.
+* Binek Bileti normal bir eşyadır; başka oyunculara verebilir, takas edebilirsiniz.
 
 ## Ruh Belgesi ve Percheron
 

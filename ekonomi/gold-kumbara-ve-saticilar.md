@@ -147,7 +147,6 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | Ürün                          | Bedel           |
 | ----------------------------- | --------------- |
 | 1 adet +24 silah çantası      | 5 Magic Ingot   |
-| 5 Random Egg                  | 10 Magic Ingot  |
 | 500 Binek Res Scroll          | 20 Magic Ingot  |
 | 5.000.000 gold'luk banka çeki | 35 Magic Log    |
 | Ender Hazine                  | 75 Magic Log    |
@@ -195,7 +194,6 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 
 | Ödül                             | Hediye bileti |
 | -------------------------------- | ------------- |
-| 1 Random Egg                     | 500           |
 | 50 Dragon Blood                  | 750           |
 | 5.000.000 gold'luk banka çeki    | 1.500         |
 | 20 Değerli Hazine                | 2.500         |
