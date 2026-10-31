@@ -13,7 +13,7 @@ Menüyü açtığınızda kendi sıranız da güncellenir. Sıranız görünmüy
 | Sekme                 | Neye göre sıralanır        | Sıfırlanma          | Birinciye ödül |
 | --------------------- | -------------------------- | ------------------- | -------------- |
 | Oyuncu Sıralaması     | Haftalık PvP puanı         | Her Pazar 23:30     | Var            |
-| Guild Sıralaması      | Guildin aylık puanı        | —                   | —              |
+| Guild Sıralaması      | Guildin aylık puanı        | Her ayın 1'i 00:00  | Var            |
 | Duello Sıralaması     | Düello puanı               | Sıfırlanmaz         | —              |
 | Taming Sıralaması     | Haftalık taming puanı      | Her Pazartesi 11:10 | Var            |
 | Etkinlik Sıralaması   | Etkinlik puanı             | Sıfırlanmaz         | —              |
@@ -74,6 +74,11 @@ Genel puan PvP öldürmelerinin yanında Köprü Savaşı'nda öldürdüğünüz
 ## Guild Sıralaması
 
 Sütunlar: Guild, Üye Sayısı, **Aylık P.**, **Genel P.** Sıralama aylık puana göre yapılır. Guild puanının nasıl kazanıldığı **Guild** sayfasında anlatılıyor.
+
+* Aylık puan her ayın **1'inde saat 00:00**'da sıfırlanır; genel puan sıfırlanmaz.
+* Sıfırlamada aylık puanı en yüksek guildin her üyesinin (master dahil, adaylar hariç) hesabına **100 RTL** eklenir ve bütün sunucuya duyurulur. Oyunda olmayan üyeler de alır; oyuna girince bildirilir.
+* Bir hesap ödülü ayda bir kez alır. Aynı bilgisayardaki hesaplardan yalnızca biri alır.
+* Birincilikte eşitlik olursa eşit puanlı bütün guildler ödül alır.
 
 ## Duello Sıralaması
 

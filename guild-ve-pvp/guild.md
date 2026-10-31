@@ -153,7 +153,7 @@ Guild puanı (menüde "Savaş Puanı") guildin PvP başarısını gösterir.
 
 * Bir guild üyesi, **başka bir guildin** üyesini öldürünce guildi **+1 puan** kazanır (öldürmenin puan sayılma şartları için **Sıralamalar** sayfasındaki "PvP öldürme puanı" bölümüne bakın).
 * Britain Mezarı'nı ele geçiren guild +1 puan kazanır (**Guild Savaşları** sayfası).
-* Guildin bir "genel" bir de "aylık" puanı vardır. Guild sıralaması aylık puana göre yapılır (**Sıralamalar** sayfası).
+* Guildin bir "genel" bir de "aylık" puanı vardır. Guild sıralaması aylık puana göre yapılır. Aylık puan her ayın 1'inde sıfırlanır ve birinci guildin üyeleri ödül alır (**Sıralamalar** sayfası).
 
 ## Guild komutları
 
