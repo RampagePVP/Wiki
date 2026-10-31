@@ -2,6 +2,10 @@
 
 Köprü Savaşı, oyuncuların iki takıma ayrılıp kendi eşyalarıyla binek üstünde savaştığı bir etkinliktir. GM'ler açar. Diğer takım etkinliği olan bayrak kapma için **CTF** sayfasına bakın.
 
+{% hint style="info" %}
+Oyuncuların kendi aralarında kurduğu takımlı savaş için **Takım Savaşı** sayfasına (Guild ve PvP bölümü) bakın.
+{% endhint %}
+
 ## Kurallar
 
 * Safe alandaki etkinlik gate'ine çift tıklarsınız. Takımınızı sistem seçer; takımlar sayıca dengede tutulur.

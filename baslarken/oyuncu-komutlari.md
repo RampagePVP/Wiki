@@ -128,6 +128,10 @@ Bineklerin yetenekleri ve bekleme süreleri **Özel Binekler** sayfasında anlat
 | `.guilddencik`, `.guildcik`, `.guildayril`, `.guilddenayril` | Guildden ayrılma (onay ister; guild pelerini, Order/Chaos kalkanı ve guild bayrağı çantaya iner) |
 | `.aile`                                                      | Aile menüsü                                                                                      |
 | `.ac <mesaj>`                                                | Aile sohbeti                                                                                     |
+| `.koyodul`                                                   | Köy üyeleri: köyün içinde günlük köy ödülünü alır (**Köyler** sayfası)                           |
+| `.kafesler`                                                  | Köy üyeleri: köyünüzdeki kafesli binekleri ve sahipsiz kalmalarına kalan süreyi listeler         |
+| `.kafesle`                                                   | Köy üyeleri: köyünüzde kafessiz duran yabancı bir bineği kafesler                                |
+| `.kafesac`                                                   | Köyün guildmaster'ı: seçtiğiniz bineğin kafesini açar                                            |
 
 ## Ev ve ticaret
 
@@ -140,12 +144,13 @@ Bineklerin yetenekleri ve bekleme süreleri **Özel Binekler** sayfasında anlat
 
 ## Görev ve etkinlik
 
-| Komut              | Açıklama                                                                       |
-| ------------------ | ------------------------------------------------------------------------------ |
-| `.gorev`, `.quest` | Aktif görevinizin hedefini ve ilerlemesini gösterir                            |
-| `.kumar`           | Kumar oynamaya başlar / bırakır (bankanızdaki kumbarada en az 100 gold olmalı) |
-| `.bahis`           | Safe alanda başka bir oyuncuyla bahisli kumar                                  |
-| `.kaziyap`         | Maden etkinliğinde kazı yapar / bırakır (elinizde Rampage kazması olmalı)      |
+| Komut              | Açıklama                                                                               |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| `.gorev`, `.quest` | Aktif görevinizin hedefini ve ilerlemesini gösterir                                    |
+| `.kumar`           | Kumar oynamaya başlar / bırakır (bankanızdaki kumbarada en az 100 gold olmalı)         |
+| `.bahis`           | Safe alanda başka bir oyuncuyla bahisli kumar                                          |
+| `.kaziyap`         | Maden etkinliğinde kazı yapar / bırakır (elinizde Rampage kazması olmalı)              |
+| `.tsavas`          | Takım Savaşı'nda seçim menüsünü ya da skor penceresini açar (**Takım Savaşı** sayfası) |
 
 ## Konuşarak çalışan komutlar
 

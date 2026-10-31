@@ -34,6 +34,8 @@
   * [Sıralamalar](guild-ve-pvp/siralamalar.md)
   * [Düello](guild-ve-pvp/duello.md)
   * [PvP Alanları](guild-ve-pvp/pvp-alanlari.md)
+  * [Takım Savaşı](guild-ve-pvp/takim-savasi.md)
+  * [Köyler](guild-ve-pvp/koyler.md)
 * [Etkinlikler](etkinlikler/README.md)
   * [Etkinlik Takvimi](etkinlikler/etkinlik-takvimi.md)
   * [PvP Turnuvası](etkinlikler/pvp-turnuvasi.md)

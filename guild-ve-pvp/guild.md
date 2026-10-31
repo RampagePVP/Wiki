@@ -49,7 +49,7 @@ Menünün üst kısmında guild başkanı, destek yönü, **kudret seviyesi** (i
 | Kısa ismi değiştir      | 2-5 karakter                                                                              |
 | Destek yönünü değiştir  | Tarafsız, Order ya da Chaos. **4 saatte bir** değiştirilebilir, bütün sunucuya duyurulur. |
 | Guild devret            | Hedeflediğiniz guild üyesi yeni guildmaster olur                                          |
-| Guildi Yık              | Onay ister, geri alınamaz. Bütün sunucuya duyurulur.                                      |
+| Guildi Yık              | Onay ister, geri alınamaz. Bütün sunucuya duyurulur. Köyü olan guild yıkılamaz.           |
 | Haber ekle              | Haberler sayfasındaki yazıyı değiştirir                                                   |
 | Guild nick rengi seç    | Aşağıdaki "Guild nick rengi" bölümüne bakın                                               |
 
@@ -154,6 +154,10 @@ Guild puanı (menüde "Savaş Puanı") guildin PvP başarısını gösterir.
 * Bir guild üyesi, **başka bir guildin** üyesini öldürünce guildi **+1 puan** kazanır (öldürmenin puan sayılma şartları için **Sıralamalar** sayfasındaki "PvP öldürme puanı" bölümüne bakın).
 * Britain Mezarı'nı ele geçiren guild +1 puan kazanır (**Guild Savaşları** sayfası).
 * Guildin bir "genel" bir de "aylık" puanı vardır. Guild sıralaması aylık puana göre yapılır. Aylık puan her ayın 1'inde sıfırlanır ve birinci guildin üyeleri ödül alır (**Sıralamalar** sayfası).
+
+## Köy
+
+Guildler staff aracılığıyla bir köy kiralayabilir. Köyü olan guildin üyeleri köyün içinde günlük köy ödülü, Dilek Taşı ve Köy Bineği gibi haklardan yararlanır. Ayrıntılar için **Köyler** sayfasına bakın.
 
 ## Guild komutları
 
