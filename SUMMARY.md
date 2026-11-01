@@ -6,6 +6,7 @@
   * [Oyuncu Komutları](baslarken/oyuncu-komutlari.md)
   * [Kurallar ve Cezalar](baslarken/kurallar-ve-cezalar.md)
   * [Safe Alan Taşları ve Diğer Eşyalar](baslarken/safe-alan-taslari-ve-diger-esyalar.md)
+  * [Sesli Sohbet KVKK Aydınlatma Metni](baslarken/sesli-sohbet-kvkk-aydinlatma-metni.md)
 * [Karakter](karakter/README.md)
   * [Sınıflar ve Statlar](karakter/siniflar-ve-statlar.md)
   * [Karakter](karakter/karakter.md)
