@@ -50,7 +50,7 @@ Ghost Ostard'ı tam güce ulaşmış bir oyuncunun bineği öldürülürse, Ghos
 
 ## Dark Blood Monk
 
-Dungeonlarda en sık karşılaşılan boss türü yaratıktır ve set belgelerinin ana kaynağıdır. Bütün ganimet listesi **Raid ve Set Elde Etme** sayfasında.
+Dungeonlarda en sık karşılaşılan boss türü yaratıktır ve set belgelerinin ana kaynağıdır. Bütün ganimet listesi **Raid ve Set Elde Etme** sayfasında. Onu kendiniz öldürürseniz ara sıra çantanıza zanaat trofe malzemesi **Kara Kan** gelir (**Zanaat (Craft)** sayfası).
 
 ## Daemon of Might
 
@@ -58,7 +58,7 @@ Dungeonlarda en sık karşılaşılan boss türü yaratıktır ve set belgelerin
 * Çok dayanıklıdır; Explosion atar. Tıklayınca "\[Loot: Guild Kudret]" yazar.
 * Öldüren oyuncunun guildine diğer yaratıklardan çok daha fazla **guild kudret puanı** kazandırır. Öldüren oyuncu ayrıca fame kazanır.
 
-**Ganimet:** 25k gold çeki ve Belirsiz Sandık.
+**Ganimet:** 25k gold çeki ve Belirsiz Sandık. Öldüren oyuncunun çantasına ayrıca bol miktarda **Lanetli Kemik** ve 1 **Daemon Kemiği** gelir (**Zanaat (Craft)** sayfası).
 
 ## Hazine Ejderhası
 

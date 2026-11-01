@@ -60,3 +60,4 @@
   * [Eşya Deposu (.depo)](ekonomi/esya-deposu-.depo.md)
   * [Hazine](ekonomi/hazine.md)
   * [Kumar ve Bahis](ekonomi/kumar-ve-bahis.md)
+  * [Zanaat (Craft)](ekonomi/zanaat-craft.md)

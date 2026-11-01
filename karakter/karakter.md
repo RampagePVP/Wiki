@@ -83,7 +83,7 @@ Kelleniz sallandırılırsa şöhret puanınız (5'ten fazlaysa) 2-4 azalır.
 
 ## Honor Point
 
-Honor Point puan sayılan her PvP öldürmesinde 5 adet olarak çantanıza gelir (guild istilası gibi bazı etkinlikler de verir). Safe alandaki **Honor Point Stone**'da harcanır:
+Honor Point puan sayılan her PvP öldürmesinde 5 adet olarak çantanıza gelir (guild istilası gibi bazı etkinlikler de verir). Zanaat Tezgahı'nda malzeme olarak da kullanılır (**Zanaat (Craft)** sayfası). Safe alandaki **Honor Point Stone**'da harcanır:
 
 | Eşya                | Fiyat           |
 | ------------------- | --------------- |

@@ -30,20 +30,20 @@ Kategoride depoda da çantada da olmayan türler gri yazılır.
 
 ## Kategoriler
 
-| Kategori             | İçindekiler                                                                                                                                                                                 |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scrolllar            | Upgrade Scroll (+18, +21, +24), Helm Absorb (Dismount, Parablow, Bleed), Mage Scroll (Arch, Corruptor, Felheart), Holy Scroll, Binek Res Scroll, Repair Scroll                              |
-| Belgeler             | Devil, Dragon, Gold, Diablo ve Ranger Set Deed; Binek Armor, Stat Full, Str, Dex ve Animal Deed; Deed of Storm                                                                              |
-| Kutu ve Çantalar     | Belirsiz Sandık, Değerli Hazine Sandığı, Ender Hazine, Silah Çantası (+18, +21, +24), Extremely Box, Puzzle Parça Çantası, Random Egg                                                       |
-| Potionlar            | Event Potion (Parablow, Bleed, Dismount)                                                                                                                                                    |
-| Malzemeler           | Magic Log, Magic Ingot, Ghost Ingot, Dragon Blood, Maden Ingotu, Çimento, Honor Point, Hediye Bileti, Silver Coin, Rampage Balığı, Solo Dungeon Key, Party Statue ve bazı etkinlik eşyaları |
-| Warrior Setleri      | Godness, Dragon, Diablo ve Blackrock set parçaları ve kalkanları                                                                                                                            |
-| Warlock/Mage Setleri | Ranger, Devil, Gold ve Dragonic set parçaları                                                                                                                                               |
-| Helm ve Kalkanlar    | Armorer Helm (Orc ve Bone), Ice Shield, Mage Shield                                                                                                                                         |
-| Silahlar             | Bütün +24 (Damned) silahlar                                                                                                                                                                 |
-| Robeler ve Diğer     | High Mage Robe, Perfect Robe, Notum Robe, Holy Robe                                                                                                                                         |
-| Golemler             | Advanced Golem ve Tinker Golem figürleri, küçültülmüş golemler                                                                                                                              |
-| Binekler             | Küçültülmüş binek figürleri                                                                                                                                                                 |
+| Kategori             | İçindekiler                                                                                                                                                                                                                                                          |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scrolllar            | Upgrade Scroll (+18, +21, +24), Helm Absorb (Dismount, Parablow, Bleed), Mage Scroll (Arch, Corruptor, Felheart), Holy Scroll, Binek Res Scroll, Repair Scroll                                                                                                       |
+| Belgeler             | Devil, Dragon, Gold, Diablo ve Ranger Set Deed; Binek Armor, Stat Full, Str, Dex ve Animal Deed; Deed of Storm                                                                                                                                                       |
+| Kutu ve Çantalar     | Belirsiz Sandık, Değerli Hazine Sandığı, Ender Hazine, Silah Çantası (+18, +21, +24), Extremely Box, Puzzle Parça Çantası, Random Egg                                                                                                                                |
+| Potionlar            | Event Potion (Parablow, Bleed, Dismount)                                                                                                                                                                                                                             |
+| Malzemeler           | Magic Log, Magic Ingot, Ghost Ingot, Dragon Blood, Maden Ingotu, Çimento, Honor Point, Hediye Bileti, Silver Coin, Rampage Balığı, Solo Dungeon Key, Party Statue, zanaat malzemeleri (Lanetli Kemik, Daemon Kemiği, Wyrm Kalbi, Kara Kan) ve bazı etkinlik eşyaları |
+| Warrior Setleri      | Godness, Dragon, Diablo ve Blackrock set parçaları ve kalkanları                                                                                                                                                                                                     |
+| Warlock/Mage Setleri | Ranger, Devil, Gold ve Dragonic set parçaları                                                                                                                                                                                                                        |
+| Helm ve Kalkanlar    | Armorer Helm (Orc ve Bone), Shadow Hood, Ice Shield, Mage Shield                                                                                                                                                                                                     |
+| Silahlar             | Bütün +24 (Damned) silahlar                                                                                                                                                                                                                                          |
+| Robeler ve Diğer     | High Mage Robe, Perfect Robe, Notum Robe, Holy Robe                                                                                                                                                                                                                  |
+| Golemler             | Advanced Golem ve Tinker Golem figürleri, küçültülmüş golemler                                                                                                                                                                                                       |
+| Binekler             | Küçültülmüş binek figürleri                                                                                                                                                                                                                                          |
 
 Sadece depo menüsünde listelenen eşyalar depoya konabilir.
 
@@ -54,7 +54,7 @@ Sadece depo menüsünde listelenen eşyalar depoya konabilir.
 **Zırh, silah ve robeler:**
 
 * **Değişmemiş** (yeni çıktığı haliyle aynı) zırh, silah ve robeler de sayılarak saklanır. Depodan **orijinal renginde** çıkar; üzerindeki boya kaybolur.
-* **Özel** eşyalar (upgrade/absorb'lu, zehirli, şarjı kullanılmış, adı değiştirilmiş, tamirle en yüksek dayanıklılığı düşmüş) **olduğu gibi** saklanır ve aynen geri gelir. Menüde kendi türünün altında **sarı** satırda, dayanıklılığıyla görünür. Depoda en fazla **300** özel eşya olabilir.
+* **Özel** eşyalar (upgrade/absorb'lu, zehirli, şarjı kullanılmış, adı değiştirilmiş, tamirle en yüksek dayanıklılığı düşmüş, zanaatta üretilmiş ve imzalı) **olduğu gibi** saklanır ve aynen geri gelir. Menüde kendi türünün altında **sarı** satırda, dayanıklılığıyla görünür. Depoda en fazla **300** özel eşya olabilir.
 * Depodan çekilen +24 silahlar tam dayanıklılıkla gelir.
 
 **Küçültülmüş golemler ve binek figürleri** statları, armoru, adı ve geliştirmesiyle olduğu gibi saklanır.

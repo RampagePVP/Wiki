@@ -1,6 +1,6 @@
 # Balık ve Maden
 
-Safe alanın hemen yanındaki Soria (balık) ve Moria (maden) bölgeleri her zaman açıktır. Burada vakit geçirerek kumbaranıza gold ve ödüllerle değiştirebileceğiniz balık / maden ingotu toplarsınız.
+Safe alanın hemen yanındaki Soria (balık) ve Moria (maden) bölgeleri her zaman açıktır. Burada vakit geçirerek kumbaranıza gold ve ödüllerle değiştirebileceğiniz balık / maden ingotu toplarsınız. Balık ve maden ingotu ayrıca safe alandaki Zanaat Tezgahı'nda malzeme olarak kullanılır (**Zanaat (Craft)** sayfası).
 
 ## Ortak kurallar
 
