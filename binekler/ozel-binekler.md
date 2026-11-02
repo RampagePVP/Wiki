@@ -10,24 +10,24 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 
 ### `.binekbonus` yeteneği olan binekler
 
-| Binek           | Yetenek                                    | Bekleme  |
-| --------------- | ------------------------------------------ | -------- |
-| Simurg          | Savaş Borusu                               | 5 dk     |
-| Huma            | Koruyucu Aura                              | 5 dk     |
-| Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)         | 5 dk     |
-| Lamassu         | Mana Yakma                                 | 5 dk     |
-| Armored Steed   | Armor Ignore (+ PvP koruması)              | 5 dk     |
-| Grayer          | Kan Kokusu (+ attan düşmez, poison tutmaz) | 5 dk     |
-| Gryphon         | In Nox                                     | 5 dk     |
-| Hipogrif        | In Nox (+ alan büyüsü siler)               | 5 dk     |
-| Pixiu           | Lamb Time (körlük)                         | 5 dk     |
-| T-Rash          | Gate siler (+ Parablow/Stun daha sık)      | 5 dk     |
-| Mysterious Horn | Mysterious Shield (dokunulmazlık)          | \~7,5 dk |
-| Fiura           | Klon + görünmezlik                         | \~7,5 dk |
-| Ferrin          | Absorb the Energy + `.ferrinheal`          | 7,5 dk   |
-| Percheron       | Percheron Healing (+ büyü bağışıklığı)     | 5 dk     |
-| Ordeal          | In Flam Power                              | 5 dk     |
-| Typhaon         | Vas An Ort                                 | 3 dk     |
+| Binek           | Yetenek                                | Bekleme  |
+| --------------- | -------------------------------------- | -------- |
+| Simurg          | Savaş Borusu                           | 5 dk     |
+| Huma            | Koruyucu Aura                          | 5 dk     |
+| Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)     | 5 dk     |
+| Lamassu         | Mana Yakma                             | 5 dk     |
+| Armored Steed   | Armor Ignore (+ PvP koruması)          | 5 dk     |
+| Grayer          | Kan Kokusu (+ attan düşmez)            | 5 dk     |
+| Gryphon         | In Nox                                 | 5 dk     |
+| Hipogrif        | In Nox (+ alan büyüsü siler)           | 5 dk     |
+| Pixiu           | Lamb Time (körlük)                     | 5 dk     |
+| T-Rash          | Gate siler (+ Parablow/Stun daha sık)  | 5 dk     |
+| Mysterious Horn | Mysterious Shield (dokunulmazlık)      | \~7,5 dk |
+| Fiura           | Klon + görünmezlik                     | \~7,5 dk |
+| Ferrin          | Absorb the Energy + `.ferrinheal`      | 7,5 dk   |
+| Percheron       | Percheron Healing (+ büyü bağışıklığı) | 5 dk     |
+| Ordeal          | In Flam Power                          | 5 dk     |
+| Typhaon         | Vas An Ort                             | 3 dk     |
 
 ### Kendi komutu olan binekler
 
@@ -69,7 +69,7 @@ Ghost Ostard için **Binek Taşı ve Yumurtalar** sayfasına bakın.
 
 Birçok binek (Bloodwing, Armored Steed, Grayer, Gryphon, Hipogrif, Pixiu, T-Rash, Mysterious Horn, Fiura, Ferrin, Percheron, Ordeal, Fire Steed, Silver Steed, Silvercorn, Numa, Indra, Evil Wolf, Evil Horse) savaşırken canı çok azalınca kendini bir miktar iyileştirir ve üzerindeki zehri temizler. Bu, bir bineğin ömrü boyunca **en fazla 3 kez** olur (figüre çevirmek hakkı sıfırlamaz).
 
-Grayer ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 3 hakkı harcamaz.
+Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 3 hakkı harcamaz.
 
 ***
 
@@ -118,6 +118,8 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 **Ölümcül darbe koruması** (binince, 15 dakikada bir): Sizi öldürecek bir vuruş ya da büyü geldiğinde Bloodwing onu engeller ve sizi hayatta tutar. Sadece gerçekten öldürecek darbede devreye girer; canınız azken gelen küçük vuruşlar ve iyileştirme büyüleri korumayı harcamaz. Koruma kullanıldıktan sonra **15 dakika** bekler. `.bwsure` kalan süreyi gösterir.
 
+**Bloodwing'in kendisi** Poison büyüsünden etkilenmez, vuruş yediğinde zehri hep temizler. Vuruşlarında ek hasar verir.
+
 ## Armored Steed
 
 ![Armored Steed](../.gitbook/assets/binek-armored-steed.png)
@@ -138,12 +140,11 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 **Binince:**
 
 * **Attan düşmezsiniz:** Dismount bonusu, ok bonusu, Earth Bow ve binek vuruşları sizi bineğinizden düşüremez.
-* **Poison tutmaz:** Poison büyüsü ve Poison Field size işlemez, üstünüzdeki zehir temizlenir.
 * **Bleeding bonusu daha sık** çıkar.
 
 **Kan Kokusu** (5 dakikada bir): **10 kare** içindeki oyuncuların kokusunu alır. Gizlenmiş (hiding), invisibility, Ma'at ve Fiura görünmezliğindeki oyuncular açığa çıkar ve **15 saniye** boyunca tekrar gizlenemez. Aynı guild üyeleri, safe alandakiler ve ölüler etkilenmez. Etki alanında kimse yoksa 5 dakikalık bekleme başlamaz (10 saniye bekler). Hasar vermez, binek bonusu korumasına bakmaz.
 
-**Grayer'in kendisi** Poison büyüsünden etkilenmez.
+**Grayer'in kendisi** Poison büyüsünden etkilenmez, vuruş yediğinde zehri hep temizler. Binicisini zehirden korumaz. Vuruşlarında ek hasar verir, rakibi kanatır.
 
 ## Gryphon
 
