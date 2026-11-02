@@ -1,6 +1,6 @@
 # Zanaat (Craft)
 
-Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi ve sarf eşyası üretebilirsiniz. Shadow Hood ve Kasa dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
+Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi, gala kıyafeti ve sarf eşyası üretebilirsiniz. Shadow Hood ve Kasa dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
 
 ## Zanaat Tezgahı
 
@@ -9,7 +9,7 @@ Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki *
 
 | Bölge | İçerik                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------- |
-| Sol   | Kategoriler (Zırh, Dekor, Trofe, Kozmetik, Sarf); çantanızdaki malzemeler; kumbaranızdaki gold                |
+| Sol   | Kategoriler (Zırh, Dekor, Trofe, Kozmetik, Sarf, Gala); çantanızdaki malzemeler; kumbaranızdaki gold          |
 | Sağ   | Seçili kategorinin tarifleri: ürünün resmi, adı, kısa açıklaması, gereken malzemeler ve gold, **Üret** butonu |
 
 Yeten malzeme ve gold **yeşil**, eksik olan **kırmızı** yazar.
@@ -26,7 +26,7 @@ Yeten malzeme ve gold **yeşil**, eksik olan **kırmızı** yazar.
 
 ### İmza ve Kusursuz ürünler
 
-* Kask, dekor, trofe ve kozmetik ürünlere üreten oyuncunun adı yazılır. Ürüne tıklayınca **"Yapan: isim"** görünür.
+* Kask, dekor, trofe, kozmetik ve gala ürünlerine üreten oyuncunun adı yazılır. Ürüne tıklayınca **"Yapan: isim"** görünür.
 * Bu ürünler **%5** ihtimalle **Kusursuz** çıkar: özel renkte olur, adının başında "Kusursuz" yazar ve bütün sunucuya duyurulur. Kusursuz ürünün gücü normal ürünle aynıdır, sadece görünüşü farklıdır.
 * Sarf ürünleri (Repair Scroll, Binek Res Scroll, Havai Fişek) imzasızdır ve Kusursuz çıkmaz.
 
@@ -113,3 +113,18 @@ Kemik ve trofe malzemesi yaratığı **sizin** öldürmenize bağlıdır. Petini
 **Havai Fişek:** Çantanızdayken safe alanda çift tıklayın. Üstünüzde arka arkaya 3 dalga renkli parıltı ve ses çıkar. Her kullanımda 1 adet gider; iki fişek arasında 10 saniye beklenir.
 
 Repair Scroll'un kullanımı **Safe Alan Taşları ve Diğer Eşyalar**, Binek Res Scroll'unki **Binekler: Genel Bilgiler** sayfasında anlatılmıştır.
+
+### Gala
+
+| Ürün             | Malzeme                                          | Gold      |
+| ---------------- | ------------------------------------------------ | --------- |
+| Silindir Şapka   | 15 Maden Ingotu, 15.000 Balık, 75 Lanetli Kemik  | 750.000   |
+| Smokin Ceketi    | 25 Maden Ingotu, 25.000 Balık, 125 Lanetli Kemik | 1.250.000 |
+| Smokin Pantolonu | 20 Maden Ingotu, 20.000 Balık, 100 Lanetli Kemik | 1.000.000 |
+
+Üç parça birlikte bir **smokin takımı**dır:
+
+* Zırh ya da stat vermez, herkes giyebilir. Kadın karakterde de düzgün görünür.
+* Üç parçayı birlikte giyince karakterinizin üstünde `* Beyefendi *` (kadın karakterde `* Hanımefendi *`) yazar. Karakterinize tıklayan herkes bu unvanı adınızın üstünde görür. Kusursuz parçalar da sayılır.
+* Silindir Şapka kask, Smokin Ceketi göğüs zırhı, Smokin Pantolonu bacak zırhı katındadır; zırhınızla birlikte giyilemez. Üstüne robe giyerseniz robe takımı örter.
+* Depoya konabilir; imzası ve rengi korunur.
