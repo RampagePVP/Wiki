@@ -117,8 +117,10 @@ Ghost Ostard, siz üstündeyken öldürdüğünüz canavarlarla güçlenen ve so
 ### Özellikleri
 
 * Başlangıçta zayıftır. Tek tıklayınca "\[Güçsüz]" ya da tam güçteyse "\[Güçlü]" yazar.
-* **Yük hayvanıdır:** Çift tıklayınca "Çantasını Aç" ve "Bin" seçenekleri çıkar. Çantasına newbie eşya konamaz. Çantasında eşya varken küçültülemez.
-* Bazı zindan canavarlarını ve hazine ejderhasını üzerindeyken öldürürseniz ganimet Ghost Ostard'ın çantasına, gold kumbaranıza gider (**Bosslar** sayfası).
+* **Yük hayvanıdır:** Çift tıklayınca "Çantasını Aç", "Bin" ve "Eşyaları Çantama Al" seçenekleri çıkar. Bu menüyü sadece sahibi açabilir. Çantasına newbie eşya konamaz. Çantasında eşya varken küçültülemez.
+* Üstündeyken öldürdüğünüz canavarların cesedindeki ganimet 1 saniye içinde Ghost Ostard'ın çantasına aktarılır. Bazı zindan canavarlarının ve hazine ejderhasının gold'u ise kumbaranıza yatar (**Bosslar** sayfası).
+* Çantasındaki eşyaları kendi çantanıza almak için `.ghostcanta` yazın ya da menüden "Eşyaları Çantama Al"ı seçin. Ghost Ostard'a biniyorsanız inmenize gerek yoktur. Binmiyorsanız komutu yazınca Ghost Ostard'ınızı hedefleyin; en fazla 3 kare uzakta olmalı. Çantanızda 255 eşya olunca aktarma durur, kalanlar Ghost Ostard'ın çantasında kalır.
+* Ghost Ostard ölürse, figür olarak bankanıza gönderilirse (zindan girişi, moongate, yarışma) ya da safe alanda bırakıldığı için silinirse çantasındaki eşyalar bankanıza konur. Kendi çantanıza aldığınız eşyalar ise siz ölünce cesedinizde kalır.
 * Poison büyüsünden etkilenmez.
 * Reslenemez.
 

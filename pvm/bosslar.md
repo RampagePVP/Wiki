@@ -69,10 +69,11 @@ Dungeonlarda en sık karşılaşılan boss türü yaratıktır ve set belgelerin
 
 ## Ghost Ostard ile avlanmak
 
-Ghost Ostard'a binerken Hazine Ejderhası, Daemon of Might ve Gyrados, Brahman, Planar, Hashade, Penon gibi yaratıkları öldürürseniz:
+Ghost Ostard'a binerken öldürdüğünüz her canavarın cesedindeki ganimet (sandık, belge, scroll, gold…) Ghost Ostard'ın **çantasına** aktarılır.
 
-* Gold çeki yerine gold doğrudan **kumbaranıza** aktarılır.
-* Sandık, belge ve scroll gibi ganimetler Ghost Ostard'ın **çantasına** konur.
+Hazine Ejderhası, Daemon of Might, Gyrados, Brahman, Planar, Hashade ve Penon'da ayrıca gold çeki yerine gold doğrudan **kumbaranıza** aktarılır. Bankanızda kumbara yoksa çek Ghost Ostard'ın çantasına konur.
+
+Ghost Ostard'ın çantasındaki eşyaları `.ghostcanta` ile, binekten inmeden kendi çantanıza alabilirsiniz (**Binek Taşı ve Yumurtalar** sayfası).
 
 ## Dungeonlara bağlı bosslar
 

@@ -76,21 +76,22 @@ Paperdoll'daki **Help** butonuyla açılan yardım menüsündeki **Komutlar** d�
 
 ## Binek
 
-| Komut                                      | Açıklama                                                                                           |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| `.binekbonus`                              | Bindiğiniz bineğin özel yeteneğini kullanır (bineğe göre değişir)                                  |
-| `.bb`, `.binekbilgi`                       | Binek bilgi menüsü                                                                                 |
-| `.doyur`, `.binekdoyur`                    | 3 kare içindeki kendi bineğinizi doyurur                                                           |
-| `.binekcure`                               | 3 kare içindeki zehirli bineğinizi tedavi eder; çantanızdan 1 Greater Cure gider (30 saniyede bir) |
-| `.binekbin`                                | 3 kare içindeki kendi bineğinize biner                                                             |
-| `.binekin`                                 | Binekten iner ve yakındaki bineklerinizi hedeflediğiniz karaktere saldırtır                        |
-| `.bwsure`                                  | Bloodwing'in ölüm koruması hazır mı, ne kadar kaldı gösterir                                       |
-| `.kirrune`, `.kirgate`, `.kirrunesil`      | Ki-Rin: bineğe rune ekler / rune'a 15 saniyelik gate açar (20 dakikada bir) / rune'u geri alır     |
-| `.cornres`, `.rescorn`                     | Ölüyken Cornsilver bineğiniz sizi diriltir                                                         |
-| `.unires`                                  | Ölüyken Unicorn bineğiniz sizi diriltir                                                            |
-| `.nightheal`, `.nigtmare`, `.nigtmareheal` | Nightmare'in otomatik can basma özelliği hakkında bilgi verir                                      |
-| `.ferrinheal`                              | Ferrin'e binmişken hedeflediğiniz oyuncunun canını doldurur                                        |
-| `.polarball`                               | Polar'a binmişken hedef oyuncuya fireball etkisi                                                   |
+| Komut                                      | Açıklama                                                                                                                                                                |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.binekbonus`                              | Bindiğiniz bineğin özel yeteneğini kullanır (bineğe göre değişir)                                                                                                       |
+| `.bb`, `.binekbilgi`                       | Binek bilgi menüsü                                                                                                                                                      |
+| `.doyur`, `.binekdoyur`                    | 3 kare içindeki kendi bineğinizi doyurur                                                                                                                                |
+| `.binekcure`                               | 3 kare içindeki zehirli bineğinizi tedavi eder; çantanızdan 1 Greater Cure gider (30 saniyede bir)                                                                      |
+| `.binekbin`                                | 3 kare içindeki kendi bineğinize biner                                                                                                                                  |
+| `.binekin`                                 | Binekten iner ve yakındaki bineklerinizi hedeflediğiniz karaktere saldırtır                                                                                             |
+| `.bwsure`                                  | Bloodwing'in ölüm koruması hazır mı, ne kadar kaldı gösterir                                                                                                            |
+| `.kirrune`, `.kirgate`, `.kirrunesil`      | Ki-Rin: bineğe rune ekler / rune'a 15 saniyelik gate açar (20 dakikada bir) / rune'u geri alır                                                                          |
+| `.cornres`, `.rescorn`                     | Ölüyken Cornsilver bineğiniz sizi diriltir                                                                                                                              |
+| `.unires`                                  | Ölüyken Unicorn bineğiniz sizi diriltir                                                                                                                                 |
+| `.nightheal`, `.nigtmare`, `.nigtmareheal` | Nightmare'in otomatik can basma özelliği hakkında bilgi verir                                                                                                           |
+| `.ferrinheal`                              | Ferrin'e binmişken hedeflediğiniz oyuncunun canını doldurur                                                                                                             |
+| `.polarball`                               | Polar'a binmişken hedef oyuncuya fireball etkisi                                                                                                                        |
+| `.ghostcanta`                              | Ghost Ostard'ın çantasındaki eşyaları çantanıza alır. Biniyorsanız bindiğiniz Ghost Ostard'dan, binmiyorsanız hedeflediğiniz kendi Ghost Ostard'ınızdan (3 kare içinde) |
 
 Bazı bineklerin `.binekbonus` yeteneği kendi adıyla da çağrılabilir:
 
