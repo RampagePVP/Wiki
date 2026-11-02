@@ -1,6 +1,6 @@
 # Zanaat (Craft)
 
-Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi ve sarf eşyası üretebilirsiniz. Shadow Hood dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
+Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi ve sarf eşyası üretebilirsiniz. Shadow Hood ve Kasa dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
 
 ## Zanaat Tezgahı
 
@@ -63,12 +63,13 @@ Kemik ve trofe malzemesi yaratığı **sizin** öldürmenize bağlıdır. Petini
 | Ürün        | Malzeme                                                         | Gold    |
 | ----------- | --------------------------------------------------------------- | ------- |
 | Shadow Hood | 10 Maden Ingotu, 10.000 Balık, 50 Honor Point, 50 Lanetli Kemik | 500.000 |
+| Kasa        | 10 Maden Ingotu, 10.000 Balık, 50 Honor Point, 50 Lanetli Kemik | 500.000 |
 
-**Shadow Hood**, zanaatta savaş gücü veren tek üründür:
+**Shadow Hood** ve **Kasa**, zanaatta savaş gücü veren iki üründür. İkisinin özellikleri aynıdır, sadece görünüşleri farklıdır: Shadow Hood bir ninja başlığı, Kasa geniş hasır bir şapkadır.
 
 * Sadece **Mage ve Warlock** giyebilir (Magery 99.1 üstü).
-* Armorer Helm's gibi bir kasktır ve **Armorer Helm's'ten daha fazla zırh** verir. Kask katında olduğu için Armorer Helm's ile birlikte giyilemez.
-* Armorer Helm absorb scroll'ları (Bleed, Parablow, Dismount) Shadow Hood'a da eklenebilir; kurallar aynıdır (**Upgrade** sayfası). Kalan şarj ve hasar durumu hood'a tıklayınca görünür.
+* Armorer Helm's gibi birer kasktır ve **Armorer Helm's'ten daha fazla zırh** verir. Kask katında oldukları için birbirleriyle ya da Armorer Helm's ile birlikte giyilemezler.
+* Armorer Helm absorb scroll'ları (Bleed, Parablow, Dismount) Shadow Hood ve Kasa'ya da eklenebilir; kurallar aynıdır (**Upgrade** sayfası). Kalan şarj ve hasar durumu kaska tıklayınca görünür.
 * Depoya konabilir; imzası ve rengi korunur.
 
 ### Dekor

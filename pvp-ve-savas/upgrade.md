@@ -37,7 +37,7 @@ Arch Mage Robe'u giymek için **Evaluating Intelligence 110** gerekir.
 
 ## Armorer Helm absorb
 
-Armorer Helm's'e ve zanaatta üretilen Shadow Hood'a (warlock ve mage kaskları) bonus absorb şarjı eklenir. Scroll'a çift tıklayıp kaskı seçmen yeterli.
+Armorer Helm's'e ve zanaatta üretilen Shadow Hood ile Kasa'ya (warlock ve mage kaskları) bonus absorb şarjı eklenir. Scroll'a çift tıklayıp kaskı seçmen yeterli.
 
 | Scroll                       | Etkisi                             |
 | ---------------------------- | ---------------------------------- |
