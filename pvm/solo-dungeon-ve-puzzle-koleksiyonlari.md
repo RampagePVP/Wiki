@@ -46,7 +46,7 @@ Dungeon Master ölünce safe alana gönderilir ve ödül çantasını alırsın�
 
 Çantada her zaman şunlar vardır: Silah Çantası (+21) ve (+24), 500k gold çekleri, Devil Set Deed, Dragon Set Deed, Puzzle Parça Çantası, Değerli Hazine Sandığı, Ender Hazine, Random Egg, Armorer Helm (Orc) ve (Bone), Stat Full Deed, Magic Log, Magic Ingot, Dragon Blood, Ghost Ingot, Upgrade Scroll (+21), Mage Scroll (Corruptor), Binek Res Scroll, Binek Armor / Dex / Str Deed, Event Potion ve Helm Absorb Scroll.
 
-Şansa bağlı olarak ayrıca Ranger set parçası, Party Statue, Golem (Advanced) ya da bir silah (Bladed Staff, Quarter Staff, Scythe, Pike, Lance ya da Black Staff) çıkabilir.
+Şansa bağlı olarak ayrıca Ranger ya da Godness set parçası, Party Statue, Golem (Advanced) ya da bir silah (Bladed Staff, Quarter Staff, Scythe, Pike, Lance ya da Black Staff) çıkabilir.
 
 ### Solo Dungeon Key nereden çıkar?
 

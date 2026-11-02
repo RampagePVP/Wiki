@@ -200,7 +200,7 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | 1.000 Binek Res Scroll           | 3.250         |
 | 5 Magic Ingot                    | 5.000         |
 | Rastgele bir Ranger set parçası  | 15.000        |
-| Rastgele bir Godness set parçası | 20.000        |
+| Rastgele bir Godness set parçası | 15.000        |
 
 {% hint style="warning" %}
 Çevirme işlemi geri alınamaz. Listede olmayan eşyalar çevrilmez; yanlış eşyayı seçmemeye dikkat edin.

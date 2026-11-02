@@ -30,7 +30,7 @@ Dark Blood Monk, dungeonlarda birçok noktada sürekli yeniden çıkan güçlü 
 | Her zaman   | Puzzle Parça Çantası                                                                                                                                                                                                                                                                         |
 | Sık         | Silah Çantası (+18), Dragon Blood, 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                                                                        |
 | Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+21), Mage Scroll (Corruptor), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+21), Upgrade Scroll (+24), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone), Upgrade Scroll (+18), Mage Scroll (Felheart) |
-| Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+24), Party Statue, Helm Absorb Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, Ender Hazine                                                                                                                                  |
+| Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+24), Party Statue, Helm Absorb Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                                                                         |
 | Çok nadir   | Ghost Ingot, Golem (Advanced), Stat Full Deed, Holy Robe                                                                                                                                                                                                                                     |
 
 {% hint style="info" %}
@@ -72,12 +72,12 @@ Belge almak için kutu ana çantanızda olmalıdır. Kutuya eklenen parça geri 
 
 ## Set parçaları nereden çıkar?
 
-| Parça                    | Kaynaklar                                                                                                                          |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Rastgele Ranger parçası  | Dark Blood Monk, Dungeon Chest, Solo Dungeon ödülü, Zindan ödülü, Sargeras, Ender Hazine, Rampage UO Reward (15.000 hediye bileti) |
-| Rastgele Godness parçası | Dungeon Chest (çok nadir), Rampage UO Reward (20.000 hediye bileti)                                                                |
-| Rastgele Dragon parçası  | Değerli Hazine Sandığı (çok nadir)                                                                                                 |
-| Blackrock seti (7 parça) | Spawn Koruyucu, her öldürmede tam set                                                                                              |
+| Parça                    | Kaynaklar                                                                                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rastgele Ranger parçası  | Dark Blood Monk, Dungeon Chest, Solo Dungeon ödülü, Zindan ödülü, Sargeras, Ender Hazine, Rampage UO Reward (15.000 hediye bileti), Balık Etkinliği marketi |
+| Rastgele Godness parçası | Dark Blood Monk, Dungeon Chest, Solo Dungeon ödülü, Zindan ödülü, Sargeras, Ender Hazine, Rampage UO Reward (15.000 hediye bileti), Maden Etkinliği marketi |
+| Rastgele Dragon parçası  | Değerli Hazine Sandığı (çok nadir)                                                                                                                          |
+| Blackrock seti (7 parça) | Spawn Koruyucu, her öldürmede tam set                                                                                                                       |
 
 **Rampage UO Reward** (Hediye Stoğu), safe alanda duran ödül kutusudur. Hediye biletleriyle sadece safe alanda alışveriş yapılır. Biletlerin nasıl kazanıldığı **Gold, Kumbara ve Satıcılar** sayfasında anlatılıyor.
 
