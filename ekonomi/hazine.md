@@ -22,6 +22,9 @@ Sandıklar dungeon'lardan, hazine ejderhalarından, görevlerden, etkinliklerden
 3. **Bölgeye gidin:** Haritanın penceresindeki **Kal Ort Por** butonuna basarsanız birkaç saniye sonra hazine bölgesine ışınlanırsınız. Bu buton **sadece Safe Alan'da** çalışır; kullanınca harita kaybolmaz özellik kazanır. Işınlandıktan sonra açılan pencerede **"Hazine açmaya devam et"** ya da **"Safe alana geri dön"** seçeneğini seçin. Oka bakarak yürüyerek de gidebilirsiniz.
 4. **Koruyucuyu çağırın:** Hazinenin yerine **10 kare** yaklaşınca haritaya tekrar çift tıklayın. Koruyucu (ve yardımcıları) ortaya çıkar, harita "çözülmüş" olur.
 5. **Koruyucuyu öldürün:** Koruyucu öldüğü yerde **hazine kasası** çıkar.
+6. **Kasayı boşaltın:** Kasaya çift tıklayınca bir menü açılır. Menüde kasadaki eşya sayısı ve kasanın kaybolmasına kalan süre yazar. Butonlara basarken kasanın yanında olmalısınız.
+   * **Hepsini Al:** Kasadaki bütün eşyalar çantanızda açılan **Hazine Ganimeti** çantasına konur ve kasa kaybolur. Taşıyamayacağınız eşyalar kasada kalır; çantanızda yer açıp tekrar basın ya da kasayı açıp elle alın.
+   * **Sandığı Aç:** Kasayı açar; eşyaları tek tek alırsınız.
 
 | Kural                         | Değer                                                                                                          |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -33,8 +36,12 @@ Sandıklar dungeon'lardan, hazine ejderhalarından, görevlerden, etkinliklerden
 Koruyucu öldüğünde yakınlarda rastgele bir yabani binek de belirir (Görev Kasası'nda Evil Wolf ya da Evil Horse).
 
 {% hint style="warning" %}
-Hazine kasası kısa süre sonra kaybolur. Koruyucuyu öldürdükten sonra kasayı hemen boşaltın.
+Hazine kasası kısa süre sonra kaybolur. Koruyucuyu öldürdükten sonra kasayı hemen boşaltın; en hızlı yol **Hepsini Al**.
 {% endhint %}
+
+### Ganimeti depoya koymak
+
+Safe Alan'a dönünce `.depo` menüsündeki **Hepsini Yatır**'a basın. Hazine Ganimeti çantasındaki depoya konabilen eşyalar tek tıkla depoya gider. Gold çekleri gibi depoya konamayan eşyalar çantada kalır. Ayrıntılar **Eşya Deposu (.depo)** sayfasında.
 
 ## Ganimet
 

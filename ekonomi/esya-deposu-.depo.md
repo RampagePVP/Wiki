@@ -80,6 +80,8 @@ Sadece depo menüsünde listelenen eşyalar depoya konabilir.
 
 Toplu yatırmada bir tıklamada en fazla 100 eşya ya da yığın yatırılır; fazlası için tekrar basın.
 
+Hazine kasasından **Hepsini Al** ile aldığınız **Hazine Ganimeti** çantasındaki eşyalar da **Hepsini Yatır** ile tek tıkla depoya gider. Depoya konamayan eşyalar (gold çekleri gibi) çantada kalır.
+
 ## Çekmek
 
 1. Alttaki **Çekilecek miktar** kutusuna sayıyı yazın (1–99999; 0 ile başlayamaz).
