@@ -11,7 +11,7 @@ Belgeler sadece **geliştirilebilir** türdeki bineklere basılır. Diğerlerind
 | Raptor, N-Mandre, Fire Steed, Silver Steed, Silvercorn, Cu Sidhe (Wolf), Kii Rin, Tartarus, Manticore, Numa, Indra, Orn, Typhaon, Chimaira, Beetle Wert, Wendigo, Glacier Steed, Arcane Ostard, Arcane Horse, Arcane Llama | Simurg, Huma, Nemea, Bloodwing, Armored Steed, Grayer, Gryphon, Hipogrif, Pixiu, T-Rash, Mysterious Horn, Fiura, Lamassu, Unicorn, Nightmare, Ferrin, Primal Raptor, Percheron, Ordeal, Arctic Bear, Evil Wolf, Evil Horse, Shire, Mustang, Mid Ostard |
 
 {% hint style="info" %}
-Random spawn binekleri (Unicorn hariç) geliştirilebilir türdedir. **Random Spawn Binekleri** sayfasındaki Master Taming Staff bonusuyla birlikte en çok geliştirilen binekler bunlardır.
+Random spawn binekleri (Unicorn ve nadir binekler T-Rash, Simurg, Huma hariç) geliştirilebilir türdedir. **Random Spawn Binekleri** sayfasındaki Master Taming Staff bonusuyla birlikte en çok geliştirilen binekler bunlardır.
 {% endhint %}
 
 ## Binek belgeleri

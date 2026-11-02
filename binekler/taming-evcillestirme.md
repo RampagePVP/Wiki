@@ -29,7 +29,10 @@ Vahşi binekleri **taming sopası** ile evcilleştirip kendinize bağlayabilirsi
 | ------------------- | -------------------------- | ---------------------------------------------- |
 | Nereden             | Diğer Menü taşı (ücretsiz) | Master Taming Menü (**50 random spawn puanı**) |
 | Başarı              | Şansa bağlı                | **Her zaman** başarılı                         |
+| Özel binekler       | Evcilleştiremez            | Evcilleştirir                                  |
 | Random spawn bonusu | —                          | Şarj başına bineğin STR, DEX ve armoru artar   |
+
+**Sadece Master Taming Staff ile evcilleştirilen binekler:** Bloodwing, Grayer, Armored Steed, Nemea, Simurg, Huma, T-Rash, Gryphon, Hipogrif, Pixiu, Mysterious Horn ve Fiura. Normal taming sopasıyla bu bineklerden birini seçerseniz "Bu tür varlıklar sadece Master Taming Staff ile tamelenmektedir" yazar.
 
 **Şarj:** Master Taming Staff **8 şarjla** gelir. Şarjı tek tıklamayla görebilirsiniz. Şarj sadece **random spawn** bineklerini evcilleştirirken (ve binek hâlâ ilk statlarındayken) harcanır. Şarj eklemek için **Taming Staff Şarj** kristali kullanılır (kristale çift tıklayıp Master Taming Staff'ı seçin):
 
@@ -54,6 +57,7 @@ Random spawn binekleri evcilleştirildiğinde **taming puanı** verir. Puanlar h
 | Unicorn                              | +4               | +2                      |
 | N-Mandre                             | +1               | +2                      |
 | Raptor                               | +4               | —                       |
+| T-Rash, Simurg, Huma (nadir spawn)   | —                | +4                      |
 
 Her **Pazartesi 11:10**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **250.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5)**.
 
