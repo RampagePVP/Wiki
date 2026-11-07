@@ -36,12 +36,11 @@ Balığa çift tıklayınca ödül menüsü açılır. Menü yalnızca safe alan
 
 | Ödül                             | Balık   |
 | -------------------------------- | ------- |
-| Banka Checki (1.000.000 gold)    | 50.000  |
-| 3 Ghost Ingot                    | 100.000 |
-| Rastgele 1 Ranger set parçası    | 200.000 |
-| Ender Hazine                     | 300.000 |
-| 7 Upgrade Mage Scroll (Archmage) | 350.000 |
-| Glacier Steed (binek)            | 500.000 |
+| 3 Ghost Ingot                    | 65.000  |
+| Rastgele 1 Ranger set parçası    | 130.000 |
+| Ender Hazine                     | 195.000 |
+| 7 Upgrade Mage Scroll (Archmage) | 227.500 |
+| Glacier Steed (binek)            | 325.000 |
 | Puzzle 9                         | 750.000 |
 
 ## Maden (Moria)
@@ -60,7 +59,6 @@ Maden ingotuna çift tıklayınca ödül menüsü açılır. Menü yalnızca saf
 | Ödül                                          | Ingot |
 | --------------------------------------------- | ----- |
 | 1 Repair Scroll                               | 5     |
-| Banka Checki (1.000.000 gold)                 | 10    |
 | 10 Çimento                                    | 20    |
 | 2 Upgrade Scroll (+24)                        | 20    |
 | Ender Hazine                                  | 100   |

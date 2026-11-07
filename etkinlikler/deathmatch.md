@@ -19,7 +19,7 @@ Deathmatch (Ölümsüz Alan), her gün gündüz saatlerinde açık olan serbest 
 
 * Ölmezsiniz: eşyanız düşmez, canınız dolu olarak **safe alana** gönderilirsiniz.
 * **100-500 fame** kaybedersiniz (fame'iniz 0'ın altına inmez).
-* Yanınızdaki (1 kare içindeki) bineğiniz / petiniz de safe alana gönderilir.
+* Yanınızdaki (3 kare içindeki) bineğiniz / petiniz de safe alana gönderilir (birden fazlaysa yalnızca biri).
 * Tekrar girmek için **10 saniye** beklemelisiniz.
 
 ## Kurallar

@@ -8,7 +8,7 @@ Random spawn, dünya haritasında rastgele bir yerde beliren güçlü bir vahşi
 * Bunlardan ayrı olarak yaklaşık **3 günde bir** **nadir binek** çıkar (aşağıda). Nadir binek 2'lik sınıra sayılmaz, normal spawn'ları engellemez.
 * Çıktığında bütün sunucuya duyurulur: "RANDOM SPAWN: 1 adet random spawn dünya haritasında aktif olmuştur."
 * Binek, dünya haritasında rastgele bir **açık arazide** (çimenlik bir yerde) belirir. Şehirler, korumalı bölgeler, safe alan, evler, zindanlar ve etkinlik alanlarında çıkmaz. Belirdiği yerin çevresinde dolaşır.
-* Evcilleştirilmezse yaklaşık **8 saat** sonra ölür ("ehlileştirilemediği için açlıktan hayatını kaybetti" duyurusu).
+* Evcilleştirilmezse yaklaşık **5 saat** sonra ölür ("ehlileştirilemediği için açlıktan hayatını kaybetti" duyurusu).
 
 `.spawntakip` yazarak haritada kaç aktif random spawn olduğunu öğrenebilirsiniz.
 

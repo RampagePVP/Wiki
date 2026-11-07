@@ -351,7 +351,7 @@ Vurduğu oyuncuyu zaman zaman bineğinden düşürür.
 
 ![Glacier Steed](../.gitbook/assets/binek-glacier-steed.png)
 
-* **Nereden:** Balık etkinliği ödül menüsü, **500.000 Rampage Balığı**
+* **Nereden:** Balık etkinliği ödül menüsü, **325.000 Rampage Balığı**
 
 **Binince:** Paralyze Field size işlemez, örümcek ağlarına (web) takılmazsınız.
 

@@ -135,13 +135,14 @@ Setler ve robeler **Setler** ve **Robeler** sayfalarında anlatılmıştır.
 
 Aşınan silah, kalkan, zırh ve kıyafetlerinizi **Repair Scroll** ile tamir edersiniz. Safe alandaki **Repair Stone** (Repair Forge) en fazla 2 kare yanınızdayken Repair Scroll'a çift tıklayıp tamir edilecek eşyayı seçin. Eşya %100 sağlam olur.
 
-| Eşya seviyesi | Gereken Repair Scroll |
-| ------------- | --------------------- |
-| +18           | 2                     |
-| +21           | 3                     |
-| +24           | 8                     |
-| Extremely     | 10                    |
-| Brodex        | 4                     |
+| Eşya seviyesi                   | Gereken Repair Scroll |
+| ------------------------------- | --------------------- |
+| +18                             | 2                     |
+| +21                             | 3                     |
+| +24                             | 8                     |
+| Extremely                       | 10                    |
+| Brodex                          | 4                     |
+| Ranger ve Godness set parçaları | 3                     |
 
 Eşyanın ne kadar sağlam olduğunu görmek için tek tıklayın ("Bu silah %X sağlam").
 

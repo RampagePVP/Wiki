@@ -42,10 +42,10 @@ Sandık açılınca:
 
 * Yanında **4 koruyucu** çıkar (2 Orc Bomber, 1 Gargoyle, 1 Rotting Corpse). Dördü de ölmeden sandık açılmaz.
 * Sandık **3 dakika** sonra kaybolur; koruyucuları hızlı öldürüp ganimeti alın.
-* Bütün sunucuya "X isimli kişi Y civarında chest açmıştır" duyurusu yapılır.
+* Sandığı açtıktan **1 dakika sonra** bütün sunucuya "X isimli kişi Y civarında chest açmıştır" duyurusu yapılır.
 
 {% hint style="warning" %}
-Sandık açıldığında konumunuz bütün sunucuya duyurulur. Diğer oyuncular ganimet için gelebilir.
+Sandık açıldıktan 1 dakika sonra konumunuz bütün sunucuya duyurulur. Diğer oyuncular ganimet için gelebilir.
 {% endhint %}
 
 **Sandıktan çıkanlar:**

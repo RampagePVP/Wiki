@@ -56,7 +56,7 @@ Random spawn binekleri evcilleştirildiğinde **taming puanı** verir. Puanlar h
 | Silvercorn, Silver Steed, Fire Steed | +4               | +4                      |
 | Unicorn                              | +4               | +2                      |
 | N-Mandre                             | +1               | +2                      |
-| Raptor                               | +4               | —                       |
+| Raptor                               | +4               | +4                      |
 | T-Rash, Simurg, Huma (nadir spawn)   | —                | +4                      |
 
 Her **Pazartesi 11:10**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **250.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5)**.

@@ -91,7 +91,15 @@ Honor Point puan sayılan her PvP öldürmesinde 5 adet olarak çantanıza gelir
 | Talisman of Warlock | 250 Honor Point |
 | Talisman of Warrior | 250 Honor Point |
 
-Talismanlar **7 gün** sürer ve sadece kendi sınıfınız (ünvanınız) tarafından takılabilir. Takıldığında can yenileme etkisi verir; `.talismanpower` ile 10 dakikada bir sınıfa özel güç kullanılır (örneğin Talisman of Warrior can verir, zehri ve kanamayı temizler).
+Talismanlar **7 gün** sürer ve sadece kendi sınıfınız (ünvanınız) tarafından takılabilir. Talismana tek tıklayınca ne işe yaradığı da yazar.
+
+| Talisman            | Takılıyken                                                      | `.talismanpower` (10 dakikada bir)                                                                             |
+| ------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Talisman of Warrior | Küçük can kayıplarınızı sürekli doldurur (zehirliyken çalışmaz) | Can verir, zehri ve kanamayı temizler                                                                          |
+| Talisman of Warlock | Küçük can kayıplarınızı sürekli doldurur (zehirliyken çalışmaz) | Etrafınıza düşmanları yakalayan örümcek ağları atar, siz takılmazsınız. Safe alanda kullanılmaz                |
+| Talisman of Mage    | Küçük can kayıplarınızı sürekli doldurur (zehirliyken çalışmaz) | Seçtiğiniz hedefi zehirler, etrafına zehir bulutu düşürür. Sadece savaş becerisi olmayan tam Mage kullanabilir |
+
+Full Takı Seti'ndeki **Hits Talisman** her sınıfa açıktır; sadece can yenileme etkisi vardır, `.talismanpower` gücü yoktur.
 
 ## Silver Coin
 
@@ -116,6 +124,7 @@ Oyunda geçirdiğiniz her dakika hesabınıza **1 Online Kredi** ekler ("Kredi P
 * Ölünce zehir, kanama ve bazı geçici etkiler üzerinizden kalkar.
 * Safe alanda ölünmez.
 * Cesetleriniz 7 dakika sonra kaybolur; kaybolmaz (newbie) eşyalar üzerinizde kalır.
+* Öldükten sonraki **2 saniye** cesediniz kesilemez.
 
 ## İsim değiştirme
 
