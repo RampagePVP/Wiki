@@ -8,5 +8,5 @@ Otomatik ve GM etkinlikleri: takvim, kurallar ve ödüller.
 * [Quest ve Champion](quest-ve-champion.md)
 * [Deathmatch](deathmatch.md)
 * [Mini Etkinlikler](mini-etkinlikler.md)
-* [Takım Savaşları](takim-savaslari.md)
+* [Köprü Savaşı](kopru-savasi.md)
 * [Balık ve Maden](balik-ve-maden.md)

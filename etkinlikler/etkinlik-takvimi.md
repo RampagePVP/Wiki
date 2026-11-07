@@ -30,7 +30,7 @@ Bu etkinliklerin sabit bir saati yoktur. GM'ler açtığında bütün oyunculara
 | Etkinlik               | Tür                                 | Sayfa                    |
 | ---------------------- | ----------------------------------- | ------------------------ |
 | Capture The Flag (CTF) | Takım, bayrak kapma                 | CTF sayfası              |
-| Köprü Savaşı           | Takım savaşı                        | Takım Savaşları sayfası  |
+| Köprü Savaşı           | Takımlı binek savaşı (GM açar)      | Köprü Savaşı sayfası     |
 | Zar                    | GM'nin yönettiği zar oyunu          | Mini Etkinlikler sayfası |
 | Quest / Deathmatch     | Otomatik etkinliklerin ek seansları | İlgili sayfalar          |
 

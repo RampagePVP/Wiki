@@ -44,7 +44,7 @@
   * [Quest ve Champion](etkinlikler/quest-ve-champion.md)
   * [Deathmatch](etkinlikler/deathmatch.md)
   * [Mini Etkinlikler](etkinlikler/mini-etkinlikler.md)
-  * [Takım Savaşları](etkinlikler/takim-savaslari.md)
+  * [Köprü Savaşı](etkinlikler/kopru-savasi.md)
   * [Balık ve Maden](etkinlikler/balik-ve-maden.md)
 * [PvM](pvm/README.md)
   * [Dungeonlar](pvm/dungeonlar.md)

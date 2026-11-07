@@ -3,7 +3,7 @@
 Takım Savaşı, oyuncuların staff beklemeden kendi aralarında kurduğu takımlı savaştır. İki kaptan kuralları belirler, takımlarını safe alandan seçer ve arenada tek takım ayakta kalana kadar savaşırlar.
 
 {% hint style="info" %}
-GM'lerin açtığı Köprü Savaşı ayrı bir etkinliktir; onun için **Takım Savaşları** sayfasına bakın.
+GM'lerin açtığı Köprü Savaşı ayrı bir etkinliktir; onun için **Etkinlikler > Köprü Savaşı** sayfasına bakın.
 {% endhint %}
 
 ## Savaş kurma

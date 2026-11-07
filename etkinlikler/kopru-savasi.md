@@ -1,10 +1,19 @@
-# Takım Savaşları
+# Köprü Savaşı
 
-Köprü Savaşı, oyuncuların iki takıma ayrılıp kendi eşyalarıyla binek üstünde savaştığı bir etkinliktir. GM'ler açar. Diğer takım etkinliği olan bayrak kapma için **CTF** sayfasına bakın.
+Köprü Savaşı, GM'lerin açtığı bir etkinliktir. Oyuncular Kırmızı ve Mavi iki takıma ayrılır, kendi eşyalarıyla binek üstünde köprüde savaşır; son oyuncusu ayakta kalan takım kazanır.
 
 {% hint style="info" %}
-Oyuncuların kendi aralarında kurduğu takımlı savaş için **Takım Savaşı** sayfasına (Guild ve PvP bölümü) bakın.
+**Takım Savaşı ile karıştırmayın.** Takım Savaşı'nı oyuncular staff beklemeden kendi aralarında kurar; kaptanlar takımlarını seçer ve iddiaya girilir (**Guild ve PvP > Takım Savaşı** sayfası). Bayrak kapmalı takım etkinliği için **CTF** sayfasına bakın.
 {% endhint %}
+
+## Genel bilgi
+
+|               |                                                    |
+| ------------- | -------------------------------------------------- |
+| Zaman         | GM açar                                            |
+| Kayıt süresi  | Gate 3 dakika açık kalır                           |
+| Takımlar      | Kırmızı ve Mavi                                    |
+| En az katılım | Kırmızı takımda en az 1 kişi (toplam en az 2 kişi) |
 
 ## Kurallar
 
@@ -14,14 +23,7 @@ Oyuncuların kendi aralarında kurduğu takımlı savaş için **Takım Savaşı
 * Mark büyüsü yasak; hiding ve stealth yasak; figür, golem, animal deed ve runebook kullanılamaz.
 * Ölmek gerçek ölüm değildir; eşya düşmez.
 
-## Köprü Savaşı
-
-|               |                                                    |
-| ------------- | -------------------------------------------------- |
-| Zaman         | GM açar                                            |
-| Kayıt süresi  | Gate 3 dakika açık kalır                           |
-| Takımlar      | Kırmızı ve Mavi                                    |
-| En az katılım | Kırmızı takımda en az 1 kişi (toplam en az 2 kişi) |
+## Savaş
 
 * Etkinlik başlayınca iki takım birbirine saldırır.
 * **Ölen oyuncu elenir** ve canı dolu olarak safe alana döner.
