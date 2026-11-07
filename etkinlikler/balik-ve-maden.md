@@ -37,8 +37,8 @@ Balığa çift tıklayınca ödül menüsü açılır. Menü yalnızca safe alan
 | Ödül                             | Balık   |
 | -------------------------------- | ------- |
 | 3 Ghost Ingot                    | 65.000  |
+| Ender Hazine                     | 100.000 |
 | Rastgele 1 Ranger set parçası    | 130.000 |
-| Ender Hazine                     | 195.000 |
 | 7 Upgrade Mage Scroll (Archmage) | 227.500 |
 | Glacier Steed (binek)            | 325.000 |
 | Puzzle 9                         | 750.000 |
