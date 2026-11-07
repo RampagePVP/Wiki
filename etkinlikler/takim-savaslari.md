@@ -9,10 +9,9 @@ Oyuncuların kendi aralarında kurduğu takımlı savaş için **Takım Savaşı
 ## Kurallar
 
 * Safe alandaki etkinlik gate'ine çift tıklarsınız. Takımınızı sistem seçer; takımlar sayıca dengede tutulur.
-* **Kendi eşyalarınızla** girersiniz. Bineğiniz bankaya gönderilir; etkinlikte size bir at ya da lama verilir ve bu binekten inemezsiniz.
-* Girince takımınızın renginde (kırmızı ya da mavi) bir robe giydirilir; kendi robeniz çantanıza iner ve etkinlikten çıkınca (ölünce ya da etkinlik bitince) geri giydirilir. Takım robesi çıkarılamaz.
+* **Kendi eşyalarınızla** girersiniz. Bineğiniz bankaya gönderilir; etkinlikte size takımınızın renginde (kırmızı ya da mavi) bir at verilir ve bu binekten inemezsiniz.
 * Kendi takım arkadaşınıza saldıramazsınız. Takım arkadaşlarınıza yalnızca Heal, Greater Heal, Cure ve Night Sight atabilirsiniz.
-* Mark büyüsü yasak; hiding ve stealth yasak; figür, golem, animal deed, runebook ve boya küpü kullanılamaz.
+* Mark büyüsü yasak; hiding ve stealth yasak; figür, golem, animal deed ve runebook kullanılamaz.
 * Ölmek gerçek ölüm değildir; eşya düşmez.
 
 ## Köprü Savaşı
