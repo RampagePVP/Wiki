@@ -43,6 +43,29 @@ Hazine kasası kısa süre sonra kaybolur. Koruyucuyu öldürdükten sonra kasay
 
 Safe Alan'a dönünce `.depo` menüsündeki **Hepsini Yatır**'a basın. Hazine Ganimeti çantasındaki depoya konabilen eşyalar tek tıkla depoya gider. Gold çekleri gibi depoya konamayan eşyalar çantada kalır. Ayrıntılar **Eşya Deposu (.depo)** sayfasında.
 
+## Define Avcısı
+
+**Define Avcısı**, Ender Hazine sandıklarınızı sizin yerinize açan 7 günlük bir eşyadır. Dövüşmenize gerek yoktur: siz oyundayken (AFK olsanız bile) hazinelerinizi açar ve ganimeti bankanıza getirir.
+
+1. Ender Hazine sandıklarınızı çantanıza koyun.
+2. Define Avcısı'na çantanızdayken çift tıklayın. Menüde kalan süre, yoldaki hazineler ve çantanızdaki sandık sayısı yazar.
+3. Kaç sandık vereceğinizi seçin: **1, 5, 10** ya da **20**. Avcı yanınızda belirir ve hazinelerinizi açmaya gider.
+
+| Kural        | Değer                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Ücret        | Sandık başına **100.000 gold**; sandıkları verdiğiniz anda kumbaranızdan düşer (bankanızda kumbara olmalı)               |
+| Süre         | Hazineler sırayla açılır, her biri **20 dakika** sürer                                                                   |
+| Ganimet      | Her hazine için ayrı bir **Define Avcisi Ganimeti** çantasıyla bankanıza gelir; kasayı kendiniz açtığınızdakiyle aynıdır |
+| Aynı anda    | En fazla **20** hazine yolda olabilir                                                                                    |
+| Kabul edilen | Sadece açılmamış Ender Hazine sandığı (haritaya çevrilmiş Ender Hazine ve diğer sandıklar alınmaz)                       |
+| Yabani binek | Avcıyla açılan hazinelerde çıkmaz                                                                                        |
+| Kim kullanır | Sadece eşyanın sahibi                                                                                                    |
+| Süre bitince | Yeni sandık verilemez; yoldaki hazineler yine gelir                                                                      |
+
+{% hint style="warning" %}
+Avcı sadece **siz oyundayken** çalışır. Oyundan çıkarsanız (bağlantı kopması dahil) o ana kadar gelen ganimetler bankanızda kalır; açılmamış sandıklar bankanıza, ücretleri kumbaranıza geri verilir.
+{% endhint %}
+
 ## Ganimet
 
 Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır. Seviye yükseldikçe ganimet artar ve nadir eşyaların çıkma ihtimali yükselir.
