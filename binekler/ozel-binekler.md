@@ -392,7 +392,7 @@ Bu bineklerin binene verdiği bir bonus ya da `.binekbonus` yeteneği yoktur.
 | Tartarus        | Random Egg                                        |
 | Chimaira        | Random Egg                                        |
 | Wendigo         | Random Egg                                        |
-| Frenzied Ostard | Random Egg, Special Egg                           |
-| Mid Ostard      | Random Egg, Special Egg, Animal Book              |
+| Frenzied Ostard | Random Egg                                        |
+| Mid Ostard      | Random Egg, Animal Book                           |
 | Shire           | Random Egg, Olgun Ostard Egg, Animal Book, hazine |
 | Mustang         | Random Egg, Animal Book, hazine                   |

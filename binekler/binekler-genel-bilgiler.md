@@ -7,7 +7,7 @@ Rampage PvP'de binekler sadece ulaşım aracı değildir. Birçoğu binene özel
 | Yol                          | Neler çıkar                                                                                       | Ayrıntı                                                                 |
 | ---------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Binek Taşı (gold)            | Cu Sidhe, Primal Raptor, N-Mandre, Ferrin, Kii Rin, Unicorn, Raptor, Arcane Ostard, Animal Book   | **Binek Taşı ve Yumurtalar** sayfası                                    |
-| Yumurtalar                   | Random Egg, Olgun Ostard Egg, Special Egg, Soul Egg, Mother Ostard Egg                            | **Binek Taşı ve Yumurtalar** sayfası                                    |
+| Yumurtalar                   | Random Egg, Olgun Ostard Egg, Soul Egg, Mother Ostard Egg                                         | **Binek Taşı ve Yumurtalar** sayfası                                    |
 | Evcilleştirme                | Random spawn binekleri, hazine bekçisinden çıkan binekler, Ghost Ostard                           | **Taming (Evcilleştirme)** ve **Random Spawn Binekleri** sayfaları      |
 | Ruh Belgesi                  | Percheron                                                                                         | **Binek Taşı ve Yumurtalar** sayfası                                    |
 | Koleksiyonlar ve etkinlikler | Armored Steed (Storm Puzzle), Ordeal (Ordeal Puzzle), Glacier Steed (balık etkinliği), yumurtalar | **Solo Dungeon ve Puzzle Koleksiyonları** sayfası ve etkinlik sayfaları |

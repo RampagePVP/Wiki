@@ -29,7 +29,7 @@ Etrafınızda (20 kare) size ait 3'ten fazla canlı varsa kullanılamaz.
 
 ## Yumurtalar
 
-Bütün binek yumurtaları **çantanızda** ve **safe alanda** açılır. Yumurtadan çıkan binek yanınızda size ait olarak belirir. İki yumurta açma arasında birkaç saniye beklenir. Random Egg, Olgun Ostard Egg, Special Egg ve Soul Egg için etrafınızda (25 kare) size ait **en fazla 2** canlı olmalıdır (3. canlı yumurtadan çıkar).
+Bütün binek yumurtaları **çantanızda** ve **safe alanda** açılır. Yumurtadan çıkan binek yanınızda size ait olarak belirir. İki yumurta açma arasında birkaç saniye beklenir. Random Egg, Olgun Ostard Egg ve Soul Egg için etrafınızda (25 kare) size ait **en fazla 2** canlı olmalıdır (3. canlı yumurtadan çıkar).
 
 ### Random Egg
 
@@ -41,12 +41,11 @@ Random Egg'den nadiren **market binekleri** de çıkabilir.
 
 ### Diğer yumurtalar
 
-| Yumurta                                                 | Çıkan binekler                                                      | Nereden                      |
-| ------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------- |
-| **Olgun Ostard Egg** ("Olgun")                          | Cu Sidhe, Shire, Arcane Ostard, Arcane Horse, Arcane Llama, Kii Rin | Etkinlik ödülleri            |
-| **Special Egg** ("Ender Eşya", Olgun Ostard Egg adıyla) | Frenzied Ostard ya da Mid Ostard                                    | Etkinlik ödülleri, hazineler |
-| **Soul Egg**                                            | Indra ya da Numa                                                    | Kar etkinliği ödülleri       |
-| **Mother Ostard Egg**                                   | Nightmare                                                           | Yeni Yıl etkinliği ödülü     |
+| Yumurta                        | Çıkan binekler                                                      | Nereden                  |
+| ------------------------------ | ------------------------------------------------------------------- | ------------------------ |
+| **Olgun Ostard Egg** ("Olgun") | Cu Sidhe, Shire, Arcane Ostard, Arcane Horse, Arcane Llama, Kii Rin | Etkinlik ödülleri        |
+| **Soul Egg**                   | Indra ya da Numa                                                    | Kar etkinliği ödülleri   |
+| **Mother Ostard Egg**          | Nightmare                                                           | Yeni Yıl etkinliği ödülü |
 
 ## Binek Eritme Taşı
 
