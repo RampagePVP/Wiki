@@ -4,7 +4,7 @@ Eşya deposu; scroll, belge, hazine sandığı, set parçası, silah, golem ve b
 
 ## Depoyu açmak
 
-* **Safe Alan**'dayken **`.depo`** yazın. Depo safe alan dışında açılmaz.
+* **Safe Alan**'dayken ya da guildinizin kiraladığı **köyde** **`.depo`** yazın. Köyde depoyu sadece köyü kiralayan guildin üyeleri kullanabilir (adaylar kullanamaz). Başka yerde depo açılmaz.
 * Ölüyken depo kullanılamaz.
 * Bankanızı hiç açmadıysanız önce bir bankacıdan bankanızı bir kez açın.
 * `.depo` komutu saniyede en fazla bir kez kullanılabilir.
@@ -12,7 +12,7 @@ Eşya deposu; scroll, belge, hazine sandığı, set parçası, silah, golem ve b
 Depo menüsü şu durumlarda kendiliğinden kapanır (en geç 1 saniyede):
 
 * Bir adım attığınızda ya da ışınlandığınızda,
-* Safe alandan çıktığınızda,
+* Safe alandan ya da köyünüzden çıktığınızda (köyün kirası biterse ya da guildden çıkarsanız da),
 * Öldüğünüzde,
 * Başka bir menü açıldığında.
 
@@ -27,6 +27,15 @@ Tekrar açmak için `.depo` yazmanız yeterlidir.
 | Alt   | Çekilecek miktar kutusu, **Hedefleyerek Yatır**, **Bu Kategoriyi Yatır**, **Hepsini Yatır**, **Kapat**; en altta her sayfada **Profil Çek** satırı          |
 
 Kategoride depoda da çantada da olmayan türler gri yazılır.
+
+## Arama
+
+Menünün sağ üstündeki kutuya yazıp **Ara**'ya basınca bütün kategorilerde (binekler dahil) arama yapılır. Sonuçlar tek listede çıkar, her satırda adın altında kategorisi yazar. Yatır, Çek ve profile ekleme kategorideki gibi çalışır.
+
+* Kelimeler sırayla aranır: `katana 24` yazınca Katana of Damned (+24) bulunur. Büyük/küçük harf fark etmez.
+* En az 2, en fazla 20 harf yazılır. Türkçe harf kullanmayın (c, g, i, o, s, u yazın): `canta` yazınca Silah Çantası bulunur.
+* Binek satırında **Aç**'a basınca o türün binekleri açılır, **Geri** aramaya döner. `binek` aratınca bütün binek türleri çıkar.
+* **Aramayı Kapat**'a ya da bir kategoriye basınca arama kapanır. Menü kapanınca arama sıfırlanır.
 
 ## Kategoriler
 

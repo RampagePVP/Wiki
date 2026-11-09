@@ -35,8 +35,11 @@ Safe alandaki **Potion Stone**'a çift tıklayınca (en fazla 5 kare uzaktan) ç
 
 * Deadly Poison'a çift tıklayıp çantandaki bir kılıç, fencing ya da balta türü silahı seç. Topuz silahlarına zehir sürülemez.
 * Zehir **2 saniyede** sürülür. Bu sırada büyü yaparsan, yetenek kullanırsan, hasar alırsan ya da War/Peace değiştirirsen işlem iptal olur.
-* **Warrior** ünvanlı oyuncular silaha daha güçlü zehir sürer ("Warrior olduğunuz için silaha ekstra poison sürüldü").
-* Zehirli silahla **Warrior ünvanlı** bir oyuncuya vurduğunda, hedef zehirli değilse her vuruşta güçlü bir zehirle zehirlenir. Diğer sınıflara karşı zehir oyunun normal şansıyla tutar.
+* Sürülen zehir belli sayıda vuruş işler: **Warrior** ünvanlı oyuncunun sürdüğü zehir **4**, diğerlerinin **3** vuruş. Kaç vuruş kaldığı silaha tıklayınca yazar.
+* Hedef zehirli değilse zehir **kesin** işler ve 1 vuruş hakkı düşer. Hedef zaten zehirliyse hak harcanmaz. Bütün sınıflara aynı şekilde işler.
+* Zehir kademelidir: ilk vuruş **Deadly**, aradakiler **Extremely sick**, son vuruş **Very ill**. Vurduğunda hangi seviyenin işlediği ve kalan hak yazar.
+* Parablow çıkan vuruşta zehir işlemez.
+* Haklar bitince "Silahınızdaki zehir bitti." yazar, silah zehirsiz olur.
 * Silaha tıklayınca `[Zehirli]` yazar.
 * **Oil Cloth**: çantandaki zehirli bir silaha kullanınca silahın zehri temizlenir.
 
@@ -72,8 +75,8 @@ Bandaja çift tıklayıp kendini ya da en fazla 4 kare uzaktaki birini seçersin
 | Kanama durdurma | Healing ve Anatomy 70           | Çoğunlukla başarılı; kendinde başkasına göre daha başarılıdır                                     |
 | Diriltme        | Healing ve Anatomy 80, 5 bandaj | Ev içinde ya da ev içinden yapılamaz                                                              |
 
-* Bandaj sürerken **3 saniye büyü atamazsın**.
-* Bandaj sürerken hasar alırsan bandaj yırtılabilir ("bandajları yırtılır"); armorun yüksekse bu daha az olur.
+* Bandaj sürerken **3 saniye büyü atamazsın**. Bandaj işlemeden önce büyüye başlarsan bandajın yırtılır ("Büyüye başladığınız için bandajınız yırtıldı.").
+* Bandaj sürerken hasar alırsan bandaj yırtılabilir ("bandajları yırtılır"); armorun yüksekse bu daha az olur. Harm büyüsü bandajı daha sık yırtar.
 * Parablow ile felçliyken bandaj kullanamazsın.
 * Bandaj yaklaşık 4 saniyede işler. İşledikten sonra yeni bandaj için beklemen gerekir: kendine bandajda **10 saniye**, başkasına bandajda **8 saniye** (DEX'in 35'in altındaysa 12 / 9 saniye).
 * Katil ya da suçlu birini iyileştiren ya da dirilten oyuncu criminal olur.

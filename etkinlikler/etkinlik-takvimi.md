@@ -10,7 +10,7 @@ Saatler sunucu saatidir (Türkiye saati). Otomatik etkinlikler haftanın her gü
 
 | Saat          | Etkinlik                  | Nasıl katılınır                                       | Ayrıntı                   |
 | ------------- | ------------------------- | ----------------------------------------------------- | ------------------------- |
-| 08:01 – 20:01 | Deathmatch (Ölümsüz Alan) | Safe alandaki Deathmatch gate'i                       | Deathmatch sayfası        |
+| 00:00 – 20:01 | Deathmatch (Ölümsüz Alan) | Safe alandaki Deathmatch gate'i                       | Deathmatch sayfası        |
 | 16:00         | Kartopu                   | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |
 | 17:00         | Bisiklet Yarışı           | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |
 | 18:00         | Explosion                 | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |

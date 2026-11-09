@@ -4,7 +4,7 @@ Serbest PvP için iki ana alan vardır: her gün belli saatlerde açılan **Deat
 
 ## Deathmatch (Ölümsüz Alan)
 
-Her gün 08:01 - 20:01 arasında açık olan, ölünce eşya kaybetmediğiniz PvP alanı. Saatler, ölüm cezası ve kurallar **Deathmatch** sayfasında.
+Her gün 00:00 - 20:01 arasında açık olan, ölünce eşya kaybetmediğiniz PvP alanı. Saatler, ölüm cezası ve kurallar **Deathmatch** sayfasında.
 
 ## Action Alanı
 

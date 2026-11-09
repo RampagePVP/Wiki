@@ -64,7 +64,7 @@ Takımlar dolunca herkes yeniden kontrol edilir. Hazır olmayan oyuncu takımdan
 | Takım arkadaşı       | Takım arkadaşınıza ve onun bineklerine vuramaz, zararlı büyü (alan büyüleri dahil) atamazsınız. Takım arkadaşınıza sadece destek büyüleri (Heal, Cure, Bless, Protection, Reflect, Resurrection vb.) gider. |
 | Binekler             | Binekler birbirine saldırmaz ve birbirine hasar veremez; rakip oyunculara saldırabilir.                                                                                                                     |
 | Loot                 | Loot ve ceset kesme serbesttir.                                                                                                                                                                             |
-| Her zaman yasak      | Recall, Mark, Gate, Invisibility, Blade Spirits, Energy Vortex, Summon Creature ve elementaller; hiding ve stealth                                                                                          |
+| Her zaman yasak      | Recall, Mark, Gate, Invisibility, Wall of Stone, Blade Spirits, Energy Vortex, Summon Creature ve elementaller; hiding ve stealth                                                                           |
 | Arenada kullanılamaz | Golem, Animal Deed ve runebook. Binek res sadece savaş bittikten sonraki loot süresinde kullanılabilir.                                                                                                     |
 | Arena                | Recall ve gate'e kapalıdır. Savaşta olmayan oyuncu arenaya girerse safe alana atılır.                                                                                                                       |
 

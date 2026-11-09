@@ -54,7 +54,7 @@ Rampage PvP'de büyülerin çoğu klasik UO gibi çalışır ama PvP için önem
 ## Teleport (Rel Por)
 
 * Mana 15, Magery 30, büyü süresi 1,2 sn.
-* Işınlanacağın yer bulunduğun yerden en fazla 5 birim yüksekte olabilir; hedef en fazla 11 kare uzakta olmalı.
+* Işınlanacağın yer bulunduğun yerden en fazla 5 birim yüksekte olabilir; hedef en fazla 14 kare uzakta olmalı.
 * **Oyunculara, hayvanlara ve bineklere** teleport olmak için **Manticore**'a binmiş olman ya da elinde **Tessen** tutman gerekir.
 * Oyuncuya teleport olduktan sonra bir sonraki oyuncu teleportuna kadar beklemen gereken süre:
 

@@ -40,6 +40,7 @@ Bu iki büyü PvP'de warlock ve mage'e (Magery 20 ve üstü) **ek koruma** verir
 
 * İkisi de **250 saniye** sürer. Protection ayrıca armorunu da artırır.
 * Reactive Armor'lı oyuncu oyuncudan vuruş yediğinde her vuruşta efekti görünür.
+* **Geri yansıtma:** Üzerinde Reactive Armor olan oyuncu yakından (2 kare) silahla vurulunca, o vuruşta gerçekten kaybettiği canın küçük bir kısmını vurana geri yansıtır ("Reactive Armor: N hasar yansıdı"). Bu özellik Magery şartı aramaz, wand ile Reactive açan warrior'da da çalışır. Oklar yansımaz, yansıma vuranı öldürmez. Mirror Robe giyiliyken Reactive yansıtmaz.
 * Warrior'lar (Magery 20 altı) bu büyüleri wand ya da upgrade yoluyla alsa da ek korumayı almaz.
 * Notum Robe ve Blackrock parçaları giyilirken üzerindeki Protection ve Reactive Armor silinir.
 

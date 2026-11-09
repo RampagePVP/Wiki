@@ -4,22 +4,22 @@ Sunucudaki bütün Top 10 listeleri tek bir menüde toplanır. Bu sayfa her sır
 
 ## Sıralama menüsü
 
-`.top10`, `.siralama` ya da `.istatistik` yazınca **Rampage - Sıralama Menü** açılır. Soldaki butonlarla sıralamalar arasında geçilir. Her listede ilk 10 görünür; oyunda olan oyuncular farklı renkte yazılır. Çoğu listenin altında kendi puanınız ve sıranız yazar.
+`.top10`, `.siralama` ya da `.istatistik` yazınca **Rampage - Sıralama Menü** açılır. Soldaki butonlarla sıralamalar arasında geçilir. Her listede ilk 10 görünür; oyunda olan oyuncular farklı renkte yazılır. Çoğu listenin altında kendi puanınız ve sıranız yazar. Sıfırlanan listelerin altında bir sonraki sıfırlamaya ne kadar kaldığı da yazar.
 
 {% hint style="info" %}
 Menüyü açtığınızda kendi sıranız da güncellenir. Sıranız görünmüyorsa menüyü bir kez kapatıp yeniden açın.
 {% endhint %}
 
-| Sekme                 | Neye göre sıralanır        | Sıfırlanma          | Birinciye ödül |
-| --------------------- | -------------------------- | ------------------- | -------------- |
-| Oyuncu Sıralaması     | Haftalık PvP puanı         | Her Pazar 23:30     | Var            |
-| Guild Sıralaması      | Guildin aylık puanı        | Her ayın 1'i 00:00  | Var            |
-| Duello Sıralaması     | Düello puanı               | Sıfırlanmaz         | —              |
-| Taming Sıralaması     | Haftalık taming puanı      | Her Pazartesi 11:10 | Var            |
-| Etkinlik Sıralaması   | Etkinlik puanı             | Sıfırlanmaz         | —              |
-| Pvp Lig Sıralaması    | Haftalık lig puanı         | Her Pazar 23:59     | Var (Kral)     |
-| Oyun Süre Sıralaması  | Hesabın toplam oyun süresi | Sıfırlanmaz         | —              |
-| Guild Kudret Sıralama | Guildin kudret seviyesi    | Sıfırlanmaz         | —              |
+| Sekme                 | Neye göre sıralanır        | Sıfırlanma         | Birinciye ödül |
+| --------------------- | -------------------------- | ------------------ | -------------- |
+| Oyuncu Sıralaması     | Haftalık PvP puanı         | Her Pazar 23:30    | Var            |
+| Guild Sıralaması      | Guildin aylık puanı        | Her ayın 1'i 00:00 | Var            |
+| Duello Sıralaması     | Düello puanı               | Sıfırlanmaz        | —              |
+| Taming Sıralaması     | Haftalık taming puanı      | Her Pazar 23:30    | Var            |
+| Etkinlik Sıralaması   | Etkinlik puanı             | Sıfırlanmaz        | —              |
+| Pvp Lig Sıralaması    | Haftalık lig puanı         | Her Pazar 23:59    | Var (Kral)     |
+| Oyun Süre Sıralaması  | Hesabın toplam oyun süresi | Sıfırlanmaz        | —              |
+| Guild Kudret Sıralama | Guildin kudret seviyesi    | Sıfırlanmaz        | —              |
 
 ## Oyuncu Sıralaması
 
@@ -37,6 +37,7 @@ Bir oyuncuyu öldürdüğünüzde puan almanız için:
 * Aynı guildde olmamalısınız,
 * Öldürülen oyuncu son **5 dakika** içinde puan verecek şekilde ölmemiş olmalı (aynı kişiyi üst üste öldürerek puan toplanamaz),
 * Öldüren siz olmalısınız (bineğinizin ya da petinizin öldürmesi puan vermez).
+* Öldürülen karakter sizin değil, başka bir oyuncunun olmalı: aynı hesaptaki ya da aynı bilgisayardaki bir karakteri öldürmek puan, fame, Honor Point ve guild puanı vermez ("Kendi karakterinizi öldürmek puan kazandırmaz.").
 
 Şartlar sağlanınca öldüren oyuncu şunları alır:
 

@@ -8,7 +8,8 @@ Sohbette küfür ve argo kelimeler otomatik olarak yakalanır.
 
 * Küfürlü mesajınız kimseye gösterilmez.
 * **5 dakika** konuşma cezası alırsınız ve bu bütün sunucuya duyurulur ("Küfür Duyuru: ... konuşma cezası almıştır").
-* Cezalıyken konuşamazsınız (hayvanlara verilen "all come", "all kill" gibi komutlar hariç) ve `bank` yazarak bankanızı açamazsınız. Konuşmaya çalışınca kalan ceza süreniz yazar.
+* Cezalıyken konuşamazsınız ve `bank` yazarak bankanızı açamazsınız. Konuşmaya çalışınca kalan ceza süreniz yazar.
+* Cezalıyken de çalışan sözler: hayvan komutları ("all come", "all kill" gibi) ve ev komutları (`evden ayrıl`, `resurrect`, `res`). Ev komutunu tek başına yazmalısınız; arkasına başka bir şey eklerseniz söz engellenir.
 * Size tıklayan oyuncular adınızın üstünde **\[Konuşma Cezalısı]** görür.
 * Ceza bitince "Konuşma cezanız sona ermiştir" mesajı gelir.
 

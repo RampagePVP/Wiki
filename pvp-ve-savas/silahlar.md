@@ -42,7 +42,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 | Kryss                                       | Critical Shoot                       |
 | Spear, Short Spear, Pike                    | Parablow                             |
 | Pitchfork                                   | Dismount                             |
-| Club, War Mace                              | Stamshot ve Parçalama                |
+| Club, War Mace                              | Stamshot                             |
 | Hammer Pick, War Hammer                     | Sakatlar                             |
 | Quarter Staff                               | Stamshot (+24'te ayrıca Dismount)    |
 | Black Staff (+24)                           | Stamshot ve Halüsinasyon             |
@@ -69,6 +69,22 @@ Extremely silahlar **7 gün** sonra silinir; kalan süre tıklayınca yazar. Upg
 
 * **Extremely Box**: safe alanda açılır, içinden rastgele biri çıkar: Pike, Short Spear, Halberd, Bardiche, War Fork, Longsword, Broadsword, War Axe, Cutlass.
 * **Ghost Ingot** (Sargeras düşürür): 25 Ghost Ingot ile istediğin Extremely silahı seçersin (bkz. **Upgrade**).
+
+### Extremely silahı eritmek (`.silaherit`)
+
+Safe alanda `.silaherit` yazıp çantandaki bir Extremely silahı seçersin. Açılan pencerede silahın kalan süresi ve kazanacağın **Ghost Ingot** görünür; **Onayla**'ya basınca silah silinir, ingotlar çantana gelir.
+
+| Kalan süre | Ghost Ingot |
+| ---------- | ----------- |
+| 7 gün      | 4           |
+| 6 gün      | 3           |
+| 4-5 gün    | 2           |
+| 3 gün      | 1           |
+| 1-2 gün    | Eritilemez  |
+
+* Kalan süre yukarı yuvarlanır: 6 gün 3 saati kalan silah "7 gün" sayılır.
+* Silah çantanda olmalı; kuşanılı, bankadaki ya da yerdeki silah eritilmez. Süresi dolmuş silah eritilemez.
+* Sadece Extremely silahlar eritilir; Fire silahlar eritilemez.
 
 ## Fire silahlar
 
@@ -120,4 +136,4 @@ Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair S
 
 ## Zehirli silah
 
-Deadly Poison ile kılıç, fencing ve balta türü silahlara zehir sürebilirsin. Zehirli silahla **Warrior** ünvanlı bir oyuncuya vurduğunda her vuruşta hedef zehirlenir (hedef zaten zehirli değilse). Ayrıntılar **Potionlar ve İyileşme** sayfasında.
+Deadly Poison ile kılıç, fencing ve balta türü silahlara zehir sürebilirsin. Sürülen zehir, Warrior'ın sürdüğünde **4**, diğer sınıflarda **3** vuruş boyunca hedefi kesin zehirler (hedef zaten zehirli değilse). Ayrıntılar **Potionlar ve İyileşme** sayfasında.

@@ -134,7 +134,7 @@ Gücünü tamamlamış bir Ghost Ostard öldürülürse **Sargeras** adlı boss 
 
 ## Binek açık arttırması
 
-Zaman zaman yetkililer safe alandaki **Açık Arttırma Stone** üzerinden bir binek için açık arttırma başlatır ve sunucuya duyurur.
+Zaman zaman yetkililer safe alandaki **Açık Arttırma Stone** üzerinden bir binek için açık arttırma başlatır ve sunucuya duyurur. Açık arttırmanın başlangıcı, her teklif, saatlik durum ve kazanan Discord'da da duyurulur.
 
 * Taşa çift tıklayınca bineğin adı, en yüksek teklif, bitiş fiyatı ve kalan süre görünür.
 * Teklif kumbaranızdaki gold ile verilir. Yeni teklif, en yüksek tekliften en az **700.000 gold** fazla olmalıdır.

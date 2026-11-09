@@ -109,14 +109,17 @@ Sunucudaki Puan Taşı her 10 dakikada oyundaki (ölü olmayan) her oyuncuya **1
 
 Oyunda geçirdiğiniz her dakika hesabınıza **1 Online Kredi** ekler ("Kredi Puan +1" mesajı). Kredi hesap geneldir, bütün karakterleriniz aynı krediyi kullanır. Safe alanda `.kredi` yazarak krediyi harcayabilirsiniz:
 
-| Ödül                                           | Kredi |
-| ---------------------------------------------- | ----- |
-| 150 adet Str Deed Belgesi (çanta içinde)       | 600   |
-| 5 Extremely Ingot (çanta içinde)               | 900   |
-| Ender Hazine Haritası                          | 1.000 |
-| 5M Gold Check                                  | 2.000 |
-| 10.000 Binek Res Scroll (çanta içinde)         | 3.000 |
-| 1 Hafta Abone Deed (7 günlük abonelik belgesi) | 6.000 |
+| Ödül                                           | Kredi  |
+| ---------------------------------------------- | ------ |
+| 150 adet Str Deed Belgesi (çanta içinde)       | 1.500  |
+| 5 Extremely Ingot (çanta içinde)               | 2.500  |
+| Ender Hazine Haritası                          | 4.000  |
+| 5M Gold Check                                  | 5.000  |
+| 10.000 Binek Res Scroll (çanta içinde)         | 8.000  |
+| 1 Hafta Abone Deed (7 günlük abonelik belgesi) | 15.000 |
+| 9 Numaralı Puzzle                              | 30.000 |
+
+Krediyle alınan **9 Numaralı Puzzle** alan karaktere bağlıdır (tıklayınca "\[Karaktere bağlı]" yazar). Mührünü Resurrection of the Ordeal'da sadece o karakter bozabilir; başka bir karaktere verilirse işe yaramaz.
 
 ## Ölüm
 

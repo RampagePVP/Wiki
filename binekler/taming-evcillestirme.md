@@ -25,12 +25,12 @@ Vahşi binekleri **taming sopası** ile evcilleştirip kendinize bağlayabilirsi
 
 ## Master Taming Staff
 
-|                     | Taming Staff               | Master Taming Staff                            |
-| ------------------- | -------------------------- | ---------------------------------------------- |
-| Nereden             | Diğer Menü taşı (ücretsiz) | Master Taming Menü (**50 random spawn puanı**) |
-| Başarı              | Şansa bağlı                | **Her zaman** başarılı                         |
-| Özel binekler       | Evcilleştiremez            | Evcilleştirir                                  |
-| Random spawn bonusu | —                          | Şarj başına bineğin STR, DEX ve armoru artar   |
+|                     | Taming Staff               | Master Taming Staff                                                         |
+| ------------------- | -------------------------- | --------------------------------------------------------------------------- |
+| Nereden             | Diğer Menü taşı (ücretsiz) | Master Taming Menü (**50 random spawn puanı**), haftalık taming birinciliği |
+| Başarı              | Şansa bağlı                | **Her zaman** başarılı                                                      |
+| Özel binekler       | Evcilleştiremez            | Evcilleştirir                                                               |
+| Random spawn bonusu | —                          | Şarj başına bineğin STR, DEX ve armoru artar                                |
 
 **Sadece Master Taming Staff ile evcilleştirilen binekler:** Bloodwing, Grayer, Armored Steed, Nemea, Simurg, Huma, T-Rash, Gryphon, Hipogrif, Pixiu, Mysterious Horn ve Fiura. Normal taming sopasıyla bu bineklerden birini seçerseniz "Bu tür varlıklar sadece Master Taming Staff ile tamelenmektedir" yazar.
 
@@ -59,7 +59,7 @@ Random spawn binekleri evcilleştirildiğinde **taming puanı** verir. Puanlar h
 | Raptor                               | +4               | +4                      |
 | T-Rash, Simurg, Huma (nadir spawn)   | —                | +4                      |
 
-Her **Pazartesi 11:10**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **250.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5)**.
+Her **Pazar 23:30**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **250.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5), 1 Master Taming Staff**.
 
 Ayrıca evcilleştirdiğiniz her random spawn bineği size **+1 random spawn puanı** verir (**Random Spawn Binekleri** sayfası).
 

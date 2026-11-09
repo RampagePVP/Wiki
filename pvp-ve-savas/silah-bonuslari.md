@@ -16,7 +16,6 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 | **Stamshot**        | Her vuruşta hedefin staminası düşer                                                    | —                | Club, War Mace, Quarter Staff, Black Staff (+24), Extremely Maul / War Axe                                              |
 | ↳ Stam Shot         | Ek hasar, hedefin staminası çok daha fazla düşer, yaptığı işlem bozulur (`Stam Shot!`) | —                | (Stamshot'lı silahlar; Black Staff'ta daha sık)                                                                         |
 | **Sakatlar**        | Ek hasar, hedef yavaşlar                                                               | Macefighting 98  | Hammer Pick, War Hammer, Extremely Maul                                                                                 |
-| **Parçalama**       | Hedefin giydiği zırh parçalarından biri kırılıp yok olur                               | Macefighting 98  | Club, War Mace                                                                                                          |
 | **Halüsinasyon**    | Hedef bir süre halüsinasyon görür                                                      | —                | Black Staff (+24)                                                                                                       |
 | **Yakar**           | Ek hasar                                                                               | Fencing 98       | Fire Spear, Fire Katana                                                                                                 |
 
@@ -28,7 +27,6 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 * **Dismount**: Düşen oyuncu kısa bir süre tekrar binemez ("Binekten düşürüldünüz, X saniye binemezsiniz").
 * **Stamshot**: Sadece elinde topuz türü silah varken çalışır. Art arda vuruşlarla hedefin staminası hızla sıfırlanır.
 * **Sakatlar**: Hedef birkaç saniye yavaşlar, bir süre sonra kısa bir süre daha yavaşlar ("Yürümekte Zorlanır").
-* **Parçalama**: Bonus çıkınca kalkan, eldiven, kask, gorget, gövde ve kol arasından rastgele bir yer seçilir; orada giyili bir parça varsa yok olur (`* Seti Parçalanır *`). Safe alanda ve Oto PvP'de çalışmaz.
 * **Halüsinasyon**: Hallucination Potion ile geçer.
 
 ## Bonus bekleme süreleri

@@ -29,7 +29,7 @@ Paperdoll'daki **Help** butonuyla açılan yardım menüsündeki **Komutlar** d�
 | `.top10`, `.siralama`, `.istatistik`              | Sıralama menüsü                                                                                        |
 | `.map`, `.harita`                                 | Harita: konumunuzu gösterir; buradan bir oyuncuya takip isteği gönderebilirsiniz (o oyuncu onaylamalı) |
 | `.takipiptal`, `.gtakipiptal`, `.oksil`, `.arrow` | Takip okunu kapatır                                                                                    |
-| `.depo`                                           | Eşya deposu (sadece safe alanda)                                                                       |
+| `.depo`                                           | Eşya deposu (safe alanda ve guildinizin kiraladığı köyde)                                              |
 | `.spawntakip`                                     | Haritadaki aktif Random Spawn bineği sayısını yazar                                                    |
 | `.stormpuzzle`                                    | Storm puzzle koleksiyon kitabını açar                                                                  |
 | `.site`                                           | Web sitesini açar                                                                                      |
@@ -61,18 +61,19 @@ Paperdoll'daki **Help** butonuyla açılan yardım menüsündeki **Komutlar** d�
 
 ## Savaş
 
-| Komut                | Açıklama                                                                                                                                                                            |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `.poisur`            | Silaha zehir sürer: çantanızda Deadly Poison potion olmalı, silah çantanızda olmalı (kılıç, mızrak/kryss türü, balta ve dagger). 2 saniye sürer. Warrior'lar daha güçlü zehir sürer |
-| `.silah`             | İki silah kısayolu kaydeder (hedefleyerek)                                                                                                                                          |
-| `.silah1`, `.silah2` | Kayıtlı silahı kuşanır, kuşanmışsa çantaya indirir                                                                                                                                  |
-| `.jewelery`          | Çantanızdaki takıları (Hits Talisman, Animal Shield, Stat Shirt, Stat Küpe, Mana Sandals) tek seferde giyer                                                                         |
-| `.kupetak`           | Stat Küpe'yi takar                                                                                                                                                                  |
-| `.talismanpower`     | Taktığınız sınıf talismanının özel gücünü kullanır (10 dakikada bir)                                                                                                                |
-| `.cesetzaman`        | Ceset kesme özelliğinizin kalan süresini gösterir                                                                                                                                   |
-| `.stun`              | Stun bonusunu açar/kapatır (Wrestling ve Anatomy 80 gerekir)                                                                                                                        |
-| `.disarm`            | Disarm bonusunu açar/kapatır (Wrestling ve Arms Lore 80 gerekir)                                                                                                                    |
-| `.ibranice`          | Sadece mage: büyü sözlerinizi rün harfleriyle gösterir, rakip hangi büyüyü attığınızı okuyamaz. Açar/kapatır, oyundan çıkınca kapanır                                               |
+| Komut                | Açıklama                                                                                                                                                                                        |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.poisur`            | Silaha zehir sürer: çantanızda Deadly Poison potion olmalı, silah çantanızda olmalı (kılıç, mızrak/kryss türü, balta ve dagger). 2 saniye sürer. Zehir Warrior'da 4, diğerlerinde 3 vuruş işler |
+| `.silah`             | İki silah kısayolu kaydeder (hedefleyerek)                                                                                                                                                      |
+| `.silah1`, `.silah2` | Kayıtlı silahı kuşanır, kuşanmışsa çantaya indirir                                                                                                                                              |
+| `.silaherit`         | Çantanızdaki Extremely silahı kalan süresine göre Ghost Ingot'a çevirir (safe alanda; **Silahlar** sayfası)                                                                                     |
+| `.jewelery`          | Çantanızdaki takıları (Hits Talisman, Animal Shield, Stat Shirt, Stat Küpe, Mana Sandals) tek seferde giyer                                                                                     |
+| `.kupetak`           | Stat Küpe'yi takar                                                                                                                                                                              |
+| `.talismanpower`     | Taktığınız sınıf talismanının özel gücünü kullanır (10 dakikada bir)                                                                                                                            |
+| `.cesetzaman`        | Ceset kesme özelliğinizin kalan süresini gösterir                                                                                                                                               |
+| `.stun`              | Stun bonusunu açar/kapatır (Wrestling ve Anatomy 80 gerekir)                                                                                                                                    |
+| `.disarm`            | Disarm bonusunu açar/kapatır (Wrestling ve Arms Lore 80 gerekir)                                                                                                                                |
+| `.ibranice`          | Sadece mage: büyü sözlerinizi rün harfleriyle gösterir, rakip hangi büyüyü attığınızı okuyamaz. Açar/kapatır, oyundan çıkınca kapanır                                                           |
 
 ## Binek
 
