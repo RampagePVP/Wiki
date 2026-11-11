@@ -1,6 +1,6 @@
 # Silahlar
 
-Sunucudaki silahlar seviyelere ayrılır: Vanquishing (+15), +18, +21, +24 ve süreli Extremely silahlar. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
+Sunucudaki silahlar seviyelere ayrılır: Vanquishing (+15), +18, +21, +24, +27 ve süreli Extremely silahlar. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
 
 ## Hasar nasıl hesaplanır?
 
@@ -15,13 +15,14 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 ## Silah seviyeleri
 
-| Seviye            | Nereden                    | Gereken yetenek                                       |
-| ----------------- | -------------------------- | ----------------------------------------------------- |
-| Vanquishing (+15) | Satıcı                     | Silah yeteneği 100, Tactics 100                       |
-| Darquishing (+18) | 18 Bag, Upgrade Scroll     | Silah yeteneği 100, Tactics 100                       |
-| Screaming (+21)   | 21 Bag, Upgrade Scroll     | Silah yeteneği 100, Tactics 100                       |
-| Damned (+24)      | 24 Bag, Upgrade Scroll     | Silah yeteneği **110**, Tactics 100                   |
-| Extremely         | Extremely Box, Ghost Ingot | Fencing 100 (Maul için Macefighting 100), Tactics 100 |
+| Seviye            | Nereden                       | Gereken yetenek                                       |
+| ----------------- | ----------------------------- | ----------------------------------------------------- |
+| Vanquishing (+15) | Satıcı                        | Silah yeteneği 100, Tactics 100                       |
+| Darquishing (+18) | 18 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100                       |
+| Screaming (+21)   | 21 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100                       |
+| Damned (+24)      | 24 Bag, Upgrade Scroll        | Silah yeteneği **110**, Tactics 100                   |
+| Infernal (+27)    | Upgrade Scroll (+24 silahtan) | Silah yeteneği **110**, Tactics 100                   |
+| Extremely         | Extremely Box, Ghost Ingot    | Fencing 100 (Maul için Macefighting 100), Tactics 100 |
 
 * Silah çantaları (18 / 21 / 24 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
 * Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +18 ve +21 silahları sorunsuz kullanır. **+24 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
@@ -29,6 +30,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
   * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork
   * **Macefighting 110**: Club, War Mace, Hammer Pick, War Hammer, Quarter Staff, Black Staff
 * Silahlar Upgrade Scroll ile bir üst seviyeye geliştirilebilir (bkz. **Upgrade**).
+* **+27 silahlar** sadece +24 silahı upgrade ederek elde edilir; çantadan çıkmaz. Yetenek şartı ve bonusu +24 ile aynıdır, hasarı ve hızı daha yüksektir.
 
 ## Silah türleri ve bonusları
 
@@ -133,6 +135,7 @@ Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair S
 | +18                      | 2             |
 | +21, Fire silahlar       | 3             |
 | +24 (silah çantasından)  | 8             |
+| +27                      | 10            |
 
 ## Zehirli silah
 

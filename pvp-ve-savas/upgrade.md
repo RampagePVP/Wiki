@@ -17,11 +17,13 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 | Upgrade Scroll **\[Darquishing: +18]** | Vanquishing (+15)    | +18   | 25.000 gold  |
 | Upgrade Scroll **\[Screaming: +21]**   | +18                  | +21   | 50.000 gold  |
 | Upgrade Scroll **\[Damned: +24]**      | +21                  | +24   | 200.000 gold |
+| Upgrade Scroll **\[Infernal: +27]**    | +24                  | +27   | 500.000 gold |
 
-* Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +24 başarısı bütün sunucuya duyurulur.
+* Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +24 ve +27 başarısı bütün sunucuya duyurulur.
+* **+27 (Infernal)** en üst seviyedir. Bütün +24 silahlar +27 yapılabilir; silahın bonusu aynı kalır, hasarı ve hızı artar. Upgrade Scroll (+27) çok nadirdir: **Ender Hazine**'den ve **Dark Blood Monk**'tan çıkar.
 * Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, Scimitar, Katana, Bladed Staff, Kryss, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
 * **Upgrade edilemez:** Extremely silahlar, Fire Spear, Fire Katana.
-* +24 için gereken 110 yetenek **Silahlar** sayfasında.
+* +24 ve +27 için gereken 110 yetenek **Silahlar** sayfasında.
 
 ## Mage robe upgrade'i
 
@@ -86,7 +88,7 @@ Safe alandaki **Forge of Skill**'e çift tıklayıp (en fazla 3 kare uzaktan) er
 | +21 silah, Corruptor Mage Robe                | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
 | +24 silah (silah çantasından), Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
 
-Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Extremely ve Fire silahlar eritilemez.
+Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Extremely, Fire ve +27 silahlar eritilemez.
 
 ### Magic Ingot
 
