@@ -88,7 +88,7 @@ Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır.
 
 ### Ender Hazine
 
-* **Her zaman:** Devil ya da Dragon Set Deed, event potionlar (Bleed, Parablow, Dismount), Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +24 silah çantası, Upgrade Scroll (+24), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Extremely Box, Deed of Storm, Dragon Blood, Ghost Ingot, Binek Res Scroll, Magic Log, Magic Ingot, Str / Dex / Binek Armor belgeleri.
+* **Her zaman:** Devil ya da Dragon Set Deed, Event Potion, Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +24 silah çantası, Upgrade Scroll (+24), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Extremely Box, Deed of Storm, Dragon Blood, Ghost Ingot, Binek Res Scroll, Magic Log, Magic Ingot, Str / Dex / Binek Armor belgeleri.
 * **Şansa bağlı:** fazladan set belgesi ve Random Egg, Ranger ve Godness set parçası, Stat Full belgesi.
 
 ## Hazine yükseltme (Haydut)

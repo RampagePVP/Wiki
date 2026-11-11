@@ -112,6 +112,6 @@ Safe alanda Magic Ingot'a çift tıklayınca menü açılır:
 | Malzeme         | Ödül                                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------------- |
 | 25 Ghost Ingot  | Seçtiğin Extremely silah: Pike, Halberd, Maul, Cutlass, War Fork, Broadsword, Bardiche, Longsword |
-| 10 Dragon Blood | Event Potion (Bleed, Parablow ya da Dismount)                                                     |
+| 10 Dragon Blood | Event Potion (bonusu içerken seçilir)                                                             |
 
 İkisi de safe alanda, malzemeye çift tıklayınca açılan menüden yapılır.

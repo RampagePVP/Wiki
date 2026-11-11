@@ -51,7 +51,7 @@ Ejderha öldüğünde Quest alanında olan **her oyuncu** **50.000 gold Banka Ch
 | 1 Ender Hazine                                  | 5 adet +21 silah çantası           |
 | 1 Upgrade Scroll (+24)                          | 4 adet +24 silah çantası           |
 | 1 Upgrade Mage Scroll (Archmage)                | Dragon Blood                       |
-| 5'er Event Potion (Bleed, Parablow, Dismount)   |                                    |
+| 15 Event Potion                                 |                                    |
 | 2 Armorer Helm (iki türü)                       |                                    |
 | Şansa bağlı olarak Extremely Box ve Ghost Ingot |                                    |
 

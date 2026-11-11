@@ -49,13 +49,12 @@ Zehirli silahların zehri çok güçlüdür; Cure büyüsü böyle zehirlerde ç
 
 ## Özel potionlar
 
-| Potion                  | Etkisi                              | Süre      | Kim kullanabilir   |
-| ----------------------- | ----------------------------------- | --------- | ------------------ |
-| Event Potion (Bleed)    | Bleeding bonusun çok daha sık çıkar | 10 dakika | Mage hariç herkes  |
-| Event Potion (Parablow) | Parablow bonusun çok daha sık çıkar | 10 dakika | Mage hariç herkes  |
-| Event Potion (Dismount) | Dismount bonusun çok daha sık çıkar | 10 dakika | Mage hariç herkes  |
-| Stat Potion             | Bütün statlarına bonus              | 10 dakika | Warrior ve Warlock |
+| Potion       | Etkisi                                                                | Süre      | Kim kullanabilir   |
+| ------------ | --------------------------------------------------------------------- | --------- | ------------------ |
+| Event Potion | Seçtiğin bonus (Bleeding, Parablow ya da Dismount) çok daha sık çıkar | 10 dakika | Mage hariç herkes  |
+| Stat Potion  | Bütün statlarına bonus                                                | 10 dakika | Warrior ve Warlock |
 
+* Event Potion'a çift tıklayınca açılan pencereden bonusu seçersin; her içişte 1 potion harcanır.
 * Aynı anda sadece bir Event Potion etkisi olabilir; ikincisini içmeye çalışınca kalan süre yazar.
 * Event ve Stat Potion çantanda içilir ve ortak 14 saniyelik beklemeye bağlı değildir.
 * Event Potion, 10 Dragon Blood ile yapılır (bkz. **Upgrade**).
