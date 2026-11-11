@@ -37,17 +37,23 @@ Arch Mage Robe'u giymek için **Evaluating Intelligence 110** gerekir.
 
 ## Armorer Helm absorb
 
-Armorer Helm's'e ve zanaatta üretilen Shadow Hood ile Kasa'ya (warlock ve mage kaskları) bonus absorb şarjı eklenir. Scroll'a çift tıklayıp kaskı seçmen yeterli.
+Armorer Helm's'e ve zanaatta üretilen Shadow Hood ile Kasa'ya (warlock ve mage kaskları) bonus absorb şarjı eklenir. Üç absorb için tek scroll kullanılır: **Armor Helm Upgrade Scroll**.
 
-| Scroll                       | Etkisi                             |
-| ---------------------------- | ---------------------------------- |
-| Armorer Helm Bleed Absorb    | Sana çıkan Bleeding'i bir kez emer |
-| Armorer Helm Parablow Absorb | Sana çıkan Parablow'u bir kez emer |
-| Armorer Helm Dismount Absorb | Sana çıkan Dismount'u bir kez emer |
+1. Scroll'a çift tıkla.
+2. Açılan pencereden eklenecek absorbu seç.
+3. Kaskına tıkla.
 
-* Her scroll +1 şarj ekler, en fazla **5** şarj.
+| Seçenek         | Etkisi                             |
+| --------------- | ---------------------------------- |
+| Bleed Absorb    | Sana çıkan Bleeding'i bir kez emer |
+| Parablow Absorb | Sana çıkan Parablow'u bir kez emer |
+| Dismount Absorb | Sana çıkan Dismount'u bir kez emer |
+
+* Her şarj **1** scroll harcar; kask en fazla **5** şarj alır. Boş kaska **5** scroll ile **5** şarj eklenir.
+* Çantanda daha az scroll varsa o kadar şarj eklenir. Kaskta şarj varsa sadece eksik kalan kadar scroll gider.
 * Bir helme sadece **bir tür** absorb eklenebilir.
 * Kalan şarj helme tıklayınca görünür.
+* Elinde eski absorb scroll'ları (Bleed, Parablow, Dismount) varsa çift tıkla: aynı adette Armor Helm Upgrade Scroll'a çevrilir. Depodakiler `.depo` açılınca kendiliğinden çevrilir.
 
 ## Kalkan bonusu (Shield Bonus Book)
 

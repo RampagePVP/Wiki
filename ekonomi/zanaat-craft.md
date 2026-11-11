@@ -69,7 +69,7 @@ Kemik ve trofe malzemesi yaratığı **sizin** öldürmenize bağlıdır. Petini
 
 * Sadece **Mage ve Warlock** giyebilir (Magery 99.1 üstü).
 * Armorer Helm's gibi birer kasktır ve **Armorer Helm's'ten daha fazla zırh** verir. Kask katında oldukları için birbirleriyle ya da Armorer Helm's ile birlikte giyilemezler.
-* Armorer Helm absorb scroll'ları (Bleed, Parablow, Dismount) Shadow Hood ve Kasa'ya da eklenebilir; kurallar aynıdır (**Upgrade** sayfası). Kalan şarj ve hasar durumu kaska tıklayınca görünür.
+* Armor Helm Upgrade Scroll ile absorb şarjı (Bleed, Parablow, Dismount) Shadow Hood ve Kasa'ya da eklenebilir; kurallar aynıdır (**Upgrade** sayfası). Kalan şarj ve hasar durumu kaska tıklayınca görünür.
 * Depoya konabilir; imzası ve rengi korunur.
 
 ### Dekor

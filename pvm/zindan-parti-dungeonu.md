@@ -77,4 +77,4 @@ Big Boss öldüğünde bütün sunucuya duyuru yapılır ve zindandaki **her par
 
 Ardından parti 10 saniye içinde safe alana gönderilir.
 
-**Zindan ödül çantasından çıkanlar:** Dragon Set Deed ve Devil Set Deed (birkaç tane), Puzzle Parça Çantası, 1m gold çekleri, Silah Çantası (+24), Ranger set parçası, Godness set parçası, Random Egg, Golem (Advanced), Stat Full Deed, Değerli Hazine Sandığı, Ender Hazine, Extremely Box, Armorer Helm (Orc) ve (Bone), Solo Dungeon Key, Dragon Blood, Ghost Ingot, Binek Res Scroll, Binek Armor / Dex / Str Deed, Event Potion ve Helm Absorb Scroll.
+**Zindan ödül çantasından çıkanlar:** Dragon Set Deed ve Devil Set Deed (birkaç tane), Puzzle Parça Çantası, 1m gold çekleri, Silah Çantası (+24), Ranger set parçası, Godness set parçası, Random Egg, Golem (Advanced), Stat Full Deed, Değerli Hazine Sandığı, Ender Hazine, Extremely Box, Armorer Helm (Orc) ve (Bone), Solo Dungeon Key, Dragon Blood, Ghost Ingot, Binek Res Scroll, Binek Armor / Dex / Str Deed, Event Potion ve Armor Helm Upgrade Scroll.

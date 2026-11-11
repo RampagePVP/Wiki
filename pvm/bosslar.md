@@ -46,7 +46,7 @@ Ghost Ostard'ı tam güce ulaşmış bir oyuncunun bineği öldürülürse, Ghos
 * Canı çok azalınca kendini iyileştirir.
 * Öldüğünde onu kesen oyuncu bütün sunucuya duyurulur.
 
-**Ganimet:** 1m gold çekleri, Stat Full Deed, Devil ya da Dragon Set Deed'ler, Ranger ve Godness set parçaları, Silah Çantası (+24), Ender Hazine, Extremely Box, Puzzle Parça Çantası, Random Egg, Solo Dungeon Key, Party Statue, Ghost Ingot, Dragon Blood, Binek Res Scroll, Upgrade Scroll (+18) ve (+21), Mage Scroll (Felheart) ve (Corruptor), Magic Log, Magic Ingot, Event Potion ve Helm Absorb Scroll.
+**Ganimet:** 1m gold çekleri, Stat Full Deed, Devil ya da Dragon Set Deed'ler, Ranger ve Godness set parçaları, Silah Çantası (+24), Ender Hazine, Extremely Box, Puzzle Parça Çantası, Random Egg, Solo Dungeon Key, Party Statue, Ghost Ingot, Dragon Blood, Binek Res Scroll, Upgrade Scroll (+18) ve (+21), Mage Scroll (Felheart) ve (Corruptor), Magic Log, Magic Ingot, Event Potion ve Armor Helm Upgrade Scroll.
 
 ## Dark Blood Monk
 
