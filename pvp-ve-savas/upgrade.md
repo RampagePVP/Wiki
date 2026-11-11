@@ -22,7 +22,7 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 * Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +24 ve +27 başarısı bütün sunucuya duyurulur.
 * **+27 (Infernal)** en üst seviyedir. Bütün +24 silahlar +27 yapılabilir; silahın bonusu aynı kalır, hasarı ve hızı artar. Upgrade Scroll (+27) çok nadirdir: **Ender Hazine**'den ve **Dark Blood Monk**'tan çıkar.
 * Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, Scimitar, Katana, Bladed Staff, Kryss, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
-* **Upgrade edilemez:** Extremely silahlar, Fire Spear, Fire Katana.
+* **Upgrade edilemez:** Fire Spear, Fire Katana.
 * +24 ve +27 için gereken 110 yetenek **Silahlar** sayfasında.
 
 ## Mage robe upgrade'i
@@ -65,12 +65,12 @@ Guild eşyası **Shield Bonus Book** ile Order ya da Chaos Shield'a 24 saatlik b
 * Kalkanda başka bonus olmamalı. 24 saat dolunca bonus kalkar ("Kalkanın özelliği bitmiştir").
 * Order Shield'ı sadece Order, Chaos Shield'ı sadece Chaos taraflı guild üyeleri kullanabilir.
 
-| Bonus                | Etkisi                                                   |
-| -------------------- | -------------------------------------------------------- |
-| Bleeding Block       | Bleeding'den etkilenmezsin                               |
-| Paradarbe Block      | Parablow'dan etkilenmezsin                               |
-| Critical Darbe Block | Extremely silahların Critical Damage'ından etkilenmezsin |
-| Binek Defence        | Binek saldırılarının bir kısmı engellenir                |
+| Bonus                | Etkisi                                    |
+| -------------------- | ----------------------------------------- |
+| Bleeding Block       | Bleeding'den etkilenmezsin                |
+| Paradarbe Block      | Parablow'dan etkilenmezsin                |
+| Critical Darbe Block | Critical Shoot'tan etkilenmezsin          |
+| Binek Defence        | Binek saldırılarının bir kısmı engellenir |
 
 ## Robe şarjları
 
@@ -88,7 +88,7 @@ Safe alandaki **Forge of Skill**'e çift tıklayıp (en fazla 3 kare uzaktan) er
 | +21 silah, Corruptor Mage Robe                | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
 | +24 silah (silah çantasından), Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
 
-Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Extremely, Fire ve +27 silahlar eritilemez.
+Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Fire ve +27 silahlar eritilemez.
 
 ### Magic Ingot
 
@@ -109,11 +109,10 @@ Safe alanda Magic Ingot'a çift tıklayınca menü açılır:
 
 25 Magic Log ile safe alanda Fire Bow, Earth Bow, Energy Bow ya da Ice Bow yapılır (Archery 110 gerekir; bkz. **Silahlar**).
 
-## Sargeras malzemeleri ve Dragon Blood
+## Dragon Blood
 
-| Malzeme         | Ödül                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------- |
-| 25 Ghost Ingot  | Seçtiğin Extremely silah: Pike, Halberd, Maul, Cutlass, War Fork, Broadsword, Bardiche, Longsword |
-| 10 Dragon Blood | Event Potion (bonusu içerken seçilir)                                                             |
+| Malzeme         | Ödül                                  |
+| --------------- | ------------------------------------- |
+| 10 Dragon Blood | Event Potion (bonusu içerken seçilir) |
 
-İkisi de safe alanda, malzemeye çift tıklayınca açılan menüden yapılır.
+Safe alanda, Dragon Blood'a çift tıklayınca açılan menüden yapılır.

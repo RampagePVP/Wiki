@@ -31,7 +31,7 @@ Dark Blood Monk, dungeonlarda birçok noktada sürekli yeniden çıkan güçlü 
 | Sık         | Silah Çantası (+18), Dragon Blood, 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                                                                        |
 | Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+21), Mage Scroll (Corruptor), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+21), Upgrade Scroll (+24), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone), Upgrade Scroll (+18), Mage Scroll (Felheart) |
 | Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+24), Party Statue, Armor Helm Upgrade Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                                                                  |
-| Çok nadir   | Ghost Ingot, Golem (Advanced), Stat Full Deed, Holy Robe, Upgrade Scroll (+27)                                                                                                                                                                                                               |
+| Çok nadir   | Golem (Advanced), Stat Full Deed, Holy Robe, Upgrade Scroll (+27)                                                                                                                                                                                                                            |
 
 {% hint style="info" %}
 Armorer Helm ve Holy Robe, içinde tam sağlam eşya olan ayrı bir çanta ("Loot Bag") olarak düşer.

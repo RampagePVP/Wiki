@@ -50,13 +50,13 @@ Sandık açıldıktan 1 dakika sonra konumunuz bütün sunucuya duyurulur. Diğe
 
 **Sandıktan çıkanlar:**
 
-| Ne sıklıkla | Eşya                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Her zaman   | Puzzle Parça Çantası                                                                                                           |
-| Sık         | Değerli Hazine Sandığı, Devil Set Deed, Silah Çantası (+21)                                                                    |
-| Ara sıra    | 250k gold çeki, Dragon Blood, Random Egg, Magic Log, Dragon Set Deed, Ghost Ingot, Armor Helm Upgrade Scroll, Binek Res Scroll |
-| Nadir       | 1m gold çeki, Silah Çantası (+24), Magic Ingot                                                                                 |
-| Çok nadir   | Ranger set parçası, Ender Hazine, Godness set parçası, Stat Full Deed                                                          |
+| Ne sıklıkla | Eşya                                                                                                              |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| Her zaman   | Puzzle Parça Çantası                                                                                              |
+| Sık         | Değerli Hazine Sandığı, Devil Set Deed, Silah Çantası (+21)                                                       |
+| Ara sıra    | 250k gold çeki, Dragon Blood, Random Egg, Magic Log, Dragon Set Deed, Armor Helm Upgrade Scroll, Binek Res Scroll |
+| Nadir       | 1m gold çeki, Silah Çantası (+24), Magic Ingot                                                                    |
+| Çok nadir   | Ranger set parçası, Ender Hazine, Godness set parçası, Stat Full Deed                                             |
 
 ## Canavarlara karşı genel kurallar
 

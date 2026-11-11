@@ -136,8 +136,6 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 | Stat Full belgesi                                                                                                | 5.000.000        |
 | Belirsiz Sandık                                                                                                  | 1.000            |
 | Değerli Hazine Sandığı                                                                                           | 10.000           |
-| Extremely Box                                                                                                    | 150.000          |
-| Ghost Ingot                                                                                                      | 40.000           |
 | Deed of Storm                                                                                                    | 7.000            |
 
 ## Magic Exchange
@@ -174,9 +172,7 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | Ice Shield, Mage Shield                              | 25                 |
 | Holy Robe                                            | 15                 |
 | Armorer Helm                                         | 5                  |
-| Extremely Box                                        | 1.000              |
 | Stat Full belgesi                                    | 100                |
-| Ghost Ingot                                          | 100                |
 | Advanced Golem figürü                                | 20                 |
 | Olgun Ostard Egg                                     | 20                 |
 | Gold Key                                             | 30                 |

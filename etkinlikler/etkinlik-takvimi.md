@@ -87,5 +87,4 @@ Mini etkinliklerin çoğunda kazanan şu üç ödülü alır (her etkinliğin sa
 | Ödül         | Açıklama                                           |
 | ------------ | -------------------------------------------------- |
 | Banka Checki | 250.000 gold                                       |
-| Ghost Ingot  | 1 adet                                             |
 | Random Egg   | 1 adet; safe alanda açılır, rastgele binek çıkarır |

@@ -47,7 +47,7 @@ Büyü korumasının nasıl çalıştığı **Kalkan ve Savunma** sayfasında.
 
 ## PvP hasar indirimi nasıl çalışır?
 
-Bir oyuncu sana sunucu silahlarıyla (`+18`, `+21`, `+24`, Extremely vb.) vurduğunda vuruşun hasarından bir **oran** düşülür.
+Bir oyuncu sana sunucu silahlarıyla (`+18`, `+21`, `+24` vb.) vurduğunda vuruşun hasarından bir **oran** düşülür.
 
 * Sahip olduğun seçenekler (set, setsiz armor, Armored Steed) arasından **en iyi koruyan** uygulanır. Set giyen oyuncu hiçbir zaman setsiz halinden kötü durumda kalmaz.
 * İndirim oransal olduğu için hızlı ve yavaş silahlar her sete karşı aynı ölçüde etkilenir.

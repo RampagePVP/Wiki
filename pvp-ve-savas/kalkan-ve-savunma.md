@@ -4,7 +4,7 @@ Set korumasının dışında aldığın hasarı azaltan her şey bu sayfada: kal
 
 ## Bir silah vuruşunda hasar sırası
 
-Bir oyuncu sana sunucu silahıyla (`+18`, `+21`, `+24`, Extremely vb.) vurduğunda hasar şu sırayla hesaplanır:
+Bir oyuncu sana sunucu silahıyla (`+18`, `+21`, `+24` vb.) vurduğunda hasar şu sırayla hesaplanır:
 
 1. Silahın hasar aralığından rastgele bir değer seçilir.
 2. **PvP hasar indirimi** düşülür: setin, setsiz armorun ya da Armored Steed korumandan en iyisi + warlock/mage için büyü bonusu (bkz. **Setler**).

@@ -22,7 +22,7 @@ Katılım şartları ve genel kurallar için **Etkinlik Takvimi** sayfasına bak
 * Silahla vurmak, skill kullanmak ve büyü yapmak yasaktır.
 * Ölen oyuncu elenir ve safe alana döner. **Son kalan** kazanır.
 
-**Ödül:** 250.000 gold Banka Checki, 1 Ghost Ingot, 1 Random Egg, +3 etkinlik puanı.
+**Ödül:** 250.000 gold Banka Checki, 1 Random Egg, +3 etkinlik puanı.
 
 ## Bisiklet Yarışı (her gün 17:00)
 
@@ -31,7 +31,7 @@ Katılım şartları ve genel kurallar için **Etkinlik Takvimi** sayfasına bak
 * Yarışta saldırı, skill, büyü ve war mode kapalıdır; bisikletten inilemez. Yere attığınız eşyalar bankanıza gönderilir.
 * Bitiş çizgisine **ilk basan** kazanır ve yarış biter.
 
-**Ödül:** 250.000 gold Banka Checki, 1 Ghost Ingot, 1 Random Egg.
+**Ödül:** 250.000 gold Banka Checki, 1 Random Egg.
 
 {% hint style="info" %}
 Bisiklet Yarışı etkinlik puanı vermez.
@@ -44,7 +44,7 @@ Bisiklet Yarışı etkinlik puanı vermez.
 * Silahla vurmak, skill ve büyü yasaktır; potion dışında eşya kullanılamaz.
 * Ölen elenir, **son kalan** kazanır.
 
-**Ödül:** 250.000 gold Banka Checki, 1 Ghost Ingot, 1 Random Egg, +3 etkinlik puanı.
+**Ödül:** 250.000 gold Banka Checki, 1 Random Egg, +3 etkinlik puanı.
 
 ## GM Topuk (her gün 19:00)
 
@@ -52,7 +52,7 @@ Bisiklet Yarışı etkinlik puanı vermez.
 * Etkinlik başlayınca alana çok hızlı bir **Energy Vortex** salınır. Oyuncular saldıramaz, skill ve büyü kullanamaz; tek yapmanız gereken vortex'ten kaçmak.
 * Vortex'e yakalanıp ölen elenir, **son kalan** kazanır.
 
-**Ödül:** 250.000 gold Banka Checki, 1 Ghost Ingot, 1 Random Egg, +3 etkinlik puanı.
+**Ödül:** 250.000 gold Banka Checki, 1 Random Egg, +3 etkinlik puanı.
 
 ## Zar (GM açar)
 

@@ -1,6 +1,6 @@
 # Silahlar
 
-Sunucudaki silahlar seviyelere ayrılır: Vanquishing (+15), +18, +21, +24, +27 ve süreli Extremely silahlar. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
+Sunucudaki silahlar seviyelere ayrılır: Vanquishing (+15), +18, +21, +24 ve +27. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
 
 ## Hasar nasıl hesaplanır?
 
@@ -15,14 +15,13 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 ## Silah seviyeleri
 
-| Seviye            | Nereden                       | Gereken yetenek                                       |
-| ----------------- | ----------------------------- | ----------------------------------------------------- |
-| Vanquishing (+15) | Satıcı                        | Silah yeteneği 100, Tactics 100                       |
-| Darquishing (+18) | 18 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100                       |
-| Screaming (+21)   | 21 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100                       |
-| Damned (+24)      | 24 Bag, Upgrade Scroll        | Silah yeteneği **110**, Tactics 100                   |
-| Infernal (+27)    | Upgrade Scroll (+24 silahtan) | Silah yeteneği **110**, Tactics 100                   |
-| Extremely         | Extremely Box, Ghost Ingot    | Fencing 100 (Maul için Macefighting 100), Tactics 100 |
+| Seviye            | Nereden                       | Gereken yetenek                     |
+| ----------------- | ----------------------------- | ----------------------------------- |
+| Vanquishing (+15) | Satıcı                        | Silah yeteneği 100, Tactics 100     |
+| Darquishing (+18) | 18 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100     |
+| Screaming (+21)   | 21 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100     |
+| Damned (+24)      | 24 Bag, Upgrade Scroll        | Silah yeteneği **110**, Tactics 100 |
+| Infernal (+27)    | Upgrade Scroll (+24 silahtan) | Silah yeteneği **110**, Tactics 100 |
 
 * Silah çantaları (18 / 21 / 24 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
 * Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +18 ve +21 silahları sorunsuz kullanır. **+24 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
@@ -52,42 +51,6 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 * 18 ve 21 Bag'den: Axe türleri, Halberd, Bardiche, Scimitar, Katana, Kryss, Spear, Short Spear, Pitchfork, Club, War Mace, Hammer Pick, War Hammer.
 * 24 Bag'den bunlara ek olarak Bladed Staff, Pike ve Black Staff da çıkar.
 
-## Extremely silahlar
-
-Extremely silahlar **7 gün** sonra silinir; kalan süre tıklayınca yazar. Upgrade edilemez ve Forge of Skill'de eritilemez. Hepsinde **Critical Damage** bonusu vardır.
-
-| Silah                          | Bonuslar                                               |
-| ------------------------------ | ------------------------------------------------------ |
-| Pike                           | Parablow, Dismount, Critical Damage                    |
-| Short Spear                    | Parablow, Critical Damage                              |
-| Halberd                        | Dismount, Critical Damage                              |
-| Bardiche                       | Kendine Çeker, Critical Damage                         |
-| Maul                           | Stamshot, Sakatlar, Critical Damage (Macefighting 100) |
-| War Fork                       | Critical Damage                                        |
-| Broadsword, Longsword, Cutlass | Bleeding, Critical Damage                              |
-| War Axe                        | Stamshot, Critical Damage                              |
-
-**Nereden:**
-
-* **Extremely Box**: safe alanda açılır, içinden rastgele biri çıkar: Pike, Short Spear, Halberd, Bardiche, War Fork, Longsword, Broadsword, War Axe, Cutlass.
-* **Ghost Ingot** (Sargeras düşürür): 25 Ghost Ingot ile istediğin Extremely silahı seçersin (bkz. **Upgrade**).
-
-### Extremely silahı eritmek (`.silaherit`)
-
-Safe alanda `.silaherit` yazıp çantandaki bir Extremely silahı seçersin. Açılan pencerede silahın kalan süresi ve kazanacağın **Ghost Ingot** görünür; **Onayla**'ya basınca silah silinir, ingotlar çantana gelir.
-
-| Kalan süre | Ghost Ingot |
-| ---------- | ----------- |
-| 7 gün      | 4           |
-| 6 gün      | 3           |
-| 4-5 gün    | 2           |
-| 3 gün      | 1           |
-| 1-2 gün    | Eritilemez  |
-
-* Kalan süre yukarı yuvarlanır: 6 gün 3 saati kalan silah "7 gün" sayılır.
-* Silah çantanda olmalı; kuşanılı, bankadaki ya da yerdeki silah eritilmez. Süresi dolmuş silah eritilemez.
-* Sadece Extremely silahlar eritilir; Fire silahlar eritilemez.
-
 ## Fire silahlar
 
 | Silah       | Gereken                        | Bonuslar        |
@@ -96,7 +59,7 @@ Safe alanda `.silaherit` yazıp çantandaki bir Extremely silahı seçersin. Aç
 | Fire Katana | Swordsmanship 100, Tactics 100 | Bleeding, Yakar |
 
 * **Fire Silahı Seç** belgesine safe alanda çift tıklayıp Fire Spear ya da Fire Katana seçersin; silah **belgenin kalan süresiyle** çantana gelir. Süresi dolan belge ve silah silinir.
-* Fire ve Extremely silahlar upgrade edilemez.
+* Fire silahlar upgrade edilemez.
 
 ## Yaylar
 
@@ -129,13 +92,13 @@ Bu sayfadaki silahlar kullandıkça yıpranır:
 
 Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair Scroll** ile tamir edilir. Scroll'a çift tıklayıp tamir edilecek eşyayı seçersin. Gereken scroll sayısı silahın seviyesine göre değişir:
 
-| Seviye                   | Repair Scroll |
-| ------------------------ | ------------- |
-| Vanquishing ve Extremely | 10            |
-| +18                      | 2             |
-| +21, Fire silahlar       | 3             |
-| +24 (silah çantasından)  | 8             |
-| +27                      | 10            |
+| Seviye                  | Repair Scroll |
+| ----------------------- | ------------- |
+| Vanquishing             | 10            |
+| +18                     | 2             |
+| +21, Fire silahlar      | 3             |
+| +24 (silah çantasından) | 8             |
+| +27                     | 10            |
 
 ## Zehirli silah
 

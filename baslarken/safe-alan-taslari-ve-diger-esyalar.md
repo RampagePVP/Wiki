@@ -140,7 +140,6 @@ Aşınan silah, kalkan, zırh ve kıyafetlerinizi **Repair Scroll** ile tamir ed
 | +18                             | 2                     |
 | +21                             | 3                     |
 | +24                             | 8                     |
-| Extremely                       | 10                    |
 | Brodex                          | 4                     |
 | Ranger ve Godness set parçaları | 3                     |
 

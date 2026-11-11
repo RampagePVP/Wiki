@@ -50,7 +50,6 @@ Etkinlik başladığında alanda olan herkes **+1 etkinlik puanı** alır. Kazan
 | Ödül           | Miktar       |
 | -------------- | ------------ |
 | Banka Checki   | 250.000 gold |
-| Ghost Ingot    | 1            |
 | Random Egg     | 1            |
 | Etkinlik puanı | +5           |
 

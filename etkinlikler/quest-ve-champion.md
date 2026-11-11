@@ -39,24 +39,23 @@ Ejderha çıktığında alanda olan herkes +1 etkinlik puanı alır.
 
 Ejderha öldüğünde Quest alanında olan **her oyuncu** **50.000 gold Banka Checki** ve iki ödül çantası alır:
 
-| 1. çanta                                        | 2. çanta                           |
-| ----------------------------------------------- | ---------------------------------- |
-| 6 Random Egg                                    | 4 Banka Checki (250.000 gold)      |
-| 20 Magic Ingot                                  | 4 Devil Set Deed                   |
-| 5 Solo Dungeon Key                              | 4 Dragon Set Deed                  |
-| 3 Party Statue                                  | 10 Upgrade Scroll (+21)            |
-| 2 Banka Checki (1.000.000 gold)                 | 10 Upgrade Scroll (+18)            |
-| 20 Magic Log                                    | 5 Upgrade Mage Scroll (Felheart)   |
-| 10 Değerli Hazine Sandığı                       | 10 Upgrade Mage Scroll (Corruptor) |
-| 1 Ender Hazine                                  | 5 adet +21 silah çantası           |
-| 1 Upgrade Scroll (+24)                          | 4 adet +24 silah çantası           |
-| 1 Upgrade Mage Scroll (Archmage)                | Dragon Blood                       |
-| 15 Event Potion                                 |                                    |
-| 2 Armorer Helm (iki türü)                       |                                    |
-| Şansa bağlı olarak Extremely Box ve Ghost Ingot |                                    |
+| 1. çanta                         | 2. çanta                           |
+| -------------------------------- | ---------------------------------- |
+| 6 Random Egg                     | 4 Banka Checki (250.000 gold)      |
+| 20 Magic Ingot                   | 4 Devil Set Deed                   |
+| 5 Solo Dungeon Key               | 4 Dragon Set Deed                  |
+| 3 Party Statue                   | 10 Upgrade Scroll (+21)            |
+| 2 Banka Checki (1.000.000 gold)  | 10 Upgrade Scroll (+18)            |
+| 20 Magic Log                     | 5 Upgrade Mage Scroll (Felheart)   |
+| 10 Değerli Hazine Sandığı        | 10 Upgrade Mage Scroll (Corruptor) |
+| 1 Ender Hazine                   | 5 adet +21 silah çantası           |
+| 1 Upgrade Scroll (+24)           | 4 adet +24 silah çantası           |
+| 1 Upgrade Mage Scroll (Archmage) | Dragon Blood                       |
+| 15 Event Potion                  |                                    |
+| 2 Armorer Helm (iki türü)        |                                    |
 
 {% hint style="info" %}
-Yukarıdaki ödüller günlük 22:00 Quest'i içindir. GM'lerin açtığı ek Quest'lerde 50.000 gold checkin yanında daha küçük tek bir çanta verilir: Random Egg, Magic Ingot, Solo Dungeon Key, Party Statue, 1.000.000 gold check, Magic Log, Değerli Hazine Sandığı, Event Potion, Armorer Helm, Devil ve Dragon Set Deed, Upgrade Scroll (+21 ve +18), Felheart ve Corruptor scroll, +24 silah çantası, Dragon Blood; şansa bağlı olarak Extremely Box ve Ender Hazine.
+Yukarıdaki ödüller günlük 22:00 Quest'i içindir. GM'lerin açtığı ek Quest'lerde 50.000 gold checkin yanında daha küçük tek bir çanta verilir: Random Egg, Magic Ingot, Solo Dungeon Key, Party Statue, 1.000.000 gold check, Magic Log, Değerli Hazine Sandığı, Event Potion, Armorer Helm, Devil ve Dragon Set Deed, Upgrade Scroll (+21 ve +18), Felheart ve Corruptor scroll, +24 silah çantası, Dragon Blood; şansa bağlı olarak Ender Hazine.
 {% endhint %}
 
 ## Günlük Champion (22:30)

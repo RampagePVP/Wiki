@@ -112,7 +112,6 @@ Oyunda geçirdiğiniz her dakika hesabınıza **1 Online Kredi** ekler ("Kredi P
 | Ödül                                           | Kredi  |
 | ---------------------------------------------- | ------ |
 | 150 adet Str Deed Belgesi (çanta içinde)       | 1.500  |
-| 5 Extremely Ingot (çanta içinde)               | 2.500  |
 | Ender Hazine Haritası                          | 4.000  |
 | 5M Gold Check                                  | 5.000  |
 | 10.000 Binek Res Scroll (çanta içinde)         | 8.000  |
