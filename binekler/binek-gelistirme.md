@@ -39,10 +39,27 @@ Armor sınırı belgelerle **eklenen** armor içindir. Bazı bineklerin kendi do
 
 ### Belgeler nereden çıkar?
 
-| Belge                     | Nereden                                                                                                          |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Str, Dex, Armor belgeleri | Zindan canavarları ve boss'lar, hazine sandıkları, Solo Dungeon ve Zindan ödülleri                               |
-| Stat Full                 | Master Taming Menü (**25 random spawn puanı**), Sargeras, Daemon Blood Champion, Solo Dungeon ve Zindan ödülleri |
+| Belge                     | Nereden                                                                                                                                                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Str, Dex, Armor belgeleri | Zindan canavarları ve boss'lar, hazine sandıkları, Solo Dungeon ve Zindan ödülleri                                                                                    |
+| Stat Full                 | Master Taming Menü (**25 random spawn puanı**), Sargeras, Daemon Blood Champion, Solo Dungeon ve Zindan ödülleri; Str, Dex ve Armor belgeleriyle takas (`.deedtakas`) |
+
+### Belgeleri Stat Full'a çevirmek (`.deedtakas`)
+
+Biriktirdiğiniz Str, Dex ve Armor belgelerini Stat Full belgesine çevirebilirsiniz. Safe alanda `.deedtakas` yazın; açılan pencerede çantanızdaki belgeler, gereken adetler ve kaç Stat Full alabileceğiniz görünür.
+
+**1 Stat Full için gereken:**
+
+| Belge    | Adet |
+| -------- | ---- |
+| Str Deed | 300  |
+| Dex Deed | 170  |
+| Armor    | 50   |
+
+* Üç belgeden de gereken adet **çantanızda** olmalı; belgeler birbirinin yerine sayılmaz.
+* Bankadaki ve depodaki belgeler sayılmaz, önce çantanıza alın.
+* **1 Adet Al** tek Stat Full verir; belgeleriniz birden fazlasına yetiyorsa **Hepsini Al** düğmesi de çıkar.
+* Takas edilen belgeler silinir, işlem geri alınamaz.
 
 ### Binek ölünce belgeler
 
