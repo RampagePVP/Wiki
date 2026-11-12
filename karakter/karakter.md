@@ -87,9 +87,9 @@ Honor Point puan sayılan her PvP öldürmesinde 5 adet olarak çantanıza gelir
 
 | Eşya                | Fiyat           |
 | ------------------- | --------------- |
-| Talisman of Mage    | 250 Honor Point |
-| Talisman of Warlock | 250 Honor Point |
-| Talisman of Warrior | 250 Honor Point |
+| Talisman of Mage    | 100 Honor Point |
+| Talisman of Warlock | 100 Honor Point |
+| Talisman of Warrior | 100 Honor Point |
 
 Talismanlar **7 gün** sürer ve sadece kendi sınıfınız (ünvanınız) tarafından takılabilir. Talismana tek tıklayınca ne işe yaradığı da yazar.
 
