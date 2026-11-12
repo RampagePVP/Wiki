@@ -29,7 +29,7 @@ Her gece 23:00'te otomatik açılan 1vs1 PvP Turnuvası, eleme usulü birebir d�
 
 Turnuvada herkesin eşit şartlarda dövüşmesi için güçlü eşyalar yasaktır. Başlıcaları:
 
-* Üst seviye set parçaları, kalkanları ve set deed'leri (Godness, Dragon, Ranger, Devil Özel)
+* Üst seviye set parçaları, kalkanları ve set deed'leri (Godness, Ranger). Devil ve Dragon setleri serbesttir.
 * Armorer Helm ve özel kalkanlar
 * Özel robeler
 * +18 ve üstü silahlar, özel silahlar ve özel yaylar

@@ -119,15 +119,13 @@ Vanquishing silahlarını gold karşılığı satar. Menüde silahın özellikle
 
 ## Armor Stone
 
-| Eşya               | Sınıf         | Fiyat (gold) |
-| ------------------ | ------------- | ------------ |
-| High Mage Robe     | Mage          | 2.000        |
-| Notum Robe         | Warrior       | 2.000        |
-| Perfect Robe       | Warlock       | 2.000        |
-| Dragonic Set Deed  | Mage, Warlock | 3.500        |
-| Diablo Set Deed    | Warrior       | 4.000        |
-| Gold Set Deed      | Mage, Warlock | 4.000        |
-| Blackrock Set Deed | Warrior       | 2.000        |
+| Eşya            | Sınıf         | Fiyat (gold) |
+| --------------- | ------------- | ------------ |
+| High Mage Robe  | Mage          | 2.000        |
+| Notum Robe      | Warrior       | 2.000        |
+| Perfect Robe    | Warlock       | 2.000        |
+| Devil Set Deed  | Mage, Warlock | 3.500        |
+| Dragon Set Deed | Warrior       | 4.000        |
 
 Setler ve robeler **Setler** ve **Robeler** sayfalarında anlatılmıştır.
 

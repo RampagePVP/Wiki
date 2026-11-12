@@ -16,7 +16,6 @@ Bir oyuncu sana sunucu silahıyla (`+18`, `+21`, `+24` vb.) vurduğunda hasar ş
 Elinde **herhangi bir kalkan** varsa, oyuncuların silah vuruşlarından her seferinde hasarın bir kısmı emilir.
 
 * Emilen miktar **Parrying** yeteneğine bağlıdır: Parrying ne kadar yüksekse o kadar çok emilir.
-* Diablo seti giyiliyken kalkan daha az emer.
 * Engellenen miktar sol altta "Parry Blow! (X hasar engellendi)" diye yazar.
 * Nemea'nın Parçalayan Pençe yeteneğini yiyen oyuncunun kalkanı bir süre Parry Blow yapamaz.
 
@@ -24,15 +23,13 @@ Kalkan, warrior'ların warlock ve mage'lere karşı en büyük savunma üstünl�
 
 ## Kalkanlar
 
-| Kalkan                  | Kim kullanabilir                        | Özellik                                                                        |
-| ----------------------- | --------------------------------------- | ------------------------------------------------------------------------------ |
-| Godness Shield          | Warrior                                 | Godness setiyle gelir.                                                         |
-| Dragon Shield           | Warrior                                 | Zaman zaman aldığın hasarın tamamı engellenir ("Damage Absorb Edildi!").       |
-| Diablo Shield           | Warrior                                 | Diablo setiyle gelir.                                                          |
-| Blackrock Heater Shield | Savaş yeteneği 20+ olanlar              | Giyince Protection ve Reactive Armor silinir.                                  |
-| Order / Chaos Shield    | Order ya da Chaos taraflı guild üyeleri | Shield Bonus Book ile 24 saatlik koruma bonusu eklenebilir (bkz. **Upgrade**). |
-| Ice Shield              | Warlock                                 | Weaken'dan etkilenmezsin. Deniz Kıyısı bölgesinde giyilemez.                   |
-| Mage Shield             | Mage                                    | Deniz Kıyısı bölgesinde giyilemez.                                             |
+| Kalkan               | Kim kullanabilir                        | Özellik                                                                        |
+| -------------------- | --------------------------------------- | ------------------------------------------------------------------------------ |
+| Godness Shield       | Warrior                                 | Godness setiyle gelir.                                                         |
+| Dragon Shield        | Warrior                                 | Zaman zaman aldığın hasarın tamamı engellenir ("Damage Absorb Edildi!").       |
+| Order / Chaos Shield | Order ya da Chaos taraflı guild üyeleri | Shield Bonus Book ile 24 saatlik koruma bonusu eklenebilir (bkz. **Upgrade**). |
+| Ice Shield           | Warlock                                 | Weaken'dan etkilenmezsin. Deniz Kıyısı bölgesinde giyilemez.                   |
+| Mage Shield          | Mage                                    | Deniz Kıyısı bölgesinde giyilemez.                                             |
 
 ## Protection ve Reactive Armor
 
@@ -42,7 +39,7 @@ Bu iki büyü PvP'de warlock ve mage'e (Magery 20 ve üstü) **ek koruma** verir
 * Reactive Armor'lı oyuncu oyuncudan vuruş yediğinde her vuruşta efekti görünür.
 * **Geri yansıtma:** Üzerinde Reactive Armor olan oyuncu yakından (2 kare) silahla vurulunca, o vuruşta gerçekten kaybettiği canın küçük bir kısmını vurana geri yansıtır ("Reactive Armor: N hasar yansıdı"). Bu özellik Magery şartı aramaz, wand ile Reactive açan warrior'da da çalışır. Oklar yansımaz, yansıma vuranı öldürmez. Mirror Robe giyiliyken Reactive yansıtmaz.
 * Warrior'lar (Magery 20 altı) bu büyüleri wand ya da upgrade yoluyla alsa da ek korumayı almaz.
-* Notum Robe ve Blackrock parçaları giyilirken üzerindeki Protection ve Reactive Armor silinir.
+* Notum Robe giyilirken üzerindeki Protection ve Reactive Armor silinir.
 
 Huma bineğinin **Koruyucu Aura** yeteneği de binene ve yakındaki guild üyelerine kısa süre ek koruma verir.
 
@@ -56,7 +53,6 @@ Bazı eşyalar ve setler, oyunculardan gelen saldırı büyülerinin (Flamestrik
 | Godness ve Dragon seti                                    | Saldırı büyülerine ve Mind Blast'a karşı              |
 | 2. seviye geliştirilmiş guild bineği                      | Mind Blast hariç saldırı büyülerine karşı             |
 | Perfect Robe (Warlock)                                    | Fireball ve Mind Blast hariç saldırı büyülerine karşı |
-| Diablo seti                                               | Godness/Dragon'dan daha hafif; Mind Blast dahil       |
 
 * Koruma **Magic Resistance** yeteneğine bağlıdır; yeteneğin düşükse koruma azalır ya da hiç çalışmaz.
 * Numa bineğindeyken Perfect Robe'un korumasının bir kısmı çalışmaz.

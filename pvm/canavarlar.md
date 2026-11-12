@@ -26,7 +26,7 @@ Guild kudret puanının ne işe yaradığı **Guild** sayfasında anlatılıyor.
 | Planar (güçlü)          | Despise, Deceit, Ice, Hythloth, Wrong, Destard, Wastelands       | 5k gold çeki; bazen Upgrade Scroll (+18, daha nadir +21)                  |
 | Penon (güçlü)           | Destard, Fire, Hythloth, Despise, Deceit, Ice, Wrong, Wastelands | 5k gold çeki; bazen Mage Scroll (Felheart, daha nadir Corruptor)          |
 | Uruk-Hai                | Destard                                                          | 25k gold çeki ve Belirsiz Sandık                                          |
-| Spawn Koruyucu          | Ilshenar, Wastelands, Ocllo Island                               | Tam Blackrock seti                                                        |
+| Spawn Koruyucu          | Ilshenar, Wastelands, Ocllo Island                               | —                                                                         |
 | Spawn Büyücüsü          | Ilshenar, Wastelands, Ocllo Island                               | Robe, şapka ve bot (değersiz)                                             |
 | Rotting Corpse          | Hemen her dungeon, Ilshenar, Wastelands                          | Gold                                                                      |
 | Orc Bomber              | Ilshenar, Wastelands, Destard, Deceit, Ice Dungeon ve diğerleri  | Biraz gold, elma                                                          |

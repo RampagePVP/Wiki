@@ -106,17 +106,10 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
 | High Mage Robe, Perfect Robe, Notum Robe                                                                         | 250              |
 | Holy Robe                                                                                                        | 2.000            |
-| Dragonic Set Deed                                                                                                | 250              |
-| Dragonic set parçaları                                                                                           | 75               |
-| Diablo Set Deed                                                                                                  | 250              |
-| Diablo set parçaları                                                                                             | 50               |
-| Blackrock Set Deed                                                                                               | 250              |
-| Blackrock parçaları ve kalkanı                                                                                   | 50               |
-| Gold Set Deed                                                                                                    | 3.000            |
-| Gold set parçaları                                                                                               | 500              |
-| Devil Set Deed                                                                                                   | 1.600            |
-| Dragon Set Deed                                                                                                  | 70.000           |
-| Dragon set parçaları ve Dragon Shield                                                                            | 10.000           |
+| Devil Set Deed                                                                                                   | 250              |
+| Devil set parçaları                                                                                              | 75               |
+| Dragon Set Deed                                                                                                  | 250              |
+| Dragon set parçaları ve Dragon Shield                                                                            | 50               |
 | Ice Shield, Mage Shield                                                                                          | 1.000            |
 | Armorer Helm (iki çeşit)                                                                                         | 250              |
 | Vanquishing silahlar (Katana, Spear, Club, Pitchfork, Kryss, War Mace, Scimitar, Short Spear, Halberd, Bardiche) | 1.000            |
@@ -165,10 +158,6 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | +18 silahlar                                         | 2–7 (silaha göre)  |
 | Heavy Crossbow +18 / +21                             | 20 / 30            |
 | Lance +18 / +21                                      | 12 / 7             |
-| Dragon Set Deed                                      | 35                 |
-| Dragon set parçaları, Dragon Shield                  | 5                  |
-| Devil Set Deed                                       | 50                 |
-| Devil set parçaları                                  | 10                 |
 | Ice Shield, Mage Shield                              | 25                 |
 | Holy Robe                                            | 15                 |
 | Armorer Helm                                         | 5                  |

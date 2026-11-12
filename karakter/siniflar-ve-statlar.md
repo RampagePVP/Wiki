@@ -21,12 +21,12 @@ Sınıfını ilk girişte Başlangıç taşından, sonradan da safe alandaki **S
 
 Eşyalar ünvana değil, çoğunlukla yeteneklerine bakar:
 
-| Sınıf eşyası                                                   | Aranan şart                                                                              |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Warrior eşyaları (Godness, Dragon, Diablo setleri, Notum Robe) | Tactics yaklaşık 100, Magery ve Meditation yaklaşık 0                                    |
-| Warlock eşyaları (Perfect Robe, Ice Shield)                    | Magery ve Tactics 99.1 üstü                                                              |
-| Mage eşyaları (High Mage Robe, Mage Shield, Mana Sandals)      | Magery, Meditation, Evaluating Intelligence 99.1 üstü ve bütün savaş yetenekleri 20 altı |
-| Warlock/Mage setleri (Ranger, Devil Özel) ve Armorer Helm      | Magery (setlerde 40 üstü, helmde 99.1 üstü)                                              |
+| Sınıf eşyası                                              | Aranan şart                                                                              |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Warrior eşyaları (Godness ve Dragon setleri, Notum Robe)  | Tactics yaklaşık 100, Magery ve Meditation yaklaşık 0                                    |
+| Warlock eşyaları (Perfect Robe, Ice Shield)               | Magery ve Tactics 99.1 üstü                                                              |
+| Mage eşyaları (High Mage Robe, Mage Shield, Mana Sandals) | Magery, Meditation, Evaluating Intelligence 99.1 üstü ve bütün savaş yetenekleri 20 altı |
+| Warlock/Mage setleri (Ranger, Devil Özel) ve Armorer Helm | Magery (setlerde 40 üstü, helmde 99.1 üstü)                                              |
 
 {% hint style="info" %}
 Hasar sistemindeki **büyü bonusu** (Protection ve Reactive Armor) ve warlock/mage'e özel koruma kuralları **Magery 20 ve üstü** olan herkese uygulanır. Yani warlock ve mage aynı kurallara tabidir.

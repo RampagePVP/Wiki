@@ -72,13 +72,13 @@ Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır.
 
 ### Belirsiz Sandık
 
-* **Her zaman:** Perfect Robe, Armorer Helm, Gold Set Deed, Diablo Set Deed, gold çeki.
+* **Her zaman:** Perfect Robe, Armorer Helm, Devil Set Deed, Dragon Set Deed, gold çeki.
 * **Şansa bağlı:** ikinci bir gold çeki, High Mage Robe, Notum Robe, Npc Bow, Binek Armor / Dex / Str belgeleri.
 
 ### Değerli Hazine Sandığı
 
-* **Her zaman:** gold çeki, Belirsiz Sandık, Gold Set Deed, Diablo Set Deed, Armorer Helm (Bone), Olgun Ostard Egg, Binek Res Scroll, Upgrade Scroll (+18, +21), Mage Scroll (Felheart, Corruptor), Binek Armor / Dex / Str belgeleri.
-* **Şansa bağlı:** Random Egg, Devil Set Deed, Armorer Helm (Orc), +21 ve +24 silah çantası, Light Bow, Mage Shield, Ice Shield, Solo Dungeon Key, Party Statue, Holy Scroll, Magic Ingot, Magic Log, Dragon Blood.
+* **Her zaman:** gold çeki, Belirsiz Sandık, Devil Set Deed, Dragon Set Deed, Armorer Helm (Bone), Olgun Ostard Egg, Binek Res Scroll, Upgrade Scroll (+18, +21), Mage Scroll (Felheart, Corruptor), Binek Armor / Dex / Str belgeleri.
+* **Şansa bağlı:** Random Egg, ikinci bir Devil Set Deed, Armorer Helm (Orc), +21 ve +24 silah çantası, Light Bow, Mage Shield, Ice Shield, Solo Dungeon Key, Party Statue, Holy Scroll, Magic Ingot, Magic Log, Dragon Blood.
 * **Nadir:** Holy Robe, Advanced Golem figürü, Dragon set parçası, Stat Full belgesi.
 
 ### Görev Kasası
