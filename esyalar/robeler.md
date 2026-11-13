@@ -7,7 +7,6 @@ Robeler özellikle warlock ve mage için önemlidir: büyü bağışıklığı, 
 | Robe               | Sınıf   | Özellik                                                                                                                                              |
 | ------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **High Mage Robe** | Mage    | 1. sayfa büyülerinden etkilenmezsin. Saldırı büyülerine karşı koruma. Saldırı büyülerine ekstra hasar ekler. Arch Mage Robe olarak geliştirilebilir. |
-| **Dark Robe**      | Mage    | Seçtiğin tek bir özelliği verir (aşağıda). Giyiliyken Protection ve Night Sight etkisi de verir.                                                     |
 | **Perfect Robe**   | Warlock | Warlock'a özel büyü koruması (`* Warlock Power *`).                                                                                                  |
 | **Notum Robe**     | Warrior | 1. sayfa büyülerinden etkilenmezsin. Mind Blast şarjı (aşağıda). Giyince üzerindeki Protection ve Reactive Armor silinir.                            |
 
@@ -26,20 +25,6 @@ High Mage ve Arch Mage Robe giyen mage, oyunculara attığı Flamestrike, Energy
 * Ekstra hasar Oto PvP etkinliğinde verilmez. Kaç ekstra hasar verdiğin sol altta yazar.
 
 Robe geliştirme için **Upgrade** sayfasına bakın.
-
-## Dark Robe
-
-* **Şart:** Magery ve Evaluating Intelligence 98. Savaş yeteneğin olmamalı (Tactics ve Wrestling 0, diğer savaş yetenekleri en fazla 15).
-* Giyince bir menü açılır. Aşağıdaki özelliklerden **sadece birini** seçebilirsin; seçimine göre robenin rengi değişir ve üstünde `* Dark Power *` yazar.
-
-| Özellik                            | Etkisi                                                                            |
-| ---------------------------------- | --------------------------------------------------------------------------------- |
-| Sayfa 1 büyüleri resist            | Clumsy, Feeblemind, Magic Arrow ve Weaken'dan etkilenmezsin.                      |
-| Fireball resist                    | Fireball'dan etkilenmezsin.                                                       |
-| Flame Strike ve Energy Bolt resist | Flamestrike ve Energy Bolt'tan etkilenmezsin.                                     |
-| Silah damage resist                | Oyuncuların silah vuruşlarını ara sıra tamamen savuşturursun (`* Damage Miss *`). |
-
-* Robeyi çıkarınca seçtiğin özellik kaybolur; tekrar giyince yeniden seçersin.
 
 ## Notum Robe ve Mind Blast şarjı
 

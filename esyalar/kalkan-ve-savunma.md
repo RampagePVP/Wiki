@@ -71,11 +71,10 @@ Mind Blast'ın oyunculara verdiği hasar, hedefin **DEX'inin INT'inden ne kadar 
 
 Bazı eşyalar bir büyüden **tamamen** etkilenmemeni sağlar (`* Etkilenmez *`).
 
-| Kaynak                            | Etkilenmediğin büyüler                                                                          |
-| --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| High Mage Robe                    | Clumsy, Feeblemind, Magic Arrow, Weaken                                                         |
-| Notum Robe, 1vs1 Pvp Ödülü        | Clumsy, Feeblemind, Magic Arrow, Weaken                                                         |
-| Dark Robe (seçilen özelliğe göre) | Clumsy, Feeblemind, Magic Arrow, Weaken **ya da** Fireball **ya da** Flamestrike ve Energy Bolt |
-| Notum Robe şarjı                  | Mind Blast (her şarj bir kez)                                                                   |
+| Kaynak                     | Etkilenmediğin büyüler                  |
+| -------------------------- | --------------------------------------- |
+| High Mage Robe             | Clumsy, Feeblemind, Magic Arrow, Weaken |
+| Notum Robe, 1vs1 Pvp Ödülü | Clumsy, Feeblemind, Magic Arrow, Weaken |
+| Notum Robe şarjı           | Mind Blast (her şarj bir kez)           |
 
 Silah bonuslarına (Parablow, Bleeding, Dismount …) karşı korunma yolları **Silah Bonusları** sayfasında.
