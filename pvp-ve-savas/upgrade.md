@@ -21,7 +21,7 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 
 * Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +24 ve +27 başarısı bütün sunucuya duyurulur.
 * **+27 (Infernal)** en üst seviyedir. Bütün +24 silahlar +27 yapılabilir; silahın bonusu aynı kalır, hasarı ve hızı artar. Upgrade Scroll (+27) çok nadirdir: **Ender Hazine**'den ve **Dark Blood Monk**'tan çıkar.
-* Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, Scimitar, Katana, Bladed Staff, Kryss, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
+* Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, War Axe, Scimitar, Katana, Broadsword, Longsword, Cutlass, Bladed Staff, Kryss, War Fork, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
 * **Upgrade edilemez:** Fire Spear, Fire Katana.
 * +24 ve +27 için gereken 110 yetenek **Silahlar** sayfasında.
 
