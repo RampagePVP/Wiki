@@ -31,18 +31,18 @@ Bir yaratığın sayılması için ona **en çok hasarı veren** siz olmalısın
 
 ### Görev listesi
 
-| #  | Hedef           | Yer                | Adet | Ödül                                                                |
-| -- | --------------- | ------------------ | ---- | ------------------------------------------------------------------- |
-| 1  | Liche Lord      | Ölüm Şehri         | 7    | 100.000 gold çek                                                    |
-| 2  | Phoenix         | Wrong              | 7    | 250.000 gold çek + 2 Değerli Hazine Sandığı                         |
-| 3  | Water Elemental | Despise girişi     | 10   | 300.000 gold çek + 1 Golem                                          |
-| 4  | Orc             | Cove Ork Kampı     | 10   | 500.000 gold çek + 2 Değerli Hazine Sandığı                         |
-| 5  | Imp             | Hythloth           | 15   | 350.000 gold çek + 5 Random Egg                                     |
-| 6  | Giant Serpent   | Destard            | 10   | 150.000 gold çek + Stat Full (STR) belgesi                          |
-| 7  | Reaper          | Hopper's Bataklığı | 10   | 150.000 gold çek + 10 Upgrade Scroll (+21) + 10 Upgrade Mage Scroll |
-| 8  | Corpser         | Compassion Çölü    | 10   | 750.000 gold çek                                                    |
-| 9  | Titan           | Yew Geçidi         | 5    | 1.000.000 gold çek                                                  |
-| 10 | Shadow Wyrm     | Destard            | 3    | 500.000 gold çek + Görev Hazinesi                                   |
+| #  | Hedef           | Yer                | Adet | Ödül                                        |
+| -- | --------------- | ------------------ | ---- | ------------------------------------------- |
+| 1  | Liche Lord      | Ölüm Şehri         | 7    | 100.000 gold çek                            |
+| 2  | Phoenix         | Wrong              | 7    | 250.000 gold çek + 2 Değerli Hazine Sandığı |
+| 3  | Water Elemental | Despise girişi     | 10   | 300.000 gold çek + 1 Golem                  |
+| 4  | Orc             | Cove Ork Kampı     | 10   | 500.000 gold çek + 2 Değerli Hazine Sandığı |
+| 5  | Imp             | Hythloth           | 15   | 350.000 gold çek + 5 Random Egg             |
+| 6  | Giant Serpent   | Destard            | 10   | 150.000 gold çek + Stat Full (STR) belgesi  |
+| 7  | Reaper          | Hopper's Bataklığı | 10   | 150.000 gold çek + 10 Upgrade Scroll (+21)  |
+| 8  | Corpser         | Compassion Çölü    | 10   | 750.000 gold çek                            |
+| 9  | Titan           | Yew Geçidi         | 5    | 1.000.000 gold çek                          |
+| 10 | Shadow Wyrm     | Destard            | 3    | 500.000 gold çek + Görev Hazinesi           |
 
 Sadece görev bölgelerindeki özel görev yaratıkları sayılır; bunlara tıklayınca **\[Görev]** yazar. Bu yaratıklar sıradan versiyonlarından çok daha güçlüdür. Özellikle Shadow Wyrm ağır büyüler atar; grupla gitmeniz önerilir.
 

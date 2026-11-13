@@ -27,13 +27,11 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 
 ## Mage robe upgrade'i
 
-High Mage Robe, mage scroll'larıyla geliştirilir. Her seviye mage'in saldırı büyülerine verdiği ekstra hasarı artırır (bkz. **Robeler**).
+High Mage Robe, mage scroll'uyla Arch Mage Robe'a geliştirilir. Arch Mage Robe, mage'in saldırı büyülerine verdiği ekstra hasarı artırır (bkz. **Robeler**).
 
-| Scroll                               | Geliştirilecek robe | Sonuç               | Ücret        |
-| ------------------------------------ | ------------------- | ------------------- | ------------ |
-| Upgrade Mage Scroll **\[Felheart]**  | High Mage Robe      | Felheart Mage Robe  | 25.000 gold  |
-| Upgrade Mage Scroll **\[Corruptor]** | Felheart Mage Robe  | Corruptor Mage Robe | 50.000 gold  |
-| Upgrade Mage Scroll **\[Arch]**      | Corruptor Mage Robe | Arch Mage Robe      | 200.000 gold |
+| Scroll                          | Geliştirilecek robe | Sonuç          | Ücret        |
+| ------------------------------- | ------------------- | -------------- | ------------ |
+| Upgrade Mage Scroll **\[Arch]** | High Mage Robe      | Arch Mage Robe | 200.000 gold |
 
 Arch Mage Robe'u giymek için **Evaluating Intelligence 110** gerekir.
 
@@ -74,10 +72,9 @@ Guild eşyası **Shield Bonus Book** ile Order ya da Chaos Shield'a 24 saatlik b
 
 ## Robe şarjları
 
-| Eşya                      | Ne yapar                                      | Nerede                  |
-| ------------------------- | --------------------------------------------- | ----------------------- |
-| Holy Scroll               | Holy Robe'a +1 iyileşme şarjı (en fazla 5)    | Repair Stone'un yanında |
-| Magic Bottle (Mind Blast) | Notum Robe'a +1 Mind Blast şarjı (en fazla 5) | Her yerde, çantanda     |
+| Eşya                      | Ne yapar                                      | Nerede              |
+| ------------------------- | --------------------------------------------- | ------------------- |
+| Magic Bottle (Mind Blast) | Notum Robe'a +1 Mind Blast şarjı (en fazla 5) | Her yerde, çantanda |
 
 ## Eritme ve yetenek geliştirme (Forge of Skill)
 
@@ -85,7 +82,7 @@ Safe alandaki **Forge of Skill**'e çift tıklayıp (en fazla 3 kare uzaktan) er
 
 | Eritilen eşya                                 | Ödül                                         |
 | --------------------------------------------- | -------------------------------------------- |
-| +21 silah, Corruptor Mage Robe                | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
+| +21 silah                                     | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
 | +24 silah (silah çantasından), Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
 
 Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Fire ve +27 silahlar eritilemez.

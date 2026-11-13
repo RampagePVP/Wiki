@@ -21,7 +21,7 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 ### Bonusların ayrıntıları
 
 * **Hedefin canı az olunca bonus çıkmaz.** Bonusların çoğu sadece hedefin canı belli bir seviyenin üstündeyken tetiklenir; böylece bonus tek başına öldürmez.
-* **Bleeding**: Kanayan hedefe tekrar Bleeding çıkmaz. Kanama Bleed Potion ya da bandajla (Healing ve Anatomy 70) durdurulur. Kanaman varken Greater Heal içemezsin, Holy Robe'u kullanamazsın.
+* **Bleeding**: Kanayan hedefe tekrar Bleeding çıkmaz. Kanama Bleed Potion ya da bandajla (Healing ve Anatomy 70) durdurulur. Kanaman varken Greater Heal içemezsin.
 * **Parablow**: Felçli hedef bu sürede hasar alırsa felç hemen çözülür. Felçliyken bandaj kullanılamaz.
 * **Dismount**: Düşen oyuncu kısa bir süre tekrar binemez ("Binekten düşürüldünüz, X saniye binemezsiniz").
 * **Stamshot**: Sadece elinde topuz türü silah varken çalışır. Art arda vuruşlarla hedefin staminası hızla sıfırlanır.

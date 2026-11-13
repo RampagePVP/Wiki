@@ -155,7 +155,7 @@ Krediyle alınan **9 Numaralı Puzzle** alan karaktere bağlıdır (tıklayınca
 
 Safe alandaki **Boya Tüpleri** ile eşyalarınızı boyayabilirsiniz. Her tüpün rengi farklıdır. Tüpe çift tıklayıp boyanacak eşyayı seçin; eşya üzerinizde ya da çantanızda olmalıdır.
 
-Boyanabilen eşyalar: kıyafetler, deri zırhlar, Tessen, çanta (bag), Holy Robe ve spellbook.
+Boyanabilen eşyalar: kıyafetler, deri zırhlar, Tessen, çanta (bag) ve spellbook.
 
 ## Aile
 

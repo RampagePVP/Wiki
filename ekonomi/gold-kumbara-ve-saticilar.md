@@ -105,12 +105,11 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 | Eşya                                                                                                             | Gold (adet başı) |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
 | High Mage Robe, Perfect Robe, Notum Robe                                                                         | 250              |
-| Holy Robe                                                                                                        | 2.000            |
 | Devil Set Deed                                                                                                   | 250              |
 | Devil set parçaları                                                                                              | 75               |
 | Dragon Set Deed                                                                                                  | 250              |
 | Dragon set parçaları ve Dragon Shield                                                                            | 50               |
-| Ice Shield, Mage Shield                                                                                          | 1.000            |
+| Mage Shield                                                                                                      | 1.000            |
 | Armorer Helm (iki çeşit)                                                                                         | 250              |
 | Vanquishing silahlar (Katana, Spear, Club, Pitchfork, Kryss, War Mace, Scimitar, Short Spear, Halberd, Bardiche) | 1.000            |
 | Black Staff of Vanquishing                                                                                       | 100              |
@@ -120,10 +119,7 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 | Upgrade Scroll +18                                                                                               | 250              |
 | Upgrade Scroll +21                                                                                               | 500              |
 | Upgrade Scroll +24                                                                                               | 10.000           |
-| Mage Scroll (Felheart)                                                                                           | 250              |
-| Mage Scroll (Corruptor)                                                                                          | 500              |
 | Mage Scroll (Arch)                                                                                               | 10.000           |
-| Holy Scroll                                                                                                      | 200              |
 | Binek Res Scroll                                                                                                 | 25               |
 | Binek Armor, Str ve Dex belgeleri                                                                                | 100              |
 | Stat Full belgesi                                                                                                | 5.000.000        |
@@ -158,8 +154,7 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | +18 silahlar                                         | 2–7 (silaha göre)  |
 | Heavy Crossbow +18 / +21                             | 20 / 30            |
 | Lance +18 / +21                                      | 12 / 7             |
-| Ice Shield, Mage Shield                              | 25                 |
-| Holy Robe                                            | 15                 |
+| Mage Shield                                          | 25                 |
 | Armorer Helm                                         | 5                  |
 | Stat Full belgesi                                    | 100                |
 | Advanced Golem figürü                                | 20                 |
@@ -170,9 +165,8 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | Solo Dungeon Key, Deed of Storm                      | 10                 |
 | Upgrade Scroll +24                                   | 5                  |
 | Upgrade Scroll +21 / +18                             | 4 / 1              |
-| Mage Scroll Arch / Corruptor / Felheart              | 7 / 3 / 1          |
+| Mage Scroll (Arch)                                   | 7                  |
 | Magic Log                                            | 7                  |
-| Holy Scroll                                          | 3                  |
 | Binek Armor, Str ve Dex belgeleri                    | 2                  |
 
 **Ödüller** (sadece safe alanda alınır):
