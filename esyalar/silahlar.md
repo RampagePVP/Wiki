@@ -102,4 +102,4 @@ Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair S
 
 ## Zehirli silah
 
-Deadly Poison ile kılıç, fencing ve balta türü silahlara zehir sürebilirsin. Sürülen zehir, Warrior'ın sürdüğünde **4**, diğer sınıflarda **3** vuruş boyunca hedefi kesin zehirler (hedef zaten zehirli değilse). Ayrıntılar **Potionlar ve İyileşme** sayfasında.
+Deadly Poison ile kılıç ve fencing türü silahlara zehir sürebilirsin. Baltalardan sadece Executioner's Axe, Large Battle Axe ve War Axe'a sürülür; Axe, Battle Axe, Double Axe ve Two Handed Axe'a zehir sürülemez. Sürülen zehir, Warrior'ın sürdüğünde **4**, diğer sınıflarda **3** vuruş boyunca hedefi kesin zehirler (hedef zaten zehirli değilse). Ayrıntılar **Potionlar ve İyileşme** sayfasında.

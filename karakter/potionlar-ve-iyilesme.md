@@ -33,7 +33,7 @@ Safe alandaki **Potion Stone**'a çift tıklayınca (en fazla 5 kare uzaktan) ç
 
 ## Silaha zehir sürme (Deadly Poison)
 
-* Deadly Poison'a çift tıklayıp çantandaki bir kılıç, fencing ya da balta türü silahı seç. Topuz silahlarına zehir sürülemez.
+* Deadly Poison'a çift tıklayıp çantandaki bir kılıç ya da fencing türü silahı seç. Baltalardan sadece **Executioner's Axe**, **Large Battle Axe** ve **War Axe**'a sürülebilir; **Axe**, **Battle Axe**, **Double Axe** ve **Two Handed Axe**'a zehir sürülemez. Topuz silahlarına da zehir sürülemez.
 * Zehir **2 saniyede** sürülür. Bu sırada büyü yaparsan, yetenek kullanırsan, hasar alırsan ya da War/Peace değiştirirsen işlem iptal olur.
 * Sürülen zehir belli sayıda vuruş işler: **Warrior** ünvanlı oyuncunun sürdüğü zehir **4**, diğerlerinin **3** vuruş. Kaç vuruş kaldığı silaha tıklayınca yazar.
 * Hedef zehirli değilse zehir **kesin** işler ve 1 vuruş hakkı düşer. Hedef zaten zehirliyse hak harcanmaz. Bütün sınıflara aynı şekilde işler.
