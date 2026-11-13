@@ -1,7 +1,8 @@
 # Karakter
 
-Sınıflar, statlar, fame, rütbe ve görevler.
+Sınıflar, statlar, fame ve rütbe, büyüler, potionlar ve iyileşme.
 
 * [Sınıflar ve Statlar](siniflar-ve-statlar.md)
 * [Karakter](karakter.md)
-* [Görevler ve Ruh Toplama](gorevler-ve-ruh-toplama.md)
+* [Büyüler](buyuler.md)
+* [Potionlar ve İyileşme](potionlar-ve-iyilesme.md)
