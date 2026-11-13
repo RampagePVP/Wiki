@@ -27,19 +27,21 @@ Her sınıfta setler en güçlüden en zayıfa şöyle sıralanır:
 Setler birbirinin karşılığıdır: **Ranger ↔ Godness**, **Devil Özel ↔ Dragon**. Giriş setlerinin belgeleri (Devil Set Deed, Dragon Set Deed) safe alandaki **Armor Stone**'dan gold ile alınır.
 
 {% hint style="info" %}
-Warlock ve mage setleri tek başına karşılığı olan warrior setinden daha az korur, çünkü warlock ve mage'ler **Protection** ve **Reactive Armor** büyüleriyle ek koruma alır. İki büyüsü de açık bir warlock/mage bile karşılığı olan kalkansız warrior'ın biraz gerisinde kalır. Büyüsüz bir warlock/mage ise belirgin şekilde daha fazla hasar alır; büyülerini açık tutmak önemlidir.
+Warlock ve mage setleri tek başına karşılığı olan warrior setinden daha az korur, çünkü warlock ve mage'ler **Protection** ve **Reactive Armor** büyüleriyle ek koruma alır. İki büyüsü de açık bir warlock/mage, karşılığı olan kalkansız warrior'dan daha az hasar alabilir. Büyüsüz bir warlock/mage ise belirgin şekilde daha fazla hasar alır; Reactive Armor birkaç vuruşta bittiği için büyülerini yenilemek önemlidir.
 {% endhint %}
 
 ## Set bonusları
 
-| Set        | Ek özellik                                                                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Godness    | Bütün parçalar giyiliyken STR bonusu. Saldırı büyülerine karşı koruma, Mind Blast'a karşı ek koruma.                                                    |
-| Dragon     | Saldırı büyülerine karşı koruma, Mind Blast'a karşı ek koruma. **Dragon Shield** zaman zaman gelen hasarın tamamını engeller ("Damage Absorb Edildi!"). |
-| Ranger     | **Lightning** büyüsünden etkilenmezsin.                                                                                                                 |
-| Devil Özel | —                                                                                                                                                       |
+| Set        | Ek özellik                                                                               |
+| ---------- | ---------------------------------------------------------------------------------------- |
+| Godness    | Bütün parçalar giyiliyken STR bonusu.                                                    |
+| Dragon     | **Dragon Shield** zaman zaman gelen hasarın tamamını engeller ("Damage Absorb Edildi!"). |
+| Ranger     | —                                                                                        |
+| Devil Özel | —                                                                                        |
 
-Büyü korumasının nasıl çalıştığı **Kalkan ve Savunma** sayfasında.
+{% hint style="info" %}
+**Setler büyülere karşı koruma vermez.** Godness ve Dragon setinin saldırı büyüsü ve Mind Blast koruması, Ranger setinin Lightning bağışıklığı kaldırıldı. Set giyen oyuncu saldırı büyülerine karşı yalnızca **Magic Resistance** yeteneğiyle korunur; warrior için ek büyü koruması geliştirilmiş guild bineğinden gelir. Ayrıntılar **Kalkan ve Savunma** sayfasında.
+{% endhint %}
 
 ## PvP hasar indirimi nasıl çalışır?
 
@@ -47,7 +49,7 @@ Bir oyuncu sana sunucu silahlarıyla (`+18`, `+21`, `+24` vb.) vurduğunda vuru�
 
 * Sahip olduğun seçenekler (set, setsiz armor, Armored Steed) arasından **en iyi koruyan** uygulanır. Set giyen oyuncu hiçbir zaman setsiz halinden kötü durumda kalmaz.
 * İndirim oransal olduğu için hızlı ve yavaş silahlar her sete karşı aynı ölçüde etkilenir.
-* Warlock ve mage'ler (Magery 20 ve üstü) üzerlerindeki **Protection** ve **Reactive Armor** büyüleriyle bu indirimin üstüne ek koruma alır. İki büyü birlikte tek büyüden daha fazla korur. Warrior bir wand ya da upgrade sonucu Protection alsa bile bu ek korumayı almaz.
+* Warlock ve mage'ler (Magery 20 ve üstü) üzerlerindeki **Protection** büyüsüyle bu indirimin üstüne ek koruma alır; **Reactive Armor** ise bitene kadar bazı vuruşların büyük kısmını emer. İki büyü birlikte tek büyüden daha fazla korur. Warrior bir wand ya da upgrade sonucu bu büyüleri alsa bile ek korumayı almaz.
 * Bu indirim sadece **oyuncuların silah vuruşlarına** karşıdır. Canavar vuruşlarında ve büyülerde kullanılmaz.
 * Kalkanlı oyuncular buna ek olarak **Parry Blow** ile her vuruşta biraz daha hasar emer (bkz. **Kalkan ve Savunma**).
 

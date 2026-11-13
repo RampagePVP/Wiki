@@ -28,7 +28,8 @@ Rampage PvP'de büyülerin çoğu klasik UO gibi çalışır ama PvP için önem
 | Chain Lightning | 60   | 85     | 4,5 sn (alan) |
 | Earthquake      | 50   | 20     | 4,0 sn (alan) |
 
-* Fireball, Mind Blast ve Energy Bolt'un hasarı sunucuya özel sabit bir aralıktadır; Mind Blast özellikle warrior'lara karşı güçlüdür.
+* Fireball ve Energy Bolt'un hasarı sunucuya özel sabit bir aralıktadır.
+* Mind Blast'ın oyunculara hasarı hedefin DEX'inin INT'inden ne kadar yüksek olduğuna bağlıdır: warrior'lara karşı güçlüdür, INT'i DEX'inden düşük olmayana (mage gibi) hiç vurmaz. Hiçbir set ya da robe Mind Blast hasarını azaltmaz.
 * Magic Arrow, armoru çok düşük ve 1. sayfa koruması olmayan hedefe biraz daha fazla vurur.
 * Saldırı büyülerinin hasarından, hedefin büyü koruması kadar düşülür (bkz. **Kalkan ve Savunma**).
 * Mage robesi giyen mage'ler Flamestrike, Energy Bolt, Lightning, Fireball ve Harm'a ekstra hasar ekler (bkz. **Robeler**).
@@ -45,7 +46,7 @@ Rampage PvP'de büyülerin çoğu klasik UO gibi çalışır ama PvP için önem
 | **Cure**                        | Çok güçlü zehirlerde (zehirli silah gibi) çoğunlukla tutmaz. Böyle zehirde Greater Cure potion ya da bandaj kullan.                                                                                                                 |
 | **Heal / Greater Heal**         | Sen zehirliyken atılamaz. Greater Heal zehirli hedefe de atılamaz.                                                                                                                                                                  |
 | **Agility, Strength, Bless**    | Üst üste binmez; yenisi atılınca eski Agility etkisi silinir.                                                                                                                                                                       |
-| **Protection / Reactive Armor** | 250 saniye sürer. PvP'de Magery 20+ olanlara ek koruma verir (bkz. **Kalkan ve Savunma**).                                                                                                                                          |
+| **Protection / Reactive Armor** | 250 saniye sürer; Reactive Armor sınırlı sayıda silah isabetinden sonra da biter. PvP'de Magery 20+ olanlara ek koruma verir (bkz. **Kalkan ve Savunma**).                                                                          |
 | **Invisibility**                | NPC'lere ve bineklere atılamaz.                                                                                                                                                                                                     |
 | **Dispel**                      | Her zaman 20 mana harcar. Frozier binicisine atılamaz.                                                                                                                                                                              |
 | **Mark**                        | Sadece Rune Marker üzerine atılır. Bazı korunan alanlarda çalışmaz.                                                                                                                                                                 |
