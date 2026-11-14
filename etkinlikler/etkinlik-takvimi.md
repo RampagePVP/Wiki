@@ -40,6 +40,7 @@ Bu etkinliklerin sabit bir saati yoktur. GM'ler açtığında bütün oyunculara
 | ------------------- | ---------------------------------------------- | ---------------------- |
 | Moria (maden alanı) | Kazı yapıp maden ingotu ve gold toplanır       | Balık ve Maden sayfası |
 | Soria (balık alanı) | Balık tutulur, balıklar ödüllerle değiştirilir | Balık ve Maden sayfası |
+| Coin Events         | Rampage Orc avlanır, Coin Ball toplanır        | Coin Events sayfası    |
 
 ## Dönemsel etkinlikler
 

@@ -54,6 +54,7 @@
   * [Deathmatch](etkinlikler/deathmatch.md)
   * [Köprü Savaşı](etkinlikler/kopru-savasi.md)
   * [Mini Etkinlikler](etkinlikler/mini-etkinlikler.md)
+  * [Coin Events](etkinlikler/coin-events.md)
 * [PvM](pvm/README.md)
   * [Dungeonlar](pvm/dungeonlar.md)
   * [Zindan (Parti Dungeonu)](pvm/zindan-parti-dungeonu.md)

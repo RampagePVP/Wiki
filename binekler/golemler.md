@@ -1,6 +1,6 @@
 # Golemler
 
-Golemler binilemeyen, yanınızda savaşan evcil yaratıklardır. Oyunda kullanılan golem **Advanced Golem**'dir ve figür olarak gelir.
+Golemler binilemeyen, yanınızda savaşan evcil yaratıklardır ve figür olarak gelir. Oyunda iki golem vardır: ödüllerden çıkan **Advanced Golem** ve zanaatla üretilen, çok daha güçlü **Steel Golem**.
 
 ## Advanced Golem
 
@@ -8,6 +8,16 @@ Golemler binilemeyen, yanınızda savaşan evcil yaratıklardır. Oyunda kullan�
 * Figürden çıkarıldıktan **1 saat** sonra kaybolur.
 
 **Nereden çıkar?** Dark Blood Monk (nadiren), Daemon Blood Champion, Solo Dungeon ve Zindan ödülleri, bayram ve kar etkinliği ödülleri (**Bosslar** ve **Raid ve Set Elde Etme** sayfaları).
+
+## Steel Golem
+
+* Gümüş renkli, çok güçlü bir golemdir. STR, DEX ve zırhı Advanced Golem'den çok daha yüksektir; yürür ve koşar.
+* Oyunculara binekler gibi vurur: Advanced Golem'den çok daha sert vurur, armoru yüksek oyuncular yine daha az hasar alır.
+* Diğer golemler gibi figürden çıkarıldıktan **1 saat** sonra kaybolur.
+* Ölürse bineklerde olduğu gibi **Binek Resurrection Scroll** ile diriltilebilir.
+* Figürüne tıklayınca statları görünür.
+
+**Nereden çıkar?** Safe alandaki **Zanaat Tezgahı**'nın **Golem** kategorisinde üretilir. Tarifte 15 golem figürü (Advanced ya da Tinker Golem, karışık olabilir) harcanır; ayrıntılar **Zanaat (Craft)** sayfasında.
 
 ## Golem çıkarma
 

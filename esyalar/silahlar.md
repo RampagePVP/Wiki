@@ -26,7 +26,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 * Silah çantaları (18 / 21 / 24 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
 * Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +18 ve +21 silahları sorunsuz kullanır. **+24 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
   * **Swordsmanship 110**: Halberd, Bardiche, Axe türleri, Scimitar, Katana, Bladed Staff
-  * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork
+  * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork, Lance
   * **Macefighting 110**: Club, War Mace, Hammer Pick, War Hammer, Quarter Staff, Black Staff
 * Silahlar Upgrade Scroll ile bir üst seviyeye geliştirilebilir (bkz. **Upgrade**).
 * **+27 silahlar** sadece +24 silahı upgrade ederek elde edilir; çantadan çıkmaz. Yetenek şartı ve bonusu +24 ile aynıdır, hasarı ve hızı daha yüksektir.
@@ -43,6 +43,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 | Kryss                                       | Critical Shoot                       |
 | Spear, Short Spear, Pike                    | Parablow                             |
 | Pitchfork                                   | Dismount                             |
+| Lance                                       | Dismount (bütün seviyelerde)         |
 | Club, War Mace                              | Stamshot                             |
 | Hammer Pick, War Hammer                     | Sakatlar                             |
 | Quarter Staff                               | Stamshot (+24'te ayrıca Dismount)    |

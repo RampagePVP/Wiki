@@ -1,6 +1,6 @@
 # Zanaat (Craft)
 
-Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi, gala kıyafeti ve sarf eşyası üretebilirsiniz. Shadow Hood ve Kasa dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
+Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi, gala kıyafeti ve sarf eşyası üretebilirsiniz. Golemlerinizi birleştirip **Steel Golem** de yapabilirsiniz. Shadow Hood, Kasa ve Steel Golem dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
 
 ## Zanaat Tezgahı
 
@@ -9,7 +9,7 @@ Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki *
 
 | Bölge | İçerik                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------- |
-| Sol   | Kategoriler (Zırh, Dekor, Trofe, Kozmetik, Sarf, Gala); çantanızdaki malzemeler; kumbaranızdaki gold          |
+| Sol   | Kategoriler (Zırh, Dekor, Trofe, Kozmetik, Sarf, Gala, Golem); çantanızdaki malzemeler; kumbaranızdaki gold   |
 | Sağ   | Seçili kategorinin tarifleri: ürünün resmi, adı, kısa açıklaması, gereken malzemeler ve gold, **Üret** butonu |
 
 Yeten malzeme ve gold **yeşil**, eksik olan **kırmızı** yazar.
@@ -28,7 +28,7 @@ Yeten malzeme ve gold **yeşil**, eksik olan **kırmızı** yazar.
 
 * Kask, dekor, trofe, kozmetik ve gala ürünlerine üreten oyuncunun adı yazılır. Ürüne tıklayınca **"Yapan: isim"** görünür.
 * Bu ürünler **%5** ihtimalle **Kusursuz** çıkar: özel renkte olur, adının başında "Kusursuz" yazar ve bütün sunucuya duyurulur. Kusursuz ürünün gücü normal ürünle aynıdır, sadece görünüşü farklıdır.
-* Sarf ürünleri (Repair Scroll, Binek Res Scroll, Havai Fişek) imzasızdır ve Kusursuz çıkmaz.
+* Sarf ürünleri (Repair Scroll, Binek Res Scroll, Havai Fişek) ve Steel Golem imzasızdır ve Kusursuz çıkmaz.
 
 ## Malzemeler
 
@@ -128,3 +128,13 @@ Repair Scroll'un kullanımı **Safe Alan Taşları ve Diğer Eşyalar**, Binek R
 * Üç parçayı birlikte giyince karakterinizin üstünde `* Beyefendi *` (kadın karakterde `* Hanımefendi *`) yazar. Karakterinize tıklayan herkes bu unvanı adınızın üstünde görür. Kusursuz parçalar da sayılır.
 * Silindir Şapka kask, Smokin Ceketi göğüs zırhı, Smokin Pantolonu bacak zırhı katındadır; zırhınızla birlikte giyilemez. Üstüne robe giyerseniz robe takımı örter.
 * Depoya konabilir; imzası ve rengi korunur.
+
+### Golem
+
+| Ürün        | Malzeme                                                                      | Gold      |
+| ----------- | ---------------------------------------------------------------------------- | --------- |
+| Steel Golem | 15 golem figürü (Advanced ya da Tinker), 100 Maden Ingotu, 300 Lanetli Kemik | 3.000.000 |
+
+* Golem figürleri çantanızda (çantadaki alt çantalar dahil) sayılır. Advanced ve Tinker Golem figürleri birlikte sayılır; üretimde önce Tinker Golem figürleri harcanır.
+* Animal Deed ile küçültülmüş golemler tarifte sayılmaz.
+* Ürün bir **Steel Golem figürü**dür. Golemin özellikleri **Golemler** sayfasında.

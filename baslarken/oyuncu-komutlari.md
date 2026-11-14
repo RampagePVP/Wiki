@@ -117,7 +117,7 @@ Bazı bineklerin `.binekbonus` yeteneği kendi adıyla da çağrılabilir:
 | Grayer                | `.kankokusu`       |
 | Simurg                | `.savasborusu`     |
 | Huma                  | `.koruyucuaura`    |
-| Lamassu               | `.manayakma`       |
+| Lamassu               | `.blinkstrike`     |
 | Nemea                 | `.parcalayanpence` |
 
 Bineklerin yetenekleri ve bekleme süreleri **Özel Binekler** sayfasında anlatılmıştır.

@@ -4,19 +4,19 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 
 ## Bonus listesi
 
-| Bonus              | Etkisi                                                                                 | Gereken (vuran)  | Hangi silahlar                                                                                |
-| ------------------ | -------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------------- |
-| **Bleeding**       | Ek hasar ve kanama: hedef bir süre aralıklarla can kaybeder                            | Swordsmanship 98 | Scimitar, Katana, Bladed Staff, Fire Katana                                                   |
-| **Parablow**       | Ek hasar, hedef kısa süre felç olur                                                    | Fencing 98       | Spear, Short Spear, Pike, Fire Spear                                                          |
-| **Dismount**       | Hedef binekten düşer ve ek hasar alır                                                  | —                | Halberd, Pitchfork, Axe türleri (+24), Quarter Staff (+24), Axe ve Bladed Staff (Vanquishing) |
-| **Extra Hasar**    | Ek hasar                                                                               | Swordsmanship 98 | Axe, Battle Axe, Double Axe, Two Handed Axe                                                   |
-| **Kendine Çeker**  | Hedef yanına çekilir, ek hasar alır, yaptığı işlem bozulur                             | —                | Bardiche                                                                                      |
-| **Critical Shoot** | Ek hasar                                                                               | Fencing 98       | Kryss                                                                                         |
-| **Stamshot**       | Her vuruşta hedefin staminası düşer                                                    | —                | Club, War Mace, Quarter Staff, Black Staff (+24)                                              |
-| ↳ Stam Shot        | Ek hasar, hedefin staminası çok daha fazla düşer, yaptığı işlem bozulur (`Stam Shot!`) | —                | (Stamshot'lı silahlar; Black Staff'ta daha sık)                                               |
-| **Sakatlar**       | Ek hasar, hedef yavaşlar                                                               | Macefighting 98  | Hammer Pick, War Hammer                                                                       |
-| **Halüsinasyon**   | Hedef bir süre halüsinasyon görür                                                      | —                | Black Staff (+24)                                                                             |
-| **Yakar**          | Ek hasar                                                                               | Fencing 98       | Fire Spear, Fire Katana                                                                       |
+| Bonus              | Etkisi                                                                                 | Gereken (vuran)  | Hangi silahlar                                                                                       |
+| ------------------ | -------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------- |
+| **Bleeding**       | Ek hasar ve kanama: hedef bir süre aralıklarla can kaybeder                            | Swordsmanship 98 | Scimitar, Katana, Bladed Staff, Fire Katana                                                          |
+| **Parablow**       | Ek hasar, hedef kısa süre felç olur                                                    | Fencing 98       | Spear, Short Spear, Pike, Fire Spear                                                                 |
+| **Dismount**       | Hedef binekten düşer ve ek hasar alır                                                  | —                | Halberd, Pitchfork, Lance, Axe türleri (+24), Quarter Staff (+24), Axe ve Bladed Staff (Vanquishing) |
+| **Extra Hasar**    | Ek hasar                                                                               | Swordsmanship 98 | Axe, Battle Axe, Double Axe, Two Handed Axe                                                          |
+| **Kendine Çeker**  | Hedef yanına çekilir, ek hasar alır, yaptığı işlem bozulur                             | —                | Bardiche                                                                                             |
+| **Critical Shoot** | Ek hasar                                                                               | Fencing 98       | Kryss                                                                                                |
+| **Stamshot**       | Her vuruşta hedefin staminası düşer                                                    | —                | Club, War Mace, Quarter Staff, Black Staff (+24)                                                     |
+| ↳ Stam Shot        | Ek hasar, hedefin staminası çok daha fazla düşer, yaptığı işlem bozulur (`Stam Shot!`) | —                | (Stamshot'lı silahlar; Black Staff'ta daha sık)                                                      |
+| **Sakatlar**       | Ek hasar, hedef yavaşlar                                                               | Macefighting 98  | Hammer Pick, War Hammer                                                                              |
+| **Halüsinasyon**   | Hedef bir süre halüsinasyon görür                                                      | —                | Black Staff (+24)                                                                                    |
+| **Yakar**          | Ek hasar                                                                               | Fencing 98       | Fire Spear, Fire Katana                                                                              |
 
 ### Bonusların ayrıntıları
 

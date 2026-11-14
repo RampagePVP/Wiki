@@ -15,7 +15,7 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 | Simurg          | Savaş Borusu                           | 5 dk     |
 | Huma            | Koruyucu Aura                          | 5 dk     |
 | Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)     | 5 dk     |
-| Lamassu         | Mana Yakma                             | 5 dk     |
+| Lamassu         | Blinkstrike (+ vuruşu kanatır)         | 5 dk     |
 | Armored Steed   | Armor Ignore (+ PvP koruması)          | 5 dk     |
 | Grayer          | Kan Kokusu (+ attan düşmez)            | 5 dk     |
 | Gryphon         | In Nox                                 | 5 dk     |
@@ -62,7 +62,7 @@ Ghost Ostard için **Binek Taşı ve Yumurtalar** sayfasına bakın.
 * `.binekbonus` her zaman **bindiğiniz** bineğin yeteneğini kullanır.
 * Yeteneklerin çoğu canınız **50'nin altındayken** ve **safe alanda** kullanılamaz.
 * Hedefli yetenekler sadece **oyunculara** atılabilir, kendinize atılamaz. Hedef görüş alanınızda olmalıdır.
-* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed ve Silver Steed ateş topları, Mana Yakma ve Parçalayan Pençe'den etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
+* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed ve Silver Steed ateş topları, Blinkstrike ve Parçalayan Pençe'den etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
 * **Teleport engeli:** Şu bineklere binen oyuncunun üstüne Teleport büyüsüyle ışınlanılamaz: Armored Steed, Gryphon, Hipogrif, Pixiu, Mysterious Horn, Fiura, Ferrin, Primal Raptor, Percheron, Ordeal, Orn.
 
 ### Bineklerin kendini iyileştirmesi
@@ -75,7 +75,7 @@ Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 
 
 ## Simurg
 
-![Simurg](../.gitbook/assets/binek-simurg.png)
+![Simurg](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FoodoaCb0b0zya9qM6dVs%2Fbinek-simurg.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.savasborusu`
 
@@ -83,7 +83,7 @@ Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 
 
 ## Huma
 
-![Huma](../.gitbook/assets/binek-huma.png)
+![Huma](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FOfZj31cYJSxWVHKnLhD6%2Fbinek-huma.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.koruyucuaura`
 
@@ -91,7 +91,7 @@ Simurg'un beyaz hali. **Koruyucu Aura** (5 dakikada bir): Siz ve **6 kare** içi
 
 ## Nemea
 
-![Nemea](../.gitbook/assets/binek-nemea.png)
+![Nemea](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FXSFkulhbekmTLlHucHRa%2Fbinek-nemea.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.parcalayanpence`
 
@@ -101,16 +101,18 @@ Simurg'un beyaz hali. **Koruyucu Aura** (5 dakikada bir): Siz ve **6 kare** içi
 
 ## Lamassu
 
-![Lamassu](../.gitbook/assets/binek-lamassu.png)
+![Lamassu](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2F09DSPxUOujpNQGuUGVBi%2Fbinek-lamassu.png?alt=media)
 
 * **Nereden:** Random Egg (nadir çıkar)
-* **Komut:** `.binekbonus` ya da `.manayakma`
+* **Komut:** `.binekbonus` ya da `.blinkstrike`
 
-Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyuncunun manasını yakar; hedef, yakılan manaya göre hasar da alır. Mage ve warlock'lara karşı etkilidir. Hedefin hiç manası yoksa yetenek kullanılmaz ve bekleme başlamaz. Hedef 2 dakika binek bonusu korumasına girer.
+Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş alanınızdaki bir oyuncunun yanına ışınlanır ve ona hasar verirsiniz. Safe alandaki ve ölü oyunculara atılamaz; donmuşken (paralyze) kullanılamaz. Hedef 2 dakika binek bonusu korumasına girer.
+
+**Kanatma** (sürekli): Lamassu'nun kendi vuruşları ara sıra hedefi kanatır (normal Bleeding etkisi). Hedef zaten kanıyorsa ya da canı çok azsa kanatmaz. Grayer'dan daha seyrek kanatır ve ek hasar vurmaz.
 
 ## Bloodwing
 
-![Bloodwing](../.gitbook/assets/binek-bloodwing.png)
+![Bloodwing](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FXW4tuRIZGxKJXxUkOkNV%2Fbinek-bloodwing.png?alt=media)
 
 * **Komut:** `.bwsure` (ölümcül darbe korumasının kalan süresi). Bloodwing'in `.binekbonus` yeteneği yoktur; iki özelliği de binince kendiliğinden çalışır.
 
@@ -122,7 +124,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Armored Steed
 
-![Armored Steed](../.gitbook/assets/binek-armored-steed.png)
+![Armored Steed](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2Fr64xthwhWnFDpJYq1CPn%2Fbinek-armored-steed.png?alt=media)
 
 * **Nereden:** Storm Puzzle koleksiyon ödülü (**Solo Dungeon ve Puzzle Koleksiyonları** sayfası)
 * **Komut:** `.binekbonus` ya da `.ignore`
@@ -133,7 +135,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Grayer
 
-![Grayer](../.gitbook/assets/binek-grayer.png)
+![Grayer](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2F2SLDicCsoA1YSHvynoq0%2Fbinek-grayer.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.kankokusu`
 
@@ -148,7 +150,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Gryphon
 
-![Gryphon](../.gitbook/assets/binek-gryphon.png)
+![Gryphon](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FDa1ALHAnQcAzsCWgaU98%2Fbinek-gryphon.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.griffon`
 
@@ -158,7 +160,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Hipogrif
 
-![Hipogrif](../.gitbook/assets/binek-hipogrif.png)
+![Hipogrif](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FNbJqtZQq2fVjM2HJ8CgB%2Fbinek-hipogrif.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.hipo`
 
@@ -172,7 +174,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Pixiu
 
-![Pixiu](../.gitbook/assets/binek-pixiu.png)
+![Pixiu](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FZ1kyWZj7c4AiQBdC5QQJ%2Fbinek-pixiu.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.lamb`
 
@@ -182,7 +184,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## T-Rash
 
-![T Rash](../.gitbook/assets/binek-t-rash.png)
+![T Rash](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FtQPOeqODzBcrSxjyXKfG%2Fbinek-t-rash.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.raptorgate`
 
@@ -192,7 +194,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Mysterious Horn
 
-![Mysterious Horn](../.gitbook/assets/binek-mysterious-horn.png)
+![Mysterious Horn](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2F8KBuRfWUusrDfZdPcps0%2Fbinek-mysterious-horn.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.horn`
 
@@ -202,7 +204,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Fiura
 
-![Fiura](../.gitbook/assets/binek-fiura.png)
+![Fiura](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FkX8WWu1k09klEJBZhhs8%2Fbinek-fiura.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.fiura`
 
@@ -212,7 +214,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Ferrin
 
-![Ferrin](../.gitbook/assets/binek-ferrin.png)
+![Ferrin](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FEtiITg8Jnen1WZG4HoxY%2Fbinek-ferrin.png?alt=media)
 
 * **Nereden:** Binek Taşı, **60.000.000 gold**
 * **Komut:** `.binekbonus` ya da `.ferrin`; `.ferrinheal`
@@ -225,7 +227,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Percheron
 
-![Percheron](../.gitbook/assets/binek-percheron.png)
+![Percheron](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FKdznnwmSZJTqVsxJbtbA%2Fbinek-percheron.png?alt=media)
 
 * **Nereden:** **Ruh Belgesi** ile ruh toplayarak. Belge Genel Satıcı'dan **50.000 gold**. Ayrıntılar **Binek Taşı ve Yumurtalar** sayfasında.
 * **Gereken ruhlar:** 2 Evil Wolf, 1 Raptor, 15 Tartarus, 18 Silvercorn, 7 Numa, 5 Manticore, 20 Mustang, 15 Beetle Wert, 2 Chimaira, 15 Wendigo, 3 Arctic Bear, 2 Typhaon, 5 Orn, 20 Mid Ostard
@@ -242,7 +244,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Ordeal
 
-![Ordeal](../.gitbook/assets/binek-ordeal.png)
+![Ordeal](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FYMSPfrLS6SzngpxIWvea%2Fbinek-ordeal.png?alt=media)
 
 * **Nereden:** Ordeal Puzzle koleksiyon ödülü (**Solo Dungeon ve Puzzle Koleksiyonları** sayfası)
 * **Komut:** `.binekbonus` ya da `.ordeal`
@@ -253,7 +255,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Typhaon
 
-![Typhaon](../.gitbook/assets/binek-typhaon.png)
+![Typhaon](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FDMzGAtvdQ6YcCXUCfhew%2Fbinek-typhaon.png?alt=media)
 
 * **Nereden:** Random Egg
 * **Komut:** `.binekbonus` ya da `.typhaon`
@@ -269,7 +271,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Silver Steed
 
-![Silver Steed](../.gitbook/assets/binek-silver-steed.png)
+![Silver Steed](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FxJasp31oAOkHh1mxhuEP%2Fbinek-silver-steed.png?alt=media)
 
 * **Nereden:** Random spawn, Random Egg, Animal Book
 * **Komut:** `.steedlight`
@@ -278,7 +280,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Unicorn
 
-![Unicorn](../.gitbook/assets/binek-unicorn.png)
+![Unicorn](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FrazVgzxMUFCcI6pJtRkY%2Fbinek-unicorn.png?alt=media)
 
 * **Nereden:** Binek Taşı **15.000.000 gold**, random spawn
 * **Komut:** `.unires`
@@ -305,7 +307,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Nightmare
 
-![Nightmare](../.gitbook/assets/binek-nightmare.png)
+![Nightmare](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FMI8qkGx7yfLNqJINSHbf%2Fbinek-nightmare.png?alt=media)
 
 * **Nereden:** Mother Ostard Egg
 
@@ -325,7 +327,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Primal Raptor
 
-![Primal Raptor](../.gitbook/assets/binek-primal-raptor.png)
+![Primal Raptor](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FREpHh5HDZnneacpwXGSi%2Fbinek-primal-raptor.png?alt=media)
 
 * **Nereden:** Binek Taşı, **50.000.000 gold**
 
@@ -339,7 +341,7 @@ Kanatlı aslan. **Mana Yakma** (5 dakikada bir): **10 kare** içindeki bir oyunc
 
 ## Arctic Bear
 
-![Arctic Bear](../.gitbook/assets/binek-arctic-bear.png)
+![Arctic Bear](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FiGHavFY7OnsjzAwM1gng%2Fbinek-arctic-bear.png?alt=media)
 
 Artık dağıtılmayan eski bir etkinlik bineğidir.
 
@@ -349,7 +351,7 @@ Vurduğu oyuncuyu zaman zaman bineğinden düşürür.
 
 ## Glacier Steed
 
-![Glacier Steed](../.gitbook/assets/binek-glacier-steed.png)
+![Glacier Steed](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2Fq56tHgMGHktXhMHewa1r%2Fbinek-glacier-steed.png?alt=media)
 
 * **Nereden:** Balık etkinliği ödül menüsü, **325.000 Rampage Balığı**
 
@@ -357,7 +359,7 @@ Vurduğu oyuncuyu zaman zaman bineğinden düşürür.
 
 ## Beetle Wert
 
-![Beetle Wert](../.gitbook/assets/binek-beetle-wert.png)
+![Beetle Wert](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2Ft2j5HTqASmpxeixAUhCw%2Fbinek-beetle-wert.png?alt=media)
 
 * **Nereden:** Random Egg
 
@@ -371,7 +373,7 @@ Vurduğu oyuncuyu zaman zaman bineğinden düşürür.
 
 ## Evil Wolf ve Evil Horse
 
-![Evil Wolf](../.gitbook/assets/binek-evil-wolf.png) ![Evil Horse](../.gitbook/assets/binek-evil-horse.png)
+![Evil Wolf](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FWLaST2ZIoGui1rioR20T%2Fbinek-evil-wolf.png?alt=media) ![Evil Horse](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FyYEpRCTotJrIonwy527T%2Fbinek-evil-horse.png?alt=media)
 
 * **Nereden:** Özel görev hazinesinin bekçisi öldürülünce çıkar, evcilleştirilir (**Taming (Evcilleştirme)** sayfası).
 

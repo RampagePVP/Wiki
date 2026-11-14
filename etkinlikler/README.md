@@ -9,3 +9,4 @@ Otomatik ve GM etkinlikleri: takvim, kurallar ve ödüller.
 * [Deathmatch](deathmatch.md)
 * [Köprü Savaşı](kopru-savasi.md)
 * [Mini Etkinlikler](mini-etkinlikler.md)
+* [Coin Events](coin-events.md)
