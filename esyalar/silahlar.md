@@ -35,7 +35,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 1. Taş ve silah çantanda olmalı.
 2. Taşa çift tıkla, +15 (Vanquishing) silahını seç.
-3. Taş harcanır, silah kalıcı olarak kritik vuruş yapabilir hale gelir.
+3. Taş harcanır, silah kalıcı olarak kritik vuruş yapabilir hale gelir. Silahın adı değişir: örneğin **+15 Magical Katana of Bloodstone**.
 
 * Kritik vuruş arada bir çıkar; o vuruş normalden daha fazla hasar verir (`* Critical Damage *`).
 * Sadece **oyunculara** karşı çalışır.
