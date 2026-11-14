@@ -10,3 +10,6 @@ Otomatik ve GM etkinlikleri: takvim, kurallar ve ödüller.
 * [Köprü Savaşı](kopru-savasi.md)
 * [Mini Etkinlikler](mini-etkinlikler.md)
 * [Coin Events](coin-events.md)
+* [Survivor of Ilshenar](survivor-of-ilshenar.md)
+* [Ölüm Maçı ve Meydan Muharebesi](olum-maci-ve-meydan-muharebesi.md)
+* [Castelo Savaşı](castelo-savasi.md)

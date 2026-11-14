@@ -27,12 +27,16 @@ Aynı anda yalnızca bir etkinlik yapılabilir. Önceki etkinlik hâlâ sürüyo
 
 Bu etkinliklerin sabit bir saati yoktur. GM'ler açtığında bütün oyunculara duyuru yapılır ve safe alana gate konur.
 
-| Etkinlik               | Tür                                 | Sayfa                    |
-| ---------------------- | ----------------------------------- | ------------------------ |
-| Capture The Flag (CTF) | Takım, bayrak kapma                 | CTF sayfası              |
-| Köprü Savaşı           | Takımlı binek savaşı (GM açar)      | Köprü Savaşı sayfası     |
-| Zar                    | GM'nin yönettiği zar oyunu          | Mini Etkinlikler sayfası |
-| Quest / Deathmatch     | Otomatik etkinliklerin ek seansları | İlgili sayfalar          |
+| Etkinlik               | Tür                                 | Sayfa                                  |
+| ---------------------- | ----------------------------------- | -------------------------------------- |
+| Capture The Flag (CTF) | Takım, bayrak kapma                 | CTF sayfası                            |
+| Köprü Savaşı           | Takımlı binek savaşı (GM açar)      | Köprü Savaşı sayfası                   |
+| Zar                    | GM'nin yönettiği zar oyunu          | Mini Etkinlikler sayfası               |
+| Survivor of Ilshenar   | Hazır kitle hayatta kalma savaşı    | Survivor of Ilshenar sayfası           |
+| Ölüm Maçı              | Yayla öldürme yarışı                | Ölüm Maçı ve Meydan Muharebesi sayfası |
+| Meydan Muharebesi      | İki takımlı binek savaşı            | Ölüm Maçı ve Meydan Muharebesi sayfası |
+| Castelo Savaşı         | Guildler arası kale savaşı          | Castelo Savaşı sayfası                 |
+| Quest / Deathmatch     | Otomatik etkinliklerin ek seansları | İlgili sayfalar                        |
 
 ## Her zaman açık alanlar
 
@@ -74,6 +78,7 @@ Etkinliklere katıldıkça ve kazandıkça **etkinlik puanı** toplarsınız. S�
 | ---------------------------- | -------------------------------------- | ------------------------------ |
 | Kartopu, Explosion, GM Topuk | +1                                     | +3                             |
 | CTF, Köprü Savaşı            | +1                                     | Kazanan takımın her üyesine +5 |
+| Meydan Muharebesi            | —                                      | Kazanan takımın her üyesine +5 |
 | Günlük Quest                 | +1                                     | —                              |
 | Bisiklet Yarışı              | —                                      | —                              |
 
