@@ -23,7 +23,7 @@ Guild kudret puanının ne işe yaradığı **Guild** sayfasında anlatılıyor.
 | Gyrados (güçlü)         | Despise, Deceit, Destard, Fire, Ice, Hythloth, Wrong, Wastelands | 5k gold çeki ve Binek Res Scroll                                          |
 | Brahman (güçlü)         | Despise, Wrong, Hythloth, Deceit, Destard, Fire, Wastelands      | 5k gold çeki; bazen Str, Dex ya da Binek Armor Deed                       |
 | Hashade (güçlü)         | Despise, Wrong, Deceit, Destard, Ice, Hythloth, Fire, Wastelands | 5k gold çeki; bazen Str, Dex ya da Binek Armor Deed                       |
-| Planar (güçlü)          | Despise, Deceit, Ice, Hythloth, Wrong, Destard, Wastelands       | 5k gold çeki; bazen Upgrade Scroll (+18, daha nadir +21)                  |
+| Planar (güçlü)          | Despise, Deceit, Ice, Hythloth, Wrong, Destard, Wastelands       | 5k gold çeki; bazen Upgrade Scroll (+9, daha nadir +12)                   |
 | Penon (güçlü)           | Destard, Fire, Hythloth, Despise, Deceit, Ice, Wrong, Wastelands | 5k gold çeki                                                              |
 | Uruk-Hai                | Destard                                                          | 25k gold çeki ve Belirsiz Sandık                                          |
 | Spawn Koruyucu          | Ilshenar, Wastelands, Ocllo Island                               | —                                                                         |

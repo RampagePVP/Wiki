@@ -103,7 +103,7 @@ Gold kumbaradan düşülür; çimento çantanızda olmalıdır. Çimento maden e
 
 ## Silah Stone
 
-Vanquishing silahlarını gold karşılığı satar. Menüde silahın özellikleri, tek/çift el oluşu ve zehir sürülüp sürülemeyeceği yazar.
+Might (+6) silahlarını gold karşılığı satar. Menüde silahın özellikleri, tek/çift el oluşu ve zehir sürülüp sürülemeyeceği yazar.
 
 | Silah       | Fiyat (gold) | Silah          | Fiyat (gold) |
 | ----------- | ------------ | -------------- | ------------ |
@@ -135,9 +135,9 @@ Aşınan silah, kalkan, zırh ve kıyafetlerinizi **Repair Scroll** ile tamir ed
 
 | Eşya seviyesi                   | Gereken Repair Scroll |
 | ------------------------------- | --------------------- |
-| +18                             | 2                     |
-| +21                             | 3                     |
-| +24                             | 8                     |
+| +9                              | 2                     |
+| +12                             | 3                     |
+| +15                             | 8                     |
 | Brodex                          | 4                     |
 | Ranger ve Godness set parçaları | 3                     |
 

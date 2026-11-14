@@ -1,6 +1,6 @@
 # Silahlar
 
-Sunucudaki silahlar seviyelere ayrılır: Vanquishing (+15), +18, +21, +24 ve +27. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
+Sunucudaki silahlar seviyelere ayrılır: Might (+6), Force (+9), Power (+12) ve Vanquishing (+15). Orijinal UO'daki gibi en üst seviye **+15**'tir. Her silah türünün kendine ait bir **bonusu** vardır; bonusların ayrıntıları **Silah Bonusları** sayfasında.
 
 ## Hasar nasıl hesaplanır?
 
@@ -15,21 +15,33 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 ## Silah seviyeleri
 
-| Seviye            | Nereden                       | Gereken yetenek                     |
-| ----------------- | ----------------------------- | ----------------------------------- |
-| Vanquishing (+15) | Satıcı                        | Silah yeteneği 100, Tactics 100     |
-| Darquishing (+18) | 18 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100     |
-| Screaming (+21)   | 21 Bag, Upgrade Scroll        | Silah yeteneği 100, Tactics 100     |
-| Damned (+24)      | 24 Bag, Upgrade Scroll        | Silah yeteneği **110**, Tactics 100 |
-| Infernal (+27)    | Upgrade Scroll (+24 silahtan) | Silah yeteneği **110**, Tactics 100 |
+| Seviye            | Nereden                | Gereken yetenek                     |
+| ----------------- | ---------------------- | ----------------------------------- |
+| Might (+6)        | Satıcı                 | Silah yeteneği 100, Tactics 100     |
+| Force (+9)        | 9 Bag, Upgrade Scroll  | Silah yeteneği 100, Tactics 100     |
+| Power (+12)       | 12 Bag, Upgrade Scroll | Silah yeteneği 100, Tactics 100     |
+| Vanquishing (+15) | 15 Bag, Upgrade Scroll | Silah yeteneği **110**, Tactics 100 |
 
-* Silah çantaları (18 / 21 / 24 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
-* Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +18 ve +21 silahları sorunsuz kullanır. **+24 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
+* Silah çantaları (9 / 12 / 15 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
+* Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +9 ve +12 silahları sorunsuz kullanır. **+15 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
   * **Swordsmanship 110**: Halberd, Bardiche, Axe türleri, Scimitar, Katana, Bladed Staff
   * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork, Lance
   * **Macefighting 110**: Club, War Mace, Hammer Pick, War Hammer, Quarter Staff, Black Staff
 * Silahlar Upgrade Scroll ile bir üst seviyeye geliştirilebilir (bkz. **Upgrade**).
-* **+27 silahlar** sadece +24 silahı upgrade ederek elde edilir; çantadan çıkmaz. Yetenek şartı ve bonusu +24 ile aynıdır, hasarı ve hızı daha yüksektir.
+
+## Kritik vuruş (Critical Stone)
+
+**Critical Stone**, +15 (Vanquishing) silaha **kritik vuruş** özelliği ekler.
+
+1. Taş ve silah çantanda olmalı.
+2. Taşa çift tıkla, +15 (Vanquishing) silahını seç.
+3. Taş harcanır, silah kalıcı olarak kritik vuruş yapabilir hale gelir.
+
+* Kritik vuruş arada bir çıkar; o vuruş normalden daha fazla hasar verir (`* Critical Damage *`).
+* Sadece **oyunculara** karşı çalışır.
+* Kritikli silaha tıklayınca **\[Kritik]** yazısı görünür.
+* Taş sadece +15 (Vanquishing) silahlara basılır ve bir silaha bir kez basılır.
+* Kryss'in kendi bonusu **Critical Shoot** ayrıdır (bkz. **Silah Bonusları**).
 
 ## Silah türleri ve bonusları
 
@@ -37,20 +49,20 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 | ------------------------------------------- | ------------------------------------ |
 | Halberd                                     | Dismount                             |
 | Bardiche                                    | Kendine Çeker                        |
-| Axe, Battle Axe, Double Axe, Two Handed Axe | Extra Hasar (+24'te ayrıca Dismount) |
+| Axe, Battle Axe, Double Axe, Two Handed Axe | Extra Hasar (+15'te ayrıca Dismount) |
 | Scimitar, Katana                            | Bleeding                             |
-| Bladed Staff                                | Bleeding (Vanquishing: Dismount)     |
+| Bladed Staff                                | Bleeding (Might: Dismount)           |
 | Kryss                                       | Critical Shoot                       |
 | Spear, Short Spear, Pike                    | Parablow                             |
 | Pitchfork                                   | Dismount                             |
 | Lance                                       | Dismount (bütün seviyelerde)         |
 | Club, War Mace                              | Stamshot                             |
 | Hammer Pick, War Hammer                     | Sakatlar                             |
-| Quarter Staff                               | Stamshot (+24'te ayrıca Dismount)    |
-| Black Staff (+24)                           | Stamshot ve Halüsinasyon             |
+| Quarter Staff                               | Stamshot (+15'te ayrıca Dismount)    |
+| Black Staff (+15)                           | Stamshot ve Halüsinasyon             |
 
-* 18 ve 21 Bag'den: Axe türleri, Halberd, Bardiche, Scimitar, Katana, Kryss, Spear, Short Spear, Pitchfork, Club, War Mace, Hammer Pick, War Hammer.
-* 24 Bag'den bunlara ek olarak Bladed Staff, Pike ve Black Staff da çıkar.
+* 9 ve 12 Bag'den: Axe türleri, Halberd, Bardiche, Scimitar, Katana, Kryss, Spear, Short Spear, Pitchfork, Club, War Mace, Hammer Pick, War Hammer.
+* 15 Bag'den bunlara ek olarak Bladed Staff, Pike ve Black Staff da çıkar.
 
 ## Fire silahlar
 
@@ -93,13 +105,12 @@ Bu sayfadaki silahlar kullandıkça yıpranır:
 
 Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair Scroll** ile tamir edilir. Scroll'a çift tıklayıp tamir edilecek eşyayı seçersin. Gereken scroll sayısı silahın seviyesine göre değişir:
 
-| Seviye                  | Repair Scroll |
-| ----------------------- | ------------- |
-| Vanquishing             | 10            |
-| +18                     | 2             |
-| +21, Fire silahlar      | 3             |
-| +24 (silah çantasından) | 8             |
-| +27                     | 10            |
+| Seviye             | Repair Scroll |
+| ------------------ | ------------- |
+| Might (+6)         | 10            |
+| +9                 | 2             |
+| +12, Fire silahlar | 3             |
+| +15                | 8             |
 
 ## Zehirli silah
 

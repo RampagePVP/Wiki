@@ -18,7 +18,7 @@ Gate'e girince kendi çantanız ve giydikleriniz etkinlik boyunca saklanır, siz
 * Bol miktarda Greater Heal, Greater Cure, Total Refresh ve Bleed potion'u; bandaj.
 * Archery, Fencing ve Tactics'i 98 üstü olanlara ayrıca zehir, zehir bezi ve Greater Agility.
 * Sınıfınıza göre set deed'leri ve robe'lar: Warrior'a Dragon Set Deed ve Notum Robe; Warlock'a Devil Set Deed ve Perfect Robe; Mage'e Devil Set Deed, High Mage Robe ve Mage Shield.
-* Warrior ve Warlock'a iki silah çantası (Vanquishing silahlar).
+* Warrior ve Warlock'a iki silah çantası (Might silahlar).
 * Bir Ostard Egg (açınca rastgele bir binek çıkar), üç at, Animal Deed'ler ve iki Advanced Golem.
 
 Kitteki eşyalar etkinlik bitince silinir; kendi eşyalarınız geri verilir.

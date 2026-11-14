@@ -33,7 +33,7 @@ Bu yaratıklara karşı Flamestrike, Energy Bolt, Explosion gibi doğrudan hasar
 * Flamestrike, Energy Bolt ve Poison atar. Üzerine tıklayınca son saldıranın adı görünür.
 * Öldüğünde kaç kişinin saldırdığı ve **en çok hasarı veren** oyuncu bütün sunucuya duyurulur.
 
-**Ganimet:** Ender Hazine, 500k ve 250k gold çekleri, Devil Set Deed, Dragon Set Deed, Silah Çantası (+24), Golem (Advanced), Random Egg, Solo Dungeon Key; nadiren Stat Full Deed.
+**Ganimet:** Ender Hazine, 500k ve 250k gold çekleri, Devil Set Deed, Dragon Set Deed, Silah Çantası (+15), Golem (Advanced), Random Egg, Solo Dungeon Key; nadiren Stat Full Deed.
 
 ## Sargeras
 
@@ -46,7 +46,7 @@ Ghost Ostard'ı tam güce ulaşmış bir oyuncunun bineği öldürülürse, Ghos
 * Canı çok azalınca kendini iyileştirir.
 * Öldüğünde onu kesen oyuncu bütün sunucuya duyurulur.
 
-**Ganimet:** 1m gold çekleri, Stat Full Deed, Devil ya da Dragon Set Deed'ler, Ranger ve Godness set parçaları, Silah Çantası (+24), Ender Hazine, Puzzle Parça Çantası, Random Egg, Solo Dungeon Key, Party Statue, Dragon Blood, Binek Res Scroll, Upgrade Scroll (+18) ve (+21), Magic Log, Magic Ingot, Event Potion ve Armor Helm Upgrade Scroll.
+**Ganimet:** 1m gold çekleri, Stat Full Deed, Devil ya da Dragon Set Deed'ler, Ranger ve Godness set parçaları, Silah Çantası (+15), Ender Hazine, Puzzle Parça Çantası, Random Egg, Solo Dungeon Key, Party Statue, Dragon Blood, Binek Res Scroll, Upgrade Scroll (+9) ve (+12), Magic Log, Magic Ingot, Event Potion ve Armor Helm Upgrade Scroll.
 
 ## Dark Blood Monk
 

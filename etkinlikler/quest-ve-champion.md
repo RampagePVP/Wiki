@@ -44,18 +44,18 @@ Ejderha öldüğünde Quest alanında olan **her oyuncu** **50.000 gold Banka Ch
 | 6 Random Egg                     | 4 Banka Checki (250.000 gold) |
 | 20 Magic Ingot                   | 4 Devil Set Deed              |
 | 5 Solo Dungeon Key               | 4 Dragon Set Deed             |
-| 3 Party Statue                   | 10 Upgrade Scroll (+21)       |
-| 2 Banka Checki (1.000.000 gold)  | 10 Upgrade Scroll (+18)       |
-| 20 Magic Log                     | 5 adet +21 silah çantası      |
-| 10 Değerli Hazine Sandığı        | 4 adet +24 silah çantası      |
+| 3 Party Statue                   | 10 Upgrade Scroll (+12)       |
+| 2 Banka Checki (1.000.000 gold)  | 10 Upgrade Scroll (+9)        |
+| 20 Magic Log                     | 5 adet +12 silah çantası      |
+| 10 Değerli Hazine Sandığı        | 4 adet +15 silah çantası      |
 | 1 Ender Hazine                   | Dragon Blood                  |
-| 1 Upgrade Scroll (+24)           |                               |
+| 1 Upgrade Scroll (+15)           |                               |
 | 1 Upgrade Mage Scroll (Archmage) |                               |
 | 15 Event Potion                  |                               |
 | 2 Armorer Helm (iki türü)        |                               |
 
 {% hint style="info" %}
-Yukarıdaki ödüller günlük 22:00 Quest'i içindir. GM'lerin açtığı ek Quest'lerde 50.000 gold checkin yanında daha küçük tek bir çanta verilir: Random Egg, Magic Ingot, Solo Dungeon Key, Party Statue, 1.000.000 gold check, Magic Log, Değerli Hazine Sandığı, Event Potion, Armorer Helm, Devil ve Dragon Set Deed, Upgrade Scroll (+21 ve +18), +24 silah çantası, Dragon Blood; şansa bağlı olarak Ender Hazine.
+Yukarıdaki ödüller günlük 22:00 Quest'i içindir. GM'lerin açtığı ek Quest'lerde 50.000 gold checkin yanında daha küçük tek bir çanta verilir: Random Egg, Magic Ingot, Solo Dungeon Key, Party Statue, 1.000.000 gold check, Magic Log, Değerli Hazine Sandığı, Event Potion, Armorer Helm, Devil ve Dragon Set Deed, Upgrade Scroll (+12 ve +9), +15 silah çantası, Dragon Blood; şansa bağlı olarak Ender Hazine.
 {% endhint %}
 
 ## Günlük Champion (22:30)
@@ -77,6 +77,6 @@ Her gün 22:30'da **Daemon Blood Champion**, Moonglow'daki Lycaeum bölgesinde o
 | Solo Dungeon Key      | 1       |
 | Devil Set Deed        | 1       |
 | Dragon Set Deed       | 1       |
-| +24 silah çantası     | 1       |
+| +15 silah çantası     | 1       |
 | Random Egg            | 1       |
 | Stat Full deed        | Nadiren |

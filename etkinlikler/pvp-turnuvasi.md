@@ -32,7 +32,7 @@ Turnuvada herkesin eşit şartlarda dövüşmesi için güçlü eşyalar yasakt�
 * Üst seviye set parçaları, kalkanları ve set deed'leri (Godness, Ranger). Devil ve Dragon setleri serbesttir.
 * Armorer Helm ve özel kalkanlar
 * Özel robeler
-* +18 ve üstü silahlar, özel silahlar ve özel yaylar
+* +9 ve üstü silahlar, özel silahlar ve özel yaylar
 * Stat ya da özel bonus veren takı, kemer, gözlük ve talisman'lar
 * Güç Yüzüğü, Pvp Commander kanadı, Guildmaster Bayrak
 * Stat potion ve event potion'lar

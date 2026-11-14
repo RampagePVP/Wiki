@@ -102,30 +102,30 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 * Bankanızda kumbara olmalıdır. Kumbara 1.900.000.000'u aşacaksa satış yapılmaz.
 * Bedava verilen (satılamaz işaretli) eşyalar satılamaz.
 
-| Eşya                                                                                                             | Gold (adet başı) |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------- |
-| High Mage Robe, Perfect Robe, Notum Robe                                                                         | 250              |
-| Devil Set Deed                                                                                                   | 250              |
-| Devil set parçaları                                                                                              | 75               |
-| Dragon Set Deed                                                                                                  | 250              |
-| Dragon set parçaları ve Dragon Shield                                                                            | 50               |
-| Mage Shield                                                                                                      | 1.000            |
-| Armorer Helm (iki çeşit)                                                                                         | 250              |
-| Vanquishing silahlar (Katana, Spear, Club, Pitchfork, Kryss, War Mace, Scimitar, Short Spear, Halberd, Bardiche) | 1.000            |
-| Black Staff of Vanquishing                                                                                       | 100              |
-| Bladed Staff, Pike, Scythe                                                                                       | 5.000            |
-| Npc Bow                                                                                                          | 1.000            |
-| Poison Bow, Light Bow                                                                                            | 500              |
-| Upgrade Scroll +18                                                                                               | 250              |
-| Upgrade Scroll +21                                                                                               | 500              |
-| Upgrade Scroll +24                                                                                               | 10.000           |
-| Mage Scroll (Arch)                                                                                               | 10.000           |
-| Binek Res Scroll                                                                                                 | 25               |
-| Binek Armor, Str ve Dex belgeleri                                                                                | 100              |
-| Stat Full belgesi                                                                                                | 5.000.000        |
-| Belirsiz Sandık                                                                                                  | 1.000            |
-| Değerli Hazine Sandığı                                                                                           | 10.000           |
-| Deed of Storm                                                                                                    | 7.000            |
+| Eşya                                                                                                            | Gold (adet başı) |
+| --------------------------------------------------------------------------------------------------------------- | ---------------- |
+| High Mage Robe, Perfect Robe, Notum Robe                                                                        | 250              |
+| Devil Set Deed                                                                                                  | 250              |
+| Devil set parçaları                                                                                             | 75               |
+| Dragon Set Deed                                                                                                 | 250              |
+| Dragon set parçaları ve Dragon Shield                                                                           | 50               |
+| Mage Shield                                                                                                     | 1.000            |
+| Armorer Helm (iki çeşit)                                                                                        | 250              |
+| Might (+6) silahlar (Katana, Spear, Club, Pitchfork, Kryss, War Mace, Scimitar, Short Spear, Halberd, Bardiche) | 1.000            |
+| Black Staff of Might                                                                                            | 100              |
+| Bladed Staff, Pike, Scythe                                                                                      | 5.000            |
+| Npc Bow                                                                                                         | 1.000            |
+| Poison Bow, Light Bow                                                                                           | 500              |
+| Upgrade Scroll +9                                                                                               | 250              |
+| Upgrade Scroll +12                                                                                              | 500              |
+| Upgrade Scroll +15                                                                                              | 10.000           |
+| Mage Scroll (Arch)                                                                                              | 10.000           |
+| Binek Res Scroll                                                                                                | 25               |
+| Binek Armor, Str ve Dex belgeleri                                                                               | 100              |
+| Stat Full belgesi                                                                                               | 5.000.000        |
+| Belirsiz Sandık                                                                                                 | 1.000            |
+| Değerli Hazine Sandığı                                                                                          | 10.000           |
+| Deed of Storm                                                                                                   | 7.000            |
 
 ## Magic Exchange
 
@@ -133,7 +133,7 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 
 | Ürün                          | Bedel           |
 | ----------------------------- | --------------- |
-| 1 adet +24 silah çantası      | 5 Magic Ingot   |
+| 1 adet +15 silah çantası      | 5 Magic Ingot   |
 | 500 Binek Res Scroll          | 20 Magic Ingot  |
 | 5.000.000 gold'luk banka çeki | 35 Magic Log    |
 | Ender Hazine                  | 75 Magic Log    |
@@ -148,12 +148,12 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 
 | Eşya                                                 | Hediye bileti      |
 | ---------------------------------------------------- | ------------------ |
-| +24 silahlar (Heavy Crossbow ve Quarter Staff hariç) | 100                |
-| Black Staff of Vanquishing                           | 100                |
-| +21 silahlar                                         | 7–15 (silaha göre) |
-| +18 silahlar                                         | 2–7 (silaha göre)  |
-| Heavy Crossbow +18 / +21                             | 20 / 30            |
-| Lance +18 / +21                                      | 12 / 7             |
+| +15 silahlar (Heavy Crossbow ve Quarter Staff hariç) | 100                |
+| Black Staff of Might                                 | 100                |
+| +12 silahlar                                         | 7–15 (silaha göre) |
+| +9 silahlar                                          | 2–7 (silaha göre)  |
+| Heavy Crossbow +9 / +12                              | 20 / 30            |
+| Lance +9 / +12                                       | 12 / 7             |
 | Mage Shield                                          | 25                 |
 | Armorer Helm                                         | 5                  |
 | Stat Full belgesi                                    | 100                |
@@ -163,8 +163,8 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | Değerli Hazine Sandığı                               | 10                 |
 | Belirsiz Sandık                                      | 2                  |
 | Solo Dungeon Key, Deed of Storm                      | 10                 |
-| Upgrade Scroll +24                                   | 5                  |
-| Upgrade Scroll +21 / +18                             | 4 / 1              |
+| Upgrade Scroll +15                                   | 5                  |
+| Upgrade Scroll +12 / +9                              | 4 / 1              |
 | Mage Scroll (Arch)                                   | 7                  |
 | Magic Log                                            | 7                  |
 | Binek Armor, Str ve Dex belgeleri                    | 2                  |

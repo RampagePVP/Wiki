@@ -77,8 +77,8 @@ Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır.
 
 ### Değerli Hazine Sandığı
 
-* **Her zaman:** gold çeki, Belirsiz Sandık, Devil Set Deed, Dragon Set Deed, Armorer Helm (Bone), Olgun Ostard Egg, Binek Res Scroll, Upgrade Scroll (+18, +21), Binek Armor / Dex / Str belgeleri.
-* **Şansa bağlı:** Random Egg, ikinci bir Devil Set Deed, Armorer Helm (Orc), +21 ve +24 silah çantası, Light Bow, Mage Shield, Solo Dungeon Key, Party Statue, Magic Ingot, Magic Log, Dragon Blood.
+* **Her zaman:** gold çeki, Belirsiz Sandık, Devil Set Deed, Dragon Set Deed, Armorer Helm (Bone), Olgun Ostard Egg, Binek Res Scroll, Upgrade Scroll (+9, +12), Binek Armor / Dex / Str belgeleri.
+* **Şansa bağlı:** Random Egg, ikinci bir Devil Set Deed, Armorer Helm (Orc), +12 ve +15 silah çantası, Light Bow, Mage Shield, Solo Dungeon Key, Party Statue, Magic Ingot, Magic Log, Dragon Blood.
 * **Nadir:** Advanced Golem figürü, Dragon set parçası, Stat Full belgesi.
 
 ### Görev Kasası
@@ -88,9 +88,8 @@ Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır.
 
 ### Ender Hazine
 
-* **Her zaman:** Devil ya da Dragon Set Deed, Event Potion, Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +24 silah çantası, Upgrade Scroll (+24), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Deed of Storm, Dragon Blood, Binek Res Scroll, Magic Log, Magic Ingot, Str / Dex / Binek Armor belgeleri.
+* **Her zaman:** Devil ya da Dragon Set Deed, Event Potion, Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +15 silah çantası, Upgrade Scroll (+15), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Deed of Storm, Dragon Blood, Binek Res Scroll, Magic Log, Magic Ingot, Str / Dex / Binek Armor belgeleri.
 * **Şansa bağlı:** fazladan set belgesi ve Random Egg, Ranger ve Godness set parçası, Stat Full belgesi.
-* **Çok nadir:** Upgrade Scroll (+27).
 
 ## Hazine yükseltme (Haydut)
 

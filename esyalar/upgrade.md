@@ -14,16 +14,15 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 
 | Scroll                                 | Geliştirilecek silah | Sonuç | Ücret        |
 | -------------------------------------- | -------------------- | ----- | ------------ |
-| Upgrade Scroll **\[Darquishing: +18]** | Vanquishing (+15)    | +18   | 25.000 gold  |
-| Upgrade Scroll **\[Screaming: +21]**   | +18                  | +21   | 50.000 gold  |
-| Upgrade Scroll **\[Damned: +24]**      | +21                  | +24   | 200.000 gold |
-| Upgrade Scroll **\[Infernal: +27]**    | +24                  | +27   | 500.000 gold |
+| Upgrade Scroll **\[Force: +9]**        | Might (+6)           | +9    | 25.000 gold  |
+| Upgrade Scroll **\[Power: +12]**       | +9                   | +12   | 50.000 gold  |
+| Upgrade Scroll **\[Vanquishing: +15]** | +12                  | +15   | 200.000 gold |
 
-* Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +24 ve +27 başarısı bütün sunucuya duyurulur.
-* **+27 (Infernal)** en üst seviyedir. Bütün +24 silahlar +27 yapılabilir; silahın bonusu aynı kalır, hasarı ve hızı artar. Upgrade Scroll (+27) çok nadirdir: **Ender Hazine**'den ve **Dark Blood Monk**'tan çıkar.
+* Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +15 başarısı bütün sunucuya duyurulur.
+* **+15 (Vanquishing)** en üst seviyedir. +15 silaha **Critical Stone** basılarak kritik vuruş eklenebilir (bkz. **Silahlar**).
 * Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, War Axe, Scimitar, Katana, Broadsword, Longsword, Cutlass, Bladed Staff, Kryss, War Fork, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
 * **Upgrade edilemez:** Fire Spear, Fire Katana.
-* +24 ve +27 için gereken 110 yetenek **Silahlar** sayfasında.
+* +15 için gereken 110 yetenek **Silahlar** sayfasında.
 
 ## Mage robe upgrade'i
 
@@ -80,12 +79,12 @@ Guild eşyası **Shield Bonus Book** ile Order ya da Chaos Shield'a 24 saatlik b
 
 Safe alandaki **Forge of Skill**'e çift tıklayıp (en fazla 3 kare uzaktan) eritilecek eşyayı seçersin. Eşya çantanda ya da üzerinde olmalı.
 
-| Eritilen eşya                                 | Ödül                                         |
-| --------------------------------------------- | -------------------------------------------- |
-| +21 silah                                     | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
-| +24 silah (silah çantasından), Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
+| Eritilen eşya             | Ödül                                         |
+| ------------------------- | -------------------------------------------- |
+| +12 silah                 | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
+| +15 silah, Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
 
-Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Fire ve +27 silahlar eritilemez.
+Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Fire silahlar eritilemez.
 
 ### Magic Ingot
 
@@ -100,7 +99,7 @@ Safe alanda Magic Ingot'a çift tıklayınca menü açılır:
 | Skill Book: +10 Archery                 | 5 Magic Ingot |
 | Magic Bottle (Mind Blast)               | 2 Magic Ingot |
 
-**Skill Book** safe alanda, ilgili yetenek **tam 100.0** iken kullanılır ve yeteneği **110.0** yapar. 110'a çıkmış yetenek için tekrar kullanılamaz. 110 yetenek, sınıf değiştirsen de korunur (bkz. **Sınıflar ve Statlar**). +24 silahlar ve Magic Log yayları 110 yetenek ister.
+**Skill Book** safe alanda, ilgili yetenek **tam 100.0** iken kullanılır ve yeteneği **110.0** yapar. 110'a çıkmış yetenek için tekrar kullanılamaz. 110 yetenek, sınıf değiştirsen de korunur (bkz. **Sınıflar ve Statlar**). +15 silahlar ve Magic Log yayları 110 yetenek ister.
 
 ### Magic Log
 

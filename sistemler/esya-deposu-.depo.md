@@ -32,7 +32,7 @@ Kategoride depoda da çantada da olmayan türler gri yazılır.
 
 Menünün sağ üstündeki kutuya yazıp **Ara**'ya basınca bütün kategorilerde (binekler dahil) arama yapılır. Sonuçlar tek listede çıkar, her satırda adın altında kategorisi yazar. Yatır, Çek ve profile ekleme kategorideki gibi çalışır.
 
-* Kelimeler sırayla aranır: `katana 24` yazınca Katana of Damned (+24) bulunur. Büyük/küçük harf fark etmez.
+* Kelimeler sırayla aranır: `katana 15` yazınca Katana of Vanquishing (+15) bulunur. Büyük/küçük harf fark etmez.
 * En az 2, en fazla 20 harf yazılır. Türkçe harf kullanmayın (c, g, i, o, s, u yazın): `canta` yazınca Silah Çantası bulunur.
 * Binek satırında **Aç**'a basınca o türün binekleri açılır, **Geri** aramaya döner. `binek` aratınca bütün binek türleri çıkar.
 * **Aramayı Kapat**'a ya da bir kategoriye basınca arama kapanır. Menü kapanınca arama sıfırlanır.
@@ -41,15 +41,15 @@ Menünün sağ üstündeki kutuya yazıp **Ara**'ya basınca bütün kategoriler
 
 | Kategori             | İçindekiler                                                                                                                                                                                                                                             |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scrolllar            | Upgrade Scroll (+18, +21, +24), Armor Helm Upgrade Scroll, Mage Scroll (Arch), Binek Res Scroll, Repair Scroll                                                                                                                                          |
+| Scrolllar            | Upgrade Scroll (+9, +12, +15), Armor Helm Upgrade Scroll, Mage Scroll (Arch), Binek Res Scroll, Repair Scroll                                                                                                                                           |
 | Belgeler             | Devil, Dragon, Ranger ve Godness Set Deed; Binek Armor, Stat Full, Str, Dex ve Animal Deed; Deed of Storm                                                                                                                                               |
-| Kutu ve Çantalar     | Belirsiz Sandık, Değerli Hazine Sandığı, Ender Hazine, Silah Çantası (+18, +21, +24), Puzzle Parça Çantası, Random Egg                                                                                                                                  |
+| Kutu ve Çantalar     | Belirsiz Sandık, Değerli Hazine Sandığı, Ender Hazine, Silah Çantası (+9, +12, +15), Puzzle Parça Çantası, Random Egg                                                                                                                                   |
 | Potionlar            | Event Potion, Guild Stat Potion (içilmemiş olanlar)                                                                                                                                                                                                     |
 | Malzemeler           | Magic Log, Magic Ingot, Dragon Blood, Maden Ingotu, Çimento, Honor Point, Hediye Bileti, Silver Coin, Rampage Balığı, Solo Dungeon Key, Party Statue, zanaat malzemeleri (Lanetli Kemik, Daemon Kemiği, Wyrm Kalbi, Kara Kan) ve bazı etkinlik eşyaları |
 | Warrior Setleri      | Godness ve Dragon set parçaları ve kalkanları                                                                                                                                                                                                           |
 | Warlock/Mage Setleri | Ranger ve Devil set parçaları                                                                                                                                                                                                                           |
 | Helm ve Kalkanlar    | Armorer Helm (Orc ve Bone), Shadow Hood, Kasa, Mage Shield                                                                                                                                                                                              |
-| Silahlar             | Bütün +24 (Damned) silahlar                                                                                                                                                                                                                             |
+| Silahlar             | Bütün +15 (Vanquishing) silahlar                                                                                                                                                                                                                        |
 | Robeler ve Diğer     | High Mage Robe, Perfect Robe, Notum Robe, smokin takımı (Silindir Şapka, Smokin Ceketi, Smokin Pantolonu)                                                                                                                                               |
 | Golemler             | Advanced Golem, Tinker Golem ve Steel Golem figürleri, küçültülmüş golemler                                                                                                                                                                             |
 | Binekler             | Küçültülmüş binek figürleri                                                                                                                                                                                                                             |
@@ -64,7 +64,7 @@ Sadece depo menüsünde listelenen eşyalar depoya konabilir.
 
 * **Değişmemiş** (yeni çıktığı haliyle aynı) zırh, silah ve robeler de sayılarak saklanır. Depodan **orijinal renginde** çıkar; üzerindeki boya kaybolur.
 * **Özel** eşyalar (upgrade/absorb'lu, zehirli, şarjı kullanılmış, adı değiştirilmiş, tamirle en yüksek dayanıklılığı düşmüş, zanaatta üretilmiş ve imzalı) **olduğu gibi** saklanır ve aynen geri gelir. Menüde kendi türünün altında **sarı** satırda, dayanıklılığıyla görünür. Depoda en fazla **300** özel eşya olabilir.
-* Depodan çekilen +24 silahlar tam dayanıklılıkla gelir.
+* Depodan çekilen +15 silahlar tam dayanıklılıkla gelir. Critical Stone basılmış (kritikli) silahlar sayılmaz, olduğu gibi saklanır.
 
 **Küçültülmüş golemler ve binek figürleri** statları, armoru, adı ve geliştirmesiyle olduğu gibi saklanır.
 

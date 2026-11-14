@@ -22,13 +22,13 @@ Dark Blood Monk, dungeonlarda birçok noktada sürekli yeniden çıkan güçlü 
 
 **Ganimet:**
 
-| Ne sıklıkla | Eşya                                                                                                                                                                                                                                        |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Her zaman   | Puzzle Parça Çantası                                                                                                                                                                                                                        |
-| Sık         | Silah Çantası (+18), Dragon Blood, 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                       |
-| Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+21), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+21), Upgrade Scroll (+24), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone), Upgrade Scroll (+18) |
-| Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+24), Party Statue, Armor Helm Upgrade Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                 |
-| Çok nadir   | Golem (Advanced), Stat Full Deed, Upgrade Scroll (+27)                                                                                                                                                                                      |
+| Ne sıklıkla | Eşya                                                                                                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Her zaman   | Puzzle Parça Çantası                                                                                                                                                                                                                       |
+| Sık         | Silah Çantası (+9), Dragon Blood, 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                       |
+| Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+12), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+12), Upgrade Scroll (+15), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone), Upgrade Scroll (+9) |
+| Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+15), Party Statue, Armor Helm Upgrade Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                |
+| Çok nadir   | Golem (Advanced), Stat Full Deed                                                                                                                                                                                                           |
 
 {% hint style="info" %}
 Armorer Helm, içinde tam sağlam eşya olan ayrı bir çanta ("Loot Bag") olarak düşer.

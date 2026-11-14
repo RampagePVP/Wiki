@@ -39,7 +39,7 @@ Bir yaratığın sayılması için ona **en çok hasarı veren** siz olmalısın
 | 4  | Orc             | Cove Ork Kampı     | 10   | 500.000 gold çek + 2 Değerli Hazine Sandığı |
 | 5  | Imp             | Hythloth           | 15   | 350.000 gold çek + 5 Random Egg             |
 | 6  | Giant Serpent   | Destard            | 10   | 150.000 gold çek + Stat Full (STR) belgesi  |
-| 7  | Reaper          | Hopper's Bataklığı | 10   | 150.000 gold çek + 10 Upgrade Scroll (+21)  |
+| 7  | Reaper          | Hopper's Bataklığı | 10   | 150.000 gold çek + 10 Upgrade Scroll (+12)  |
 | 8  | Corpser         | Compassion Çölü    | 10   | 750.000 gold çek                            |
 | 9  | Titan           | Yew Geçidi         | 5    | 1.000.000 gold çek                          |
 | 10 | Shadow Wyrm     | Destard            | 3    | 500.000 gold çek + Görev Hazinesi           |

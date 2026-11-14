@@ -59,7 +59,7 @@ Maden ingotuna çift tıklayınca ödül menüsü açılır. Menü yalnızca saf
 | --------------------------------------------- | ----- |
 | 1 Repair Scroll                               | 5     |
 | 10 Çimento                                    | 20    |
-| 2 Upgrade Scroll (+24)                        | 20    |
+| 2 Upgrade Scroll (+15)                        | 20    |
 | Ender Hazine                                  | 100   |
 | Rastgele 1 Godness set parçası (kalkan dahil) | 200   |
 | Staff of Mage                                 | 250   |
