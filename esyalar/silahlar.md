@@ -109,7 +109,7 @@ Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair S
 
 | Seviye             | Repair Scroll |
 | ------------------ | ------------- |
-| Might (+6)         | 10            |
+| Might (+6)         | 1             |
 | +9                 | 2             |
 | +12, Fire silahlar | 3             |
 | +15                | 8             |

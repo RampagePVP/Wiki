@@ -135,6 +135,7 @@ Aşınan silah, kalkan, zırh ve kıyafetlerinizi **Repair Scroll** ile tamir ed
 
 | Eşya seviyesi                   | Gereken Repair Scroll |
 | ------------------------------- | --------------------- |
+| +6                              | 1                     |
 | +9                              | 2                     |
 | +12                             | 3                     |
 | +15                             | 8                     |
