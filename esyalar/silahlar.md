@@ -33,6 +33,8 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 **Critical Stone**, +15 (Vanquishing) silaha **kritik vuruş** özelliği ekler.
 
+**Nereden çıkar:** Ender Hazine kasasından ve dungeonlardaki **Dungeon Chest**'lerden şansa bağlı olarak çıkar (bkz. **Hazine** ve **Dungeonlar**).
+
 1. Taş ve silah çantanda olmalı.
 2. Taşa çift tıkla, +15 (Vanquishing) silahını seç.
 3. Taş harcanır, silah kalıcı olarak kritik vuruş yapabilir hale gelir. Silahın adı değişir: örneğin **+15 Magical Katana of Bloodstone**.
