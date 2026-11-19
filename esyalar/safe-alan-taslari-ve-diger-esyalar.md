@@ -103,19 +103,20 @@ Gold kumbaradan düşülür; çimento çantanızda olmalıdır. Çimento maden e
 
 ## Silah Stone
 
-Might (+6) silahlarını gold karşılığı satar. Menüde silahın özellikleri, tek/çift el oluşu ve zehir sürülüp sürülemeyeceği yazar.
+Force (+9) silahlarını gold karşılığı satar. Menüde silahın özellikleri, tek/çift el oluşu ve zehir sürülüp sürülemeyeceği yazar.
 
-| Silah       | Fiyat (gold) | Silah          | Fiyat (gold) |
-| ----------- | ------------ | -------------- | ------------ |
-| Katana      | 2.500        | Bardiche       | 5.000        |
-| Spear       | 3.000        | Poison Bow     | 4.000        |
-| Club        | 2.000        | Battle Axe     | 4.500        |
-| Pitchfork   | 2.500        | Axe            | 3.500        |
-| Kryss       | 2.500        | Double Axe     | 2.500        |
-| War Mace    | 2.500        | Two Handed Axe | 3.500        |
-| Scimitar    | 2.500        | Hammer Pick    | 4.000        |
-| Short Spear | 3.000        | War Hammer     | 4.000        |
-| Halberd     | 6.500        |                |              |
+| Silah         | Fiyat (gold) | Silah          | Fiyat (gold) |
+| ------------- | ------------ | -------------- | ------------ |
+| Katana        | 2.500        | Bardiche       | 5.000        |
+| Spear         | 3.000        | Poison Bow     | 4.000        |
+| Club          | 2.000        | Battle Axe     | 4.500        |
+| Pitchfork     | 2.500        | Axe            | 3.500        |
+| Kryss         | 2.500        | Double Axe     | 2.500        |
+| War Mace      | 2.500        | Two Handed Axe | 3.500        |
+| Scimitar      | 2.500        | Hammer Pick    | 4.000        |
+| Short Spear   | 3.000        | War Hammer     | 4.000        |
+| Halberd       | 6.500        | Black Staff    | 3.500        |
+| Quarter Staff | 2.500        |                |              |
 
 ## Armor Stone
 

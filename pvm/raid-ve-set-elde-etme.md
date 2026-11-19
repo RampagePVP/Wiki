@@ -22,13 +22,13 @@ Dark Blood Monk, dungeonlarda birçok noktada sürekli yeniden çıkan güçlü 
 
 **Ganimet:**
 
-| Ne sıklıkla | Eşya                                                                                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Her zaman   | Puzzle Parça Çantası                                                                                                                                                                                                                       |
-| Sık         | Silah Çantası (+9), Dragon Blood, 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                       |
-| Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+12), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+12), Upgrade Scroll (+15), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone), Upgrade Scroll (+9) |
-| Nadir       | **Devil Set Deed**, Random Egg, Silah Çantası (+15), Party Statue, Armor Helm Upgrade Scroll, Magic Log, **Dragon Set Deed**, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                |
-| Çok nadir   | Golem (Advanced), Stat Full Deed                                                                                                                                                                                                           |
+| Ne sıklıkla | Eşya                                                                                                                                                                                                                  |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Her zaman   | Puzzle Parça Çantası                                                                                                                                                                                                  |
+| Sık         | 25k gold çeki, Binek Res Scroll, **Deed of Storm**                                                                                                                                                                    |
+| Ara sıra    | Belirsiz Sandık, Upgrade Scroll (+12), Armorer Helm (Orc), Solo Dungeon Key, Değerli Hazine Sandığı, Silah Çantası (+12), Upgrade Scroll (+15), Mage Scroll (Arch), Binek Armor / Dex / Str Deed, Armorer Helm (Bone) |
+| Nadir       | Random Egg, Silah Çantası (+15), Party Statue, Armor Helm Upgrade Scroll, Magic Log, **Ranger set parçası**, **Godness set parçası**, Ender Hazine                                                                    |
+| Çok nadir   | Golem (Advanced), Stat Full Deed                                                                                                                                                                                      |
 
 {% hint style="info" %}
 Armorer Helm, içinde tam sağlam eşya olan ayrı bir çanta ("Loot Bag") olarak düşer.
@@ -39,14 +39,8 @@ Armorer Helm, içinde tam sağlam eşya olan ayrı bir çanta ("Loot Bag") olara
 ### Devil Set Deed ve Dragon Set Deed
 
 * Safe alandaki **Armor Stone** (gold ile; fiyatlar **Safe Alan Taşları ve Diğer Eşyalar** sayfasında)
-* Belirsiz Sandık ve Değerli Hazine Sandığı (her sandıkta birer tane; bkz. **Hazine**)
-* Dark Blood Monk (Devil Set Deed, Dragon'dan daha sık düşer)
-* Daemon Blood Champion (her gün 22:30)
-* Dungeon Chest
-* Solo Dungeon ödülü
-* Zindan (parti dungeonu) ödülü
-* Sargeras
-* Ender Hazine
+* Günlük Quest (22:00) ve GM'lerin açtığı ek Quest'lerin ödül çantaları (bkz. **Quest ve Champion**)
+* Survivor of Ilshenar (giriş kitinde sınıfına göre ve ödül çantasında)
 
 ### Ranger Set Deed ve Godness Set Deed: Ranger ve Godness Box
 

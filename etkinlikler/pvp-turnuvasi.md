@@ -22,7 +22,7 @@ Her gece 23:00'te otomatik açılan 1vs1 PvP Turnuvası, eleme usulü birebir d�
 
 * Aynı bilgisayardan yalnızca bir karakter katılabilir.
 * Üzerinizde **Güç Yüzüğü** varsa katılamazsınız. Çıkarmak için `.yuzukcikar` yazın.
-* Üzerinizdeki stat potion etkisi ve event potion (Parablow / Bleed / Dismount) etkileri silinir.
+* Üzerinizdeki stat potion etkisi silinir.
 * Üzerinizde ya da çantanızda yasaklı bir eşya varsa kayıt olamazsınız; menü hangi eşya olduğunu yazar.
 
 ## Yasaklı eşyalar
@@ -35,7 +35,7 @@ Turnuvada herkesin eşit şartlarda dövüşmesi için güçlü eşyalar yasakt�
 * +9 ve üstü silahlar, özel silahlar ve özel yaylar
 * Stat ya da özel bonus veren takı, kemer, gözlük ve talisman'lar
 * Güç Yüzüğü, Pvp Commander kanadı, Guildmaster Bayrak
-* Stat potion ve event potion'lar
+* Stat potion'lar
 
 {% hint style="info" %}
 Liste uzundur ve güncellenebilir. Kayıt menüsü, çantanızda bulduğu ilk yasaklı eşyanın adını yazar; eşyayı bankaya bırakıp tekrar deneyin.

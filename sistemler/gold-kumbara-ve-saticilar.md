@@ -116,7 +116,6 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 | Bladed Staff, Pike, Scythe                                                                                      | 5.000            |
 | Npc Bow                                                                                                         | 1.000            |
 | Poison Bow, Light Bow                                                                                           | 500              |
-| Upgrade Scroll +9                                                                                               | 250              |
 | Upgrade Scroll +12                                                                                              | 500              |
 | Upgrade Scroll +15                                                                                              | 10.000           |
 | Mage Scroll (Arch)                                                                                              | 10.000           |
@@ -164,7 +163,7 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | Belirsiz Sandık                                      | 2                  |
 | Solo Dungeon Key, Deed of Storm                      | 10                 |
 | Upgrade Scroll +15                                   | 5                  |
-| Upgrade Scroll +12 / +9                              | 4 / 1              |
+| Upgrade Scroll +12                                   | 4                  |
 | Mage Scroll (Arch)                                   | 7                  |
 | Magic Log                                            | 7                  |
 | Binek Armor, Str ve Dex belgeleri                    | 2                  |
@@ -173,8 +172,6 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 
 | Ödül                             | Hediye bileti |
 | -------------------------------- | ------------- |
-| 50 Dragon Blood                  | 750           |
-| 5.000.000 gold'luk banka çeki    | 1.500         |
 | 20 Değerli Hazine                | 2.500         |
 | 1.000 Binek Res Scroll           | 3.250         |
 | 5 Magic Ingot                    | 5.000         |

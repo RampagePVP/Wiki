@@ -18,11 +18,11 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 | Seviye            | Nereden                | Gereken yetenek                     |
 | ----------------- | ---------------------- | ----------------------------------- |
 | Might (+6)        | Satıcı                 | Silah yeteneği 100, Tactics 100     |
-| Force (+9)        | 9 Bag, Upgrade Scroll  | Silah yeteneği 100, Tactics 100     |
+| Force (+9)        | Silah Stone            | Silah yeteneği 100, Tactics 100     |
 | Power (+12)       | 12 Bag, Upgrade Scroll | Silah yeteneği 100, Tactics 100     |
 | Vanquishing (+15) | 15 Bag, Upgrade Scroll | Silah yeteneği **110**, Tactics 100 |
 
-* Silah çantaları (9 / 12 / 15 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
+* Silah çantaları (12 / 15 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
 * Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +9 ve +12 silahları sorunsuz kullanır. **+15 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
   * **Swordsmanship 110**: Halberd, Bardiche, Axe türleri, Scimitar, Katana, Bladed Staff
   * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork, Lance

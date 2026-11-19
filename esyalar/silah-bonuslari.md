@@ -33,18 +33,6 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 * Bleeding, Parablow veya Dismount çıkaran oyuncu **5 saniye** boyunca bu üç bonustan hiçbirini tekrar tetikleyemez.
 * Sakatlar, Stun veya Disarm çıkaran oyuncu **15 saniye** boyunca bu bonusları tekrar tetikleyemez.
 
-## Event Potionlar (bonus potionları)
-
-Tek bir **Event Potion** vardır. Çift tıklayınca açılan pencereden bonusu seçersin; seçtiğin bonus **10 dakika** boyunca çok daha sık çıkar:
-
-* Bleed: Bleeding
-* Parablow: Parablow
-* Dismount: Dismount
-
-Her içişte 1 potion harcanır. Aynı anda sadece **bir** Event Potion etkisi olabilir. Mage'ler Event Potion kullanamaz. Çantanda içmen gerekir. 10 Dragon Blood'a çift tıklayıp Event Potion yapabilirsin (safe alanda).
-
-Elinde eski Event Potion (Bleed), (Parablow) ya da (Dismount) varsa çift tıkla: aynı adette Event Potion'a çevrilir. Depodakiler `.depo` açılınca kendiliğinden çevrilir.
-
 ## Bineklerin bonuslara etkisi
 
 | Binek  | Etkisi                                                                  |

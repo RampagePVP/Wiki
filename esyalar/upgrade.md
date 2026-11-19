@@ -14,7 +14,6 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 
 | Scroll                                 | Geliştirilecek silah | Sonuç | Ücret        |
 | -------------------------------------- | -------------------- | ----- | ------------ |
-| Upgrade Scroll **\[Force: +9]**        | Might (+6)           | +9    | 25.000 gold  |
 | Upgrade Scroll **\[Power: +12]**       | +9                   | +12   | 50.000 gold  |
 | Upgrade Scroll **\[Vanquishing: +15]** | +12                  | +15   | 200.000 gold |
 
@@ -104,11 +103,3 @@ Safe alanda Magic Ingot'a çift tıklayınca menü açılır:
 ### Magic Log
 
 25 Magic Log ile safe alanda Fire Bow, Earth Bow, Energy Bow ya da Ice Bow yapılır (Archery 110 gerekir; bkz. **Silahlar**).
-
-## Dragon Blood
-
-| Malzeme         | Ödül                                  |
-| --------------- | ------------------------------------- |
-| 10 Dragon Blood | Event Potion (bonusu içerken seçilir) |
-
-Safe alanda, Dragon Blood'a çift tıklayınca açılan menüden yapılır.
