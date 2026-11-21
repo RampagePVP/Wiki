@@ -45,6 +45,7 @@
   * [PvP Ligi ve Kral](guild-ve-pvp/pvp-ligi-ve-kral.md)
   * [Sıralamalar](guild-ve-pvp/siralamalar.md)
   * [PvP Alanları](guild-ve-pvp/pvp-alanlari.md)
+  * [Düello Merkezi](guild-ve-pvp/duello-merkezi.md)
   * [Düello](guild-ve-pvp/duello.md)
 * [Etkinlikler](etkinlikler/README.md)
   * [Etkinlik Takvimi](etkinlikler/etkinlik-takvimi.md)

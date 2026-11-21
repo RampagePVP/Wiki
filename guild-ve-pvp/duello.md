@@ -2,6 +2,10 @@
 
 Düello, iki oyuncunun gold bahsiyle birebir dövüştüğü sistemdir. Düellolar safe alanın yanındaki düello alanında yapılır ve kazanan bahsin tamamını alır.
 
+{% hint style="info" %}
+1v1, 2v2 ve 3v3 puanlı düello ligi (Şan, rütbe, aylık sezon ödülü) için bkz. [Düello Merkezi](duello-merkezi.md).
+{% endhint %}
+
 ## Düello nasıl başlatılır
 
 1. Safe alandaki düello alanının yanında duran **Duello Hakemi (Lord British)**'e en fazla 4 kare yaklaşıp çift tıklayın. **Rampage - Duello Menü** açılır.

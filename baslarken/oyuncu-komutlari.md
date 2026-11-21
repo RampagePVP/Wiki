@@ -146,13 +146,14 @@ Bineklerin yetenekleri ve bekleme süreleri **Özel Binekler** sayfasında anlat
 
 ## Görev ve etkinlik
 
-| Komut              | Açıklama                                                                               |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| `.gorev`, `.quest` | Aktif görevinizin hedefini ve ilerlemesini gösterir                                    |
-| `.kumar`           | Kumar oynamaya başlar / bırakır (bankanızdaki kumbarada en az 100 gold olmalı)         |
-| `.bahis`           | Safe alanda başka bir oyuncuyla bahisli kumar                                          |
-| `.kaziyap`         | Maden etkinliğinde kazı yapar / bırakır (elinizde Rampage kazması olmalı)              |
-| `.tsavas`          | Takım Savaşı'nda seçim menüsünü ya da skor penceresini açar (**Takım Savaşı** sayfası) |
+| Komut              | Açıklama                                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| `.gorev`, `.quest` | Aktif görevinizin hedefini ve ilerlemesini gösterir                                                        |
+| `.kumar`           | Kumar oynamaya başlar / bırakır (bankanızdaki kumbarada en az 100 gold olmalı)                             |
+| `.bahis`           | Safe alanda başka bir oyuncuyla bahisli kumar                                                              |
+| `.kaziyap`         | Maden etkinliğinde kazı yapar / bırakır (elinizde Rampage kazması olmalı)                                  |
+| `.tsavas`          | Takım Savaşı'nda seçim menüsünü ya da skor penceresini açar (**Takım Savaşı** sayfası)                     |
+| `.duello`          | Safe alanda Düello Merkezi menüsünü açar; maçtayken skor penceresini gösterir (**Düello Merkezi** sayfası) |
 
 ## Konuşarak çalışan komutlar
 

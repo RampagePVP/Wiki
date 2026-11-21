@@ -1,6 +1,6 @@
 # Guild ve PvP
 
-Guild sistemi, köyler, guild savaşları, takım savaşı, PvP ligi, sıralamalar, PvP alanları ve düello.
+Guild sistemi, köyler, guild savaşları, takım savaşı, PvP ligi, sıralamalar, PvP alanları, Düello Merkezi ve düello.
 
 * [Guild](guild.md)
 * [Köyler](koyler.md)
@@ -9,4 +9,5 @@ Guild sistemi, köyler, guild savaşları, takım savaşı, PvP ligi, sıralamal
 * [PvP Ligi ve Kral](pvp-ligi-ve-kral.md)
 * [Sıralamalar](siralamalar.md)
 * [PvP Alanları](pvp-alanlari.md)
+* [Düello Merkezi](duello-merkezi.md)
 * [Düello](duello.md)
