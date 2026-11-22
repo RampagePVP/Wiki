@@ -8,7 +8,7 @@ Sunucuda gold ile oynanan dört kumar/bahis sistemi vardır: AFK kumar (`.kumar`
 
 * Turların çoğunda küçük miktarda gold kazanırsınız, bazı turlarda kaybedersiniz. Zaman zaman **Extra Ganimet** ile daha büyük bir kazanç çıkar.
 * Sadece **safe alanda** ya da guildinizin köyünde oynanır. Bu alanlardan çıkınca kumar durur.
-* Guildinizin köyünde oynarsanız kazandığınız turlarda ek **Köy Bonus** gold'u alırsınız (**Köyler** sayfası).
+* Guildinizin bir köyü varsa kazandığınız turlarda ek **Köy Bonus** gold'u alırsınız. Bonus safe alanda oynarken de verilir (**Köyler** sayfası).
 * Başlamak için kumbaranızda en az 100, her tur için en az **1.000 gold** olmalıdır.
 * Birden fazla karakterinizle aynı anda oynayabilirsiniz.
 * Ekranın sağ üstünde kumbara bakiyenizi gösteren küçük bir pencere açılır.

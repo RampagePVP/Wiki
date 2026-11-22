@@ -19,9 +19,9 @@ Moongate menüsündeki **Köyler** butonu 6 köyü ve sahibi olan guildleri list
 ## Köye giriş
 
 * Köye sadece köyün sahibi guildin üyeleri girebilir. Diğer oyuncular kapıdan geri atılır.
-* Canınız %50'nin altındayken ya da zehirliyken kendi köyünüze giremezsiniz.
+* Canınız %50'nin altındayken kendi köyünüze giremezsiniz.
 * Köyün içi safe alan gibi korunur.
-* Peşinizdeki kendi bineğiniz sizinle birlikte içeri alınır.
+* Peşinizdeki kendi bineğiniz sizinle birlikte içeri alınır. Bineğinizi kapıda bırakmak istiyorsanız inip `all stay` deyin, dışarıda kalır.
 
 ## Köy üyelerinin hakları
 
@@ -64,18 +64,26 @@ Servet dileğinin ödülleri Dilek Taşı'nın menüsünde yazar.
 ### Diğer
 
 * Köyü olan guildin üyelerine tıklanınca guild satırının altında **\[N. Köy]** yazar. Guild satırının gizlendiği durumlarda (incognito vb.) bu satır da görünmez.
-* Köyünüzde `.kumar` oynarsanız kazandığınız turlarda ek **Köy Bonus** gold'u alırsınız (**Kumar ve Bahis** sayfası).
+* `.kumar` oynarken kazandığınız turlarda ek **Köy Bonus** gold'u alırsınız. Bonus safe alanda oynarken de verilir (**Kumar ve Bahis** sayfası).
 
 ## Köy Kafesi
 
-* Köyün sahibi guildden olmayan bir oyuncunun bineği köye girerse (örneğin köy kapısından içeri yürürse) **kafese kapatılır**. Binek demir çitlerle çevrilir ve yürüyemez. Kafesteki bineğe binilemez; binek küçültülemez ve evcilleştirilemez.
+* Başka bir guildin bineği köyün içindeki birine saldırırsa **kafese kapatılır**. Köyün guild üyesi kapı eşiğinde, yani köy sınırının hemen dışındaki karede duruyorsa, ona saldırmak da köye saldırı sayılır.
+* Binek demir çitlerle çevrilir ve yürüyemez. Kafesteki bineğe binilemez; binek küçültülemez ve evcilleştirilemez.
 * Kafesteki bineğe tıklayınca "\[Köy Kafesi]" ve sahipsiz kalmasına kalan süre görünür. Köydekilere ve bineğin sahibine (oyundaysa) mesaj gider.
 * Binek **24 saat** içinde kafesten çıkarılmazsa **sahipsiz kalır** ve kafeste beklemeye devam eder.
 * Kafesi sadece köyün guildmaster'ı `.kafesac` ile açabilir. Bineğin sahibi bineğini kendisi kurtaramaz. Kafes açıldığında binek sahipsiz kaldıysa evcilleştirilebilir, sahibi hâlâ belliyse binek sahipli kalır.
-* Köy Binekleri, oyuncu satıcıları ve sahipsiz hayvanlar kafeslenmez.
+* Köyün guild üyelerinin binekleri, Köy Binekleri, oyuncu satıcıları ve sahipsiz hayvanlar kafeslenmez.
+
+**Kafeslenmeyen durumlar:**
+
+* Köy önünde inip bıraktığınız binek dışarıda kalır.
+* Sahibinin peşinden gelen, bekleyen ya da etrafta dolaşan binek kafeslenmez.
+* Saldırmadan köye giren yabancı binek kapının dışına geri gönderilir, sahibine mesaj gelir.
+* Köyün önünde iki yabancı oyuncunun kavgası köye saldırı sayılmaz.
 
 {% hint style="warning" %}
-Bineklerinizi başka guildlerin köy kapılarından uzak tutun. Kapıdan içeri giren binek kafeslenir ve 24 saat sonra sahipsiz kalır.
+Bineğinizi başka bir guildin köyündekilere ya da kapı eşiğinde duran köy üyelerine saldırtmayın. Saldıran binek kafeslenir ve 24 saat içinde çıkarılmazsa sahipsiz kalır.
 {% endhint %}
 
 ## Köy komutları
