@@ -12,7 +12,7 @@ Menüyü açtığınızda kendi sıranız da güncellenir. Sıranız görünmüy
 
 | Sekme                 | Neye göre sıralanır        | Sıfırlanma         | Birinciye ödül |
 | --------------------- | -------------------------- | ------------------ | -------------- |
-| Oyuncu Sıralaması     | Haftalık PvP puanı         | Her Pazar 23:30    | Var            |
+| Oyuncu Sıralaması     | Haftalık PvP puanı         | Her Pazar 23:30    | Var (ilk 3)    |
 | Guild Sıralaması      | Guildin aylık puanı        | Her ayın 1'i 00:00 | Var            |
 | Duello Sıralaması     | Düello puanı               | Sıfırlanmaz        | —              |
 | Taming Sıralaması     | Haftalık taming puanı      | Her Pazar 23:30    | Var            |
@@ -27,7 +27,13 @@ Sütunlar: Oyuncu, Guild, **Haftalık P.**, **Genel P.**
 
 * **Haftalık puan** PvP öldürmelerinden gelir (aşağıdaki "PvP öldürme puanı" bölümü) ve her **Pazar saat 23:30**'da sıfırlanır.
 * **Genel puan** sıfırlanmaz; rütbenizi belirler (aşağıdaki "Rütbeler" bölümü).
-* Sıfırlamada haftanın birincisine **1.000.000 gold check, hazine sandığı ve Random Egg** içeren "Haftalık Top10 Birinciliği" çantası bankasına gönderilir ve bütün sunucuya duyurulur.
+* Sıfırlamada haftanın **ilk 3** oyuncusunun bankasına bir ödül çantası gönderilir ve bütün sunucuya duyurulur. Oyunda olmayan oyuncular da alır.
+
+| Sıra | Ödül                                                                    |
+| ---- | ----------------------------------------------------------------------- |
+| 1.   | **15.000.000 gold check**, **5 Random Egg**, **6 Ender Hazine** sandığı |
+| 2.   | **10.000.000 gold check**, **3 Random Egg**                             |
+| 3.   | **5.000.000 gold check**, **2 Random Egg**                              |
 
 ## PvP öldürme puanı
 

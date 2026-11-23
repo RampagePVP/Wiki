@@ -45,12 +45,12 @@ Herkese takım renginde robe, bandana ve sandalet, CTF'ye özel bir kılıç, m�
 
 ## Ödüller
 
-Etkinlik başladığında alanda olan herkes **+1 etkinlik puanı** alır. Kazanan takımın **her üyesi** şunları alır:
+Etkinlik başladığında alanda olan herkes **+1 etkinlik puanı** alır. Kazanan takımın **her üyesi** şunları alır (gold check ve Random Egg bankanıza konur):
 
-| Ödül           | Miktar       |
-| -------------- | ------------ |
-| Banka Checki   | 250.000 gold |
-| Random Egg     | 1            |
-| Etkinlik puanı | +5           |
+| Ödül           | Miktar             |
+| -------------- | ------------------ |
+| Banka Checki   | **3.000.000** gold |
+| Random Egg     | 1                  |
+| Etkinlik puanı | +5                 |
 
 Kaybeden takıma ödül verilmez.

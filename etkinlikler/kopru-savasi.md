@@ -32,11 +32,11 @@ Köprü Savaşı, GM'lerin açtığı bir etkinliktir. Oyuncular Kırmızı ve M
 
 ## Ödüller
 
-Etkinlik başladığında alanda olan herkes +1 etkinlik puanı alır. Kazanan takımın her üyesi:
+Etkinlik başladığında alanda olan herkes +1 etkinlik puanı alır. Kazanan takımın her üyesi (gold check ve Random Egg bankanıza konur):
 
 | Ödül           | Miktar                                     |
 | -------------- | ------------------------------------------ |
-| Banka Checki   | 250.000 gold                               |
+| Banka Checki   | **3.000.000** gold                         |
 | Random Egg     | 1                                          |
 | Etkinlik puanı | +5                                         |
 | Rütbe puanı    | Etkinlikte öldürdüğünüz rakip sayısı kadar |

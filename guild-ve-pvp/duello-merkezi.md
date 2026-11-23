@@ -94,10 +94,10 @@ Arenadan çıkılamaz. Maç sırasında oyundan çıkan oyuncu **elenir** (eşya
 
 | Rütbe     | Ödül                                                                          |
 | --------- | ----------------------------------------------------------------------------- |
-| Savaşçı   | 250.000 gold                                                                  |
-| Gladyatör | 500.000 gold                                                                  |
-| Şampiyon  | 1.000.000 gold                                                                |
-| Efsane    | 1.500.000 gold + Random Egg                                                   |
+| Savaşçı   | 6.250.000 gold                                                                |
+| Gladyatör | 12.500.000 gold                                                               |
+| Şampiyon  | 25.000.000 gold                                                               |
+| Efsane    | 37.500.000 gold + Random Egg                                                  |
 | Rampage   | 50.000.000 gold + [Bloodwing](../binekler/ozel-binekler.md) + 500 Honor Point |
 
 ## Düelloları izlemek

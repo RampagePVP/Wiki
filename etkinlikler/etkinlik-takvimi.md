@@ -88,9 +88,11 @@ Etkinlik puanı kendiliğinden sıfırlanmaz.
 
 ## Standart kazanan ödülü
 
-Mini etkinliklerin çoğunda kazanan şu üç ödülü alır (her etkinliğin sayfasında ayrıca yazar):
+Mini etkinliklerin çoğunda kazanan şu ödülleri alır (her etkinliğin sayfasında ayrıca yazar). Gold check ve Random Egg'ler **bankanıza** konur:
 
-| Ödül         | Açıklama                                           |
-| ------------ | -------------------------------------------------- |
-| Banka Checki | 250.000 gold                                       |
-| Random Egg   | 1 adet; safe alanda açılır, rastgele binek çıkarır |
+| Ödül         | Açıklama                                               |
+| ------------ | ------------------------------------------------------ |
+| Banka Checki | **5.000.000** gold                                     |
+| Random Egg   | **2** adet; safe alanda açılır, rastgele binek çıkarır |
+
+CTF ve Köprü Savaşı'nda kazanan takımın her üyesi **3.000.000** gold check ve **1** Random Egg alır.

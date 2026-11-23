@@ -65,18 +65,22 @@ Her maç başında verilen potion çantasından önce **çantanızdaki bütün p
 
 ## Ödüller
 
-| Ne zaman             | Ödül                                                            |
-| -------------------- | --------------------------------------------------------------- |
-| Kayıt olunca         | +1 PvP lig puanı                                                |
-| Kazandığınız her maç | +1 PvP lig puanı                                                |
-| Şampiyon             | 100.000 gold Banka Checki, +3 PvP lig puanı ve bir ödül çantası |
+| Ne zaman                  | Ödül                                                                              |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| Kayıt olunca              | +1 PvP lig puanı                                                                  |
+| Kazandığınız her maç      | +1 PvP lig puanı                                                                  |
+| Şampiyon                  | +3 PvP lig puanı ve bir ödül çantası (sırt çantanıza konur)                       |
+| İkinci (finalde kaybeden) | **5.000.000 gold** Banka Checki, **1 Random Egg** (bankanıza) ve +1 PvP lig puanı |
 
 **Şampiyonun ödül çantası:**
 
+* 1 Banka Checki (**10.000.000 gold**)
+* **3 Random Egg**
 * 1 Olgun Ostard Egg (açınca Frenzied Ostard ya da Mid Ostard çıkar)
 * 1 Advanced Golem figürü
-* 1 **1vs1 Pvp Ödülü** robe (yaklaşık 13 saat sonra kendiliğinden silinir)
-* 1 Banka Checki (1.000.000 gold)
+* 1 **1vs1 Pvp Ödülü** robe (**24 saat** sonra, yani bir sonraki turnuvaya kadar durur, sonra kendiliğinden silinir)
+
+İkincilik ödülü finali dövüşerek kaybedene verilir; finalde oyundan çıkıp elenen ikincilik ödülü almaz.
 
 PvP lig puanı haftalık PvP lig sıralamasına sayılır (**PvP Ligi ve Kral** sayfası).
 
