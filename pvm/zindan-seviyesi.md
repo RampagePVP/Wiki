@@ -85,19 +85,21 @@ Toplam: **675 Rampage Coin**, 180.000.000 gold, 15 Random Egg, 21 Ender Hazine.
 
 ## Uyanış ve bosslar
 
-Bir dungeonda yaratık kestikçe o dungeonun **uyanış** sayacı dolar. Sayaç dolunca dungeonun bossu ortaya çıkar ve bütün sunucuya duyurulur. Boss **20 dakika** içinde öldürülmezse derinliklere çekilir. Sayaçları `.zindan` menüsünden takip edebilirsiniz.
+Bir dungeonda yaratık kestikçe o dungeonun **uyanış** sayacı dolar. Sayaç dolunca o dungeonda **Dungeon Boss** uyanır ve bütün sunucuya duyurulur. Boss **20 dakika** içinde öldürülmezse derinliklere çekilir. Sayaçları `.zindan` menüsünden takip edebilirsiniz.
 
-| Dungeon      | Boss            | Uyanış için kesim |
-| ------------ | --------------- | ----------------- |
-| Despise      | Ogre Lord       | 150               |
-| Deceit       | Lich Lord       | 120               |
-| Destard      | Ancient Wyrm    | 100               |
-| Shame        | Elder Elemental | 80                |
-| Wrong        | Bone Lord       | 80                |
-| Hythloth     | Daemon Lord     | 80                |
-| Covetous     | Elder Gazer     | 50                |
-| Ice Dungeon  | Frost Dragon    | 60                |
-| Fire Dungeon | Fire Lord       | 60                |
+9 dungeonun hepsinde aynı boss çıkar: **Dungeon Boss**, yeşil gövdeli, kızıl kanatlı dev bir ejderha. Uyandığı yerden uzaklaşmaz, peşinize düşüp zindanı dolaşmaz.
+
+| Dungeon      | Uyanış için kesim |
+| ------------ | ----------------- |
+| Despise      | 150               |
+| Deceit       | 120               |
+| Destard      | 100               |
+| Shame        | 80                |
+| Wrong        | 80                |
+| Hythloth     | 80                |
+| Covetous     | 50                |
+| Ice Dungeon  | 60                |
+| Fire Dungeon | 60                |
 
 Bütün bosslar seviye 30'dur ve çok güçlüdür; grupla gidin.
 
