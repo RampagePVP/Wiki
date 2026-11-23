@@ -63,7 +63,7 @@ Servet dileğinin ödülleri Dilek Taşı'nın menüsünde yazar.
 
 ### Köy Hediyesi: Arion
 
-* Dilek Taşı menüsündeki **Köy Hediyesi** satırından haftada bir **ücretsiz** bir **Arion** alırsınız. Hak hesap ve bilgisayar başına haftada birdir, **Pazartesi 00:00**'da yenilenir.
+* Dilek Taşı menüsündeki **Köy Hediyesi** satırından haftada bir **Arion** alabilirsiniz. Fiyatı **10.000.000 gold**'dur ve bankadaki kumbaranızdan düşülür. Kumbaranızda yeterli gold yoksa binek verilmez ve haftalık hakkınız yanmaz. Hak hesap ve bilgisayar başına haftada birdir, **Pazartesi 00:00**'da yenilenir.
 * Arion statları tam (Stat Full) gelen bir attır. `.binekbonus` ile **Can Nefesi** yeteneğini kullanır: staminanızı doldurur ve birkaç saniye can toplatır (**Özel Binekler** sayfası).
 * Binek çıkarma bekleme süresi ve "yakınınızda en fazla 3 binek" kuralı burada da geçerlidir.
 * Köy Bineği'nin bütün kuralları Arion için de geçerlidir: köyün boya tüpleriyle boyanır, küçültülebilir ama depoya konamaz, evcilleştirilemez ve diriltilemez; köy başka bir guilde geçerse ya da kira biterse silinir. Tıklayınca "\[N. Köy Hediyesi]" yazar.

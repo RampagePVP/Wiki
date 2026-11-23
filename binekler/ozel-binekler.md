@@ -313,7 +313,7 @@ Zindanların beyaz kaplanı. **Buz Mızrağı** (5 dakikada bir): **8 kare** iç
 
 ![Arion](../.gitbook/assets/binek-arion.png)
 
-* **Nereden:** Köy Hediyesi: köyü olan guildin üyeleri Dilek Taşı'ndan haftada bir ücretsiz alır (**Köyler** sayfası)
+* **Nereden:** Köy Hediyesi: köyü olan guildin üyeleri Dilek Taşı'ndan haftada bir, 10.000.000 gold karşılığında alır (**Köyler** sayfası)
 * **Komut:** `.binekbonus` ya da `.cannefesi`
 
 Statları tam (Stat Full) gelen köy atı. **Can Nefesi** (5 dakikada bir): Staminanız hemen dolar ve **5 saniye** boyunca canınız yavaş yavaş dolar. Safe alanda, canınız ve staminanız doluyken kullanılamaz.
