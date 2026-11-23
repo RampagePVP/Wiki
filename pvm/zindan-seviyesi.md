@@ -70,16 +70,18 @@ Bir zindan yaratığına vurmaya başlayınca ekranın sol altında **seviye çu
 
 ## Seviye ödülleri
 
-`.seviye` menüsünden, safe alanda alınır. Her ödül **hesap başına bir kez** alınır. Eşyalar bankanızdaki "Zindan Seviye N Ödülü" çantasına konur.
+`.seviye` menüsünden, safe alanda alınır. Her ödül **hesap başına bir kez** alınır. Rampage Coin hesabınıza eklenir; eşyalar bankanızdaki "Zindan Seviye N Ödülü" çantasına konur.
 
-| Seviye | Ödül                                           |
-| ------ | ---------------------------------------------- |
-| 5      | 10.000.000 gold, 2 Random Egg, 1 Ender Hazine  |
-| 10     | 20.000.000 gold, 2 Ender Hazine                |
-| 15     | 3 Random Egg, 3 Ender Hazine                   |
-| 20     | 50.000.000 gold, 4 Ender Hazine                |
-| 25     | 5 Random Egg, 5 Ender Hazine                   |
-| 30     | 100.000.000 gold, 5 Random Egg, 6 Ender Hazine |
+| Seviye | Ödül                                                             |
+| ------ | ---------------------------------------------------------------- |
+| 5      | 10.000.000 gold, 2 Random Egg, 1 Ender Hazine                    |
+| 10     | 50 Rampage Coin, 20.000.000 gold, 2 Ender Hazine                 |
+| 15     | 75 Rampage Coin, 3 Random Egg, 3 Ender Hazine                    |
+| 20     | 100 Rampage Coin, 50.000.000 gold, 4 Ender Hazine                |
+| 25     | 150 Rampage Coin, 5 Random Egg, 5 Ender Hazine                   |
+| 30     | 300 Rampage Coin, 100.000.000 gold, 5 Random Egg, 6 Ender Hazine |
+
+Toplam: **675 Rampage Coin**, 180.000.000 gold, 15 Random Egg, 21 Ender Hazine.
 
 ## Uyanış ve bosslar
 
@@ -103,6 +105,7 @@ Bütün bosslar seviye 30'dur ve çok güçlüdür; grupla gidin.
 
 * Zindan Puanı (boss seviyesi × 15)
 * **1.000.000 gold** çeki
+* Şansınız yaver giderse **2–5 Rampage Coin** (seviyeniz arttıkça şansınız artar)
 * Çantanıza **Zindan Boss Ganimeti** çantası:
   * Her zaman: 150 Lanetli Kemik, 10 Binek Resurrection Scroll, 1 Belirsiz Sandık, 1 Random Egg
   * Ayrıca şunlardan biri: Random Egg, Ranger set parçası, Godness set parçası, Ender Hazine, Upgrade Scroll, Str/Dex/Armor binek deed'leri, Armor Helm Upgrade Scroll, Stat Full Deed ya da büyük ikramiye (Ender Hazine ve Random Egg)
