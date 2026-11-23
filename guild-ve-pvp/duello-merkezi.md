@@ -89,16 +89,16 @@ Arenadan çıkılamaz. Maç sırasında oyundan çıkan oyuncu **elenir** (eşya
 ## Sezon ve ödüller
 
 * Her ay bir sezondur. Ay sonunda sıralama sıfırlanır ve Şanınız 1000'e doğru **yarı yarıya** çekilir (ör. 1400 → 1200).
-* Sezonda bir modda en az **10** puanlı maç yapanlar o sezondaki en yüksek rütbelerine göre ödül alır. Ödül, sezon bittikten sonraki ilk girişinizde bankanıza bir çanta içinde konur (gold check olarak).
+* Sezonda bir modda en az **10** puanlı maç yapanlar o sezondaki en yüksek rütbelerine göre ödül alır. Ödül, sezon bittikten sonraki ilk girişinizde bankanıza bir çanta içinde konur (gold, gold check olarak verilir; binek figür olarak gelir, çantanıza alıp çift tıklayınca çıkar).
 * Rütbe **unvanınız** bir sezon boyunca adınızın üstünde görünür (ör. \[Gladyatör]).
 
-| Rütbe     | Ödül                        |
-| --------- | --------------------------- |
-| Savaşçı   | 250.000 gold                |
-| Gladyatör | 500.000 gold                |
-| Şampiyon  | 1.000.000 gold              |
-| Efsane    | 1.500.000 gold + Random Egg |
-| Rampage   | 2.000.000 gold + Random Egg |
+| Rütbe     | Ödül                                                                          |
+| --------- | ----------------------------------------------------------------------------- |
+| Savaşçı   | 250.000 gold                                                                  |
+| Gladyatör | 500.000 gold                                                                  |
+| Şampiyon  | 1.000.000 gold                                                                |
+| Efsane    | 1.500.000 gold + Random Egg                                                   |
+| Rampage   | 50.000.000 gold + [Bloodwing](../binekler/ozel-binekler.md) + 500 Honor Point |
 
 ## Düelloları izlemek
 
