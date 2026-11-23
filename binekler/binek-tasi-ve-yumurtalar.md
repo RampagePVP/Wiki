@@ -127,6 +127,17 @@ Ghost Ostard, siz üstündeyken öldürdüğünüz canavarlarla güçlenen ve so
 
 Ghost Ostard'ın üstündeyken öldürdüğünüz her canavar ona stat ekler; güçlü canavarlar daha çok ekler (zindan etkinliklerinde eklenmez). Önce **armor**, sonra **DEX**, en son **STR** sınırına kadar yükselir. Her aşama bitince bineğin rengi değişir.
 
+### Güçlenmeden ölürse
+
+Ghost Ostard'ınız gücünü tamamlamadan ölürse emeğiniz kaybolmaz: kazandığı güç sizin adınıza kaydedilir.
+
+1. Animal Task'tan görevi yeniden alın (**250.000 gold** yine ödenir).
+2. Yeni bir Ghost Ostard evcilleştirin. Kayıtlı güç yeni bineğe aktarılır ve kaldığınız yerden devam edersiniz.
+
+* Birden fazla Ghost Ostard'ınız güçlenmeden ölürse en güçlüsünün kaydı tutulur.
+* Gücünü tamamlamış Ghost Ostard'ınız ölüp Sargeras çağrılınca kayıt silinir; yeni görev baştan başlar.
+* Kayıt sadece ölümde tutulur. Figüre çevrilen Ghost Ostard gücünü zaten figürde saklar.
+
 ### Sargeras
 
 Gücünü tamamlamış bir Ghost Ostard öldürülürse **Sargeras** adlı boss çağrılır ve sunucuya duyurulur. Sargeras çok güçlüdür ve ganimeti zengindir; ayrıntılar **Bosslar** sayfasında.
