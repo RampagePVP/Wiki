@@ -90,8 +90,8 @@ Sütunlar: Oyuncu, Guild, **Kazandı** (düello puanı), **Kaybetti** (kaybedile
 Sütunlar: Oyuncu, Guild, **Binek Sayı** (bu hafta ehlileştirilen binek), **Puan**.
 
 * Binek ehlileştirdikçe bineğin türüne göre **1, 2 ya da 4** taming puanı kazanılır.
-* Her **Pazartesi saat 11:10**'da sıfırlanır.
-* Haftanın birincisine **250.000 gold check, Random Egg ve 5 şarjlık taming staff şarjı** bankasına gönderilir.
+* Her **Pazar 23:30**'da sıfırlanır.
+* Haftanın birincisine **10.000.000 gold check, Random Egg, Master Taming Staff ve 5 şarjlık taming staff şarjı** bankasına gönderilir.
 
 ## Etkinlik Sıralaması
 

@@ -59,7 +59,7 @@ Random spawn binekleri evcilleştirildiğinde **taming puanı** verir. Puanlar h
 | Raptor                               | +4               | +4                      |
 | T-Rash, Simurg, Huma (nadir spawn)   | —                | +4                      |
 
-Her **Pazar 23:30**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **250.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5), 1 Master Taming Staff**.
+Her **Pazar 23:30**'da haftalık sıralama sıfırlanır. **Birinci** olan oyuncunun bankasına bir çanta gönderilir: **10.000.000 gold çek, 1 Random Egg, 1 Taming Staff Şarj (5), 1 Master Taming Staff**.
 
 Ayrıca evcilleştirdiğiniz her random spawn bineği size **+1 random spawn puanı** verir (**Random Spawn Binekleri** sayfası).
 
