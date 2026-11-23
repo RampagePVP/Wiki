@@ -12,6 +12,9 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 
 | Binek           | Yetenek                                | Bekleme  |
 | --------------- | -------------------------------------- | -------- |
+| Bucephalus      | Hücum (+ Sarsılmaz, Demir Zırh)        | 5 dk     |
+| Baihu           | Buz Mızrağı (+ vuruşu stamina düşürür) | 5 dk     |
+| Arion           | Can Nefesi                             | 5 dk     |
 | Simurg          | Savaş Borusu                           | 5 dk     |
 | Huma            | Koruyucu Aura                          | 5 dk     |
 | Nemea           | Parçalayan Pençe (+ Avcı İçgüdüsü)     | 5 dk     |
@@ -62,16 +65,33 @@ Ghost Ostard için **Binek Taşı ve Yumurtalar** sayfasına bakın.
 * `.binekbonus` her zaman **bindiğiniz** bineğin yeteneğini kullanır.
 * Yeteneklerin çoğu canınız **50'nin altındayken** ve **safe alanda** kullanılamaz.
 * Hedefli yetenekler sadece **oyunculara** atılabilir, kendinize atılamaz. Hedef görüş alanınızda olmalıdır.
-* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed ve Silver Steed ateş topları, Blinkstrike ve Parçalayan Pençe'den etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
+* **Binek bonusu koruması:** In Nox (Gryphon, Hipogrif), Ordeal, Fire Steed ve Silver Steed ateş topları, Blinkstrike, Parçalayan Pençe, Hücum ve Buz Mızrağı'ndan etkilenen oyuncu **2 dakika** boyunca bu binek yeteneklerinden tekrar etkilenmez. Hedefe "Bir binek bonusuna maruz kaldınız!" yazar.
 * **Teleport engeli:** Şu bineklere binen oyuncunun üstüne Teleport büyüsüyle ışınlanılamaz: Armored Steed, Gryphon, Hipogrif, Pixiu, Mysterious Horn, Fiura, Ferrin, Primal Raptor, Percheron, Ordeal, Orn.
 
 ### Bineklerin kendini iyileştirmesi
 
-Birçok binek (Bloodwing, Armored Steed, Grayer, Gryphon, Hipogrif, Pixiu, T-Rash, Mysterious Horn, Fiura, Ferrin, Percheron, Ordeal, Fire Steed, Silver Steed, Silvercorn, Numa, Indra, Evil Wolf, Evil Horse) savaşırken canı çok azalınca kendini bir miktar iyileştirir ve üzerindeki zehri temizler. Bu, bir bineğin ömrü boyunca **en fazla 3 kez** olur (figüre çevirmek hakkı sıfırlamaz).
+Birçok binek (Bucephalus, Bloodwing, Baihu, Arion, Armored Steed, Grayer, Gryphon, Hipogrif, Pixiu, T-Rash, Mysterious Horn, Fiura, Ferrin, Percheron, Ordeal, Fire Steed, Silver Steed, Silvercorn, Numa, Indra, Evil Wolf, Evil Horse) savaşırken canı çok azalınca kendini bir miktar iyileştirir ve üzerindeki zehri temizler. Bu, bir bineğin ömrü boyunca **en fazla 3 kez** olur (figüre çevirmek hakkı sıfırlamaz).
 
-Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 3 hakkı harcamaz.
+Bucephalus, Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman temizler, bu 3 hakkı harcamaz.
 
 ***
+
+## Bucephalus
+
+![Bucephalus](../.gitbook/assets/binek-bucephalus.png)
+
+* **Komut:** `.binekbonus` ya da `.hucum`
+
+Sunucunun en güçlü savaş atı.
+
+**Binince:**
+
+* **Sarsılmaz:** Attan düşmezsiniz (Dismount bonusu, ok bonusu, Earth Bow ve binek vuruşları sizi düşüremez). Paralyze ve Paralyze Field büyüleri size işlemez, Frozier'in Paralyze bonusu size atılamaz. Paradarbe ve Stun silah bonusları yine işler.
+* **Demir Zırh:** Oyuncuların silah vuruşlarına karşı ek PvP koruması kazanırsınız (Armored Steed'inkinden fazla).
+
+**Hücum** (5 dakikada bir): **8 kare** içindeki, görüş alanınızdaki bir oyuncunun yanına atılırsınız ve ona hasar verirsiniz. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz; donmuşken kullanılamaz. Hedef 2 dakika binek bonusu korumasına girer.
+
+**Bucephalus'un kendisi** Poison büyüsünden etkilenmez, vuruş yediğinde zehri hep temizler. Vuruşlarında ek hasar verir.
 
 ## Simurg
 
@@ -253,6 +273,17 @@ Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş
 
 **Binince:** Teleport engeli.
 
+## Baihu
+
+![Baihu](../.gitbook/assets/binek-baihu.png)
+
+* **Nereden:** Zindan Seviye Sistemi (yakında)
+* **Komut:** `.binekbonus` ya da `.buzmizragi`
+
+Zindanların beyaz kaplanı. **Buz Mızrağı** (5 dakikada bir): **8 kare** içindeki, görüş alanınızdaki bir oyuncuya hasar verir; hedef **3 saniye** boyunca koşamaz, sadece yürüyebilir. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz. Hedef 2 dakika binek bonusu korumasına girer.
+
+**Baihu'nun kendisi:** Vuruşları ara sıra **Buz Pençesi** ile ek hasar verir ve rakibin staminasını düşürür.
+
 ## Typhaon
 
 ![Typhaon](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FDMzGAtvdQ6YcCXUCfhew%2Fbinek-typhaon.png?alt=media)
@@ -277,6 +308,17 @@ Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş
 * **Komut:** `.steedlight`
 
 **Steedlight** (2 dakikada bir): **11 kare** içindeki bir oyuncuya Fireball büyüsü atar. Hedef 2 dakika binek bonusu korumasına girer.
+
+## Arion
+
+![Arion](../.gitbook/assets/binek-arion.png)
+
+* **Nereden:** Köy Hediyesi: köyü olan guildin üyeleri Dilek Taşı'ndan haftada bir ücretsiz alır (**Köyler** sayfası)
+* **Komut:** `.binekbonus` ya da `.cannefesi`
+
+Statları tam (Stat Full) gelen köy atı. **Can Nefesi** (5 dakikada bir): Staminanız hemen dolar ve **5 saniye** boyunca canınız yavaş yavaş dolar. Safe alanda, canınız ve staminanız doluyken kullanılamaz.
+
+Köy Bineği ile aynı kurallara bağlıdır: köyün boyalarıyla boyanır, küçültülebilir ama depoya konamaz, evcilleştirilemez ve diriltilemez; köy başka bir guilde geçerse ya da kira biterse silinir.
 
 ## Unicorn
 

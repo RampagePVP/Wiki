@@ -1,6 +1,6 @@
 # Köyler
 
-Köyler, guildlerin kiralayabildiği özel alanlardır. Köyü olan guildin üyeleri köyün içinde güvenli bir alana, günlük ödüle, Dilek Taşı'na ve Köy Bineği'ne erişir.
+Köyler, guildlerin kiralayabildiği özel alanlardır. Köyü olan guildin üyeleri köyün içinde güvenli bir alana, günlük ödüle, Dilek Taşı'na, Köy Bineği'ne ve haftalık Köy Hediyesi'ne (Arion) erişir.
 
 ## Köy kiralama
 
@@ -60,6 +60,13 @@ Servet dileğinin ödülleri Dilek Taşı'nın menüsünde yazar.
 * Köyün içindeki boya tüpleriyle boyanabilir: tüpe çift tıklayıp bineği seçin. Bineğe binmişken kendinizi seçerseniz bindiğiniz binek boyanır. Köy dışındaki tüplerle boyanmaz.
 * Animal Deed ile küçültülebilir ama depoya konamaz, evcilleştirilemez ve eritilemez.
 * Köy başka bir guilde geçerse ya da kira biterse o köyün bütün Köy Binekleri (figürleri dahil) silinir.
+
+### Köy Hediyesi: Arion
+
+* Dilek Taşı menüsündeki **Köy Hediyesi** satırından haftada bir **ücretsiz** bir **Arion** alırsınız. Hak hesap ve bilgisayar başına haftada birdir, **Pazartesi 00:00**'da yenilenir.
+* Arion statları tam (Stat Full) gelen bir attır. `.binekbonus` ile **Can Nefesi** yeteneğini kullanır: staminanızı doldurur ve birkaç saniye can toplatır (**Özel Binekler** sayfası).
+* Binek çıkarma bekleme süresi ve "yakınınızda en fazla 3 binek" kuralı burada da geçerlidir.
+* Köy Bineği'nin bütün kuralları Arion için de geçerlidir: köyün boya tüpleriyle boyanır, küçültülebilir ama depoya konamaz, evcilleştirilemez ve diriltilemez; köy başka bir guilde geçerse ya da kira biterse silinir. Tıklayınca "\[N. Köy Hediyesi]" yazar.
 
 ### Diğer
 

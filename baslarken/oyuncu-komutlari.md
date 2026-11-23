@@ -119,6 +119,9 @@ Bazı bineklerin `.binekbonus` yeteneği kendi adıyla da çağrılabilir:
 | Huma                  | `.koruyucuaura`    |
 | Lamassu               | `.blinkstrike`     |
 | Nemea                 | `.parcalayanpence` |
+| Bucephalus            | `.hucum`           |
+| Baihu                 | `.buzmizragi`      |
+| Arion                 | `.cannefesi`       |
 
 Bineklerin yetenekleri ve bekleme süreleri **Özel Binekler** sayfasında anlatılmıştır.
 
