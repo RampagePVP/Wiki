@@ -1,8 +1,9 @@
 # PvM
 
-Dungeonlar, parti zindanı, solo dungeon, bosslar, set elde etme ve canavarlar.
+Dungeonlar, zindan seviyesi, parti zindanı, solo dungeon, bosslar, set elde etme ve canavarlar.
 
 * [Dungeonlar](dungeonlar.md)
+* [Zindan Seviyesi](zindan-seviyesi.md)
 * [Zindan (Parti Dungeonu)](zindan-parti-dungeonu.md)
 * [Solo Dungeon ve Puzzle Koleksiyonları](solo-dungeon-ve-puzzle-koleksiyonlari.md)
 * [Bosslar](bosslar.md)

@@ -18,6 +18,10 @@ Safe alandaki moongate menüsünde **Dungeonlar** butonu şu dungeonlara ışın
 
 Shame, Covetous ve Ice Isle'da da Dark Blood Monk, Hazine Ejderhası ve Daemon of Might çıkar. Yaratıkların ganimetleri için **Canavarlar** ve **Bosslar** sayfalarına bakın.
 
+{% hint style="success" %}
+**Zindan Seviyesi:** Bu dungeonlarda (Ice Isle hariç) yaratık kestikçe zindan seviyesi kazanır, ödül alır, dungeon bosslarını uyandırırsınız. Ayrıntılar: [Zindan Seviyesi](zindan-seviyesi.md) · Komutlar: `.zindan`, `.seviye`
+{% endhint %}
+
 {% hint style="info" %}
 Moongate'i kullanmak için canınızın dolu olması ve zehirli olmamanız gerekir.
 {% endhint %}

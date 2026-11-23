@@ -277,7 +277,7 @@ Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş
 
 ![Baihu](../.gitbook/assets/binek-baihu.png)
 
-* **Nereden:** Zindan Seviye Sistemi (yakında)
+* **Nereden:** [Zindan Seviyesi](../pvm/zindan-seviyesi.md): seviye 30'da `.seviye` menüsünden 750.000 Zindan Puanı + 10.000 Lanetli Kemik + 100.000.000 gold karşılığında (her bedelde bir tane), ya da Despise, Deceit ve Destard bosslarından nadiren
 * **Komut:** `.binekbonus` ya da `.buzmizragi`
 
 Zindanların beyaz kaplanı. **Buz Mızrağı** (5 dakikada bir): **8 kare** içindeki, görüş alanınızdaki bir oyuncuya hasar verir; hedef **3 saniye** boyunca koşamaz, sadece yürüyebilir. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz. Hedef 2 dakika binek bonusu korumasına girer.

@@ -61,6 +61,7 @@
   * [Castelo Savaşı](etkinlikler/castelo-savasi.md)
 * [PvM](pvm/README.md)
   * [Dungeonlar](pvm/dungeonlar.md)
+  * [Zindan Seviyesi](pvm/zindan-seviyesi.md)
   * [Zindan (Parti Dungeonu)](pvm/zindan-parti-dungeonu.md)
   * [Solo Dungeon ve Puzzle Koleksiyonları](pvm/solo-dungeon-ve-puzzle-koleksiyonlari.md)
   * [Bosslar](pvm/bosslar.md)

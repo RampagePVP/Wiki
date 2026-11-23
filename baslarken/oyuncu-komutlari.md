@@ -30,6 +30,9 @@ Paperdoll'daki **Help** butonuyla açılan yardım menüsündeki **Komutlar** d�
 | `.map`, `.harita`                                 | Harita: konumunuzu gösterir; buradan bir oyuncuya takip isteği gönderebilirsiniz (o oyuncu onaylamalı) |
 | `.takipiptal`, `.gtakipiptal`, `.oksil`, `.arrow` | Takip okunu kapatır                                                                                    |
 | `.depo`                                           | Eşya deposu (safe alanda ve guildinizin kiraladığı köyde)                                              |
+| `.zindan`                                         | Zindan Rehberi: zindan seviyeniz, bonuslarınız, dungeonların uyanış durumu (**Zindan Seviyesi**)       |
+| `.seviye`                                         | Zindan seviye ödülleri ve Baihu (ödül ve Baihu sadece safe alanda)                                     |
+| `.seviyebar`                                      | Zindan seviye çubuğunu kapatır / yeniden açar                                                          |
 | `.spawntakip`                                     | Haritadaki aktif Random Spawn bineği sayısını yazar                                                    |
 | `.stormpuzzle`                                    | Storm puzzle koleksiyon kitabını açar                                                                  |
 | `.site`                                           | Web sitesini açar                                                                                      |
