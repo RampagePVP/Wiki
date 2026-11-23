@@ -89,7 +89,7 @@ Sunucunun en güçlü savaş atı.
 * **Sarsılmaz:** Attan düşmezsiniz (Dismount bonusu, ok bonusu, Earth Bow ve binek vuruşları sizi düşüremez). Paralyze ve Paralyze Field büyüleri size işlemez, Frozier'in Paralyze bonusu size atılamaz. Paradarbe ve Stun silah bonusları yine işler.
 * **Demir Zırh:** Oyuncuların silah vuruşlarına karşı ek PvP koruması kazanırsınız (Armored Steed'inkinden fazla).
 
-**Hücum** (5 dakikada bir): **8 kare** içindeki, görüş alanınızdaki bir oyuncunun yanına atılırsınız ve ona hasar verirsiniz. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz; donmuşken kullanılamaz. Hedef 2 dakika binek bonusu korumasına girer.
+**Hücum** (5 dakikada bir): **4 kare** içindeki, görüş alanınızdaki bir oyuncunun yanına atılırsınız ve ona hasar verirsiniz. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz; donmuşken kullanılamaz. Hedef 2 dakika binek bonusu korumasına girer.
 
 **Bucephalus'un kendisi** Poison büyüsünden etkilenmez, vuruş yediğinde zehri hep temizler. Vuruşlarında ek hasar verir.
 
