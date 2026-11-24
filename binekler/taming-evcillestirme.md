@@ -67,10 +67,13 @@ Ayrıca evcilleştirdiğiniz her random spawn bineği size **+1 random spawn pua
 
 Hazine haritasıyla çıkarılan hazinenin bekçisi öldürülünce, bulunduğu yerde **5 dakika** boyunca evcilleştirilebilir binekler çıkar:
 
-| Hazine                | Çıkabilen binekler                                                              |
-| --------------------- | ------------------------------------------------------------------------------- |
-| Normal ve özel hazine | Cu Sidhe (Wolf), Shire, N-Mandre, Arcane Ostard, Arcane Horse, Kii Rin, Mustang |
-| Özel görev hazinesi   | Evil Wolf ya da Evil Horse                                                      |
+| Hazine                   | Çıkabilen binekler                                                              |
+| ------------------------ | ------------------------------------------------------------------------------- |
+| Normal ve Değerli hazine | Cu Sidhe (Wolf), Shire, N-Mandre, Arcane Ostard, Arcane Horse, Kii Rin, Mustang |
+| Ender Hazine             | Aynı binekler; nadiren **Primal Raptor**, **Lamassu** ya da **T-Rash**          |
+| Özel görev hazinesi      | Evil Wolf ya da Evil Horse                                                      |
+
+T-Rash sadece Master Taming Staff ile evcilleştirilir; Primal Raptor ve Lamassu normal Taming Staff ile de olur.
 
 Hazine haritalarının nasıl kullanıldığı **Hazine** sayfasında.
 

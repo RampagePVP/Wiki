@@ -33,7 +33,7 @@ Sandıklar dungeon'lardan, hazine ejderhalarından, görevlerden, etkinliklerden
 | Hazine kasasının kalma süresi | Yaklaşık 200 saniye                                                                                            |
 | Başka hazine yakındayken      | 20 kare içinde çözülmemiş bir koruyucu ya da 10 kare içinde açık bir hazine kasası varken yeni hazine açılamaz |
 
-Koruyucu öldüğünde yakınlarda rastgele bir yabani binek de belirir (Görev Kasası'nda Evil Wolf ya da Evil Horse).
+Koruyucu öldüğünde yakınlarda rastgele bir yabani binek de belirir (Görev Kasası'nda Evil Wolf ya da Evil Horse). Ender Hazine koruyucusundan nadiren **Primal Raptor**, **Lamassu** ya da **T-Rash** da çıkabilir. Çıkabilen binekler **Taming (Evcilleştirme)** sayfasında.
 
 {% hint style="warning" %}
 Hazine kasası kısa süre sonra kaybolur. Koruyucuyu öldürdükten sonra kasayı hemen boşaltın; en hızlı yol **Hepsini Al**.

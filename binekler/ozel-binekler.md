@@ -123,7 +123,7 @@ Simurg'un beyaz hali. **Koruyucu Aura** (5 dakikada bir): Siz ve **6 kare** içi
 
 ![Lamassu](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2F09DSPxUOujpNQGuUGVBi%2Fbinek-lamassu.png?alt=media)
 
-* **Nereden:** Random Egg (nadir çıkar)
+* **Nereden:** Random Egg (nadir çıkar), Ender Hazine koruyucusu öldürülünce nadiren yabani çıkar (**Hazine** sayfası)
 * **Komut:** `.binekbonus` ya da `.blinkstrike`
 
 Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş alanınızdaki bir oyuncunun yanına ışınlanır ve ona hasar verirsiniz. Safe alandaki ve ölü oyunculara atılamaz; donmuşken (paralyze) kullanılamaz. Hedef 2 dakika binek bonusu korumasına girer.
@@ -207,6 +207,7 @@ Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş
 ![T Rash](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FtQPOeqODzBcrSxjyXKfG%2Fbinek-t-rash.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.raptorgate`
+* **Nereden:** Random spawn (nadir), Ender Hazine koruyucusu öldürülünce nadiren yabani çıkar (**Hazine** sayfası). Sadece Master Taming Staff ile evcilleştirilir.
 
 **Gate Dispeler** (5 dakikada bir): Runebook ile açılmış bir gate'i hedefleyip siler.
 
@@ -371,7 +372,7 @@ Köy Bineği ile aynı kurallara bağlıdır: köyün boyalarıyla boyanır, kü
 
 ![Primal Raptor](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FREpHh5HDZnneacpwXGSi%2Fbinek-primal-raptor.png?alt=media)
 
-* **Nereden:** Binek Taşı, **50.000.000 gold**
+* **Nereden:** Binek Taşı, **50.000.000 gold**; Ender Hazine koruyucusu öldürülünce nadiren yabani çıkar (**Hazine** sayfası)
 
 **Binince:** Teleport engeli. `.binekbonus` yeteneği yoktur.
 
