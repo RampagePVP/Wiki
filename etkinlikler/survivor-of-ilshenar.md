@@ -41,6 +41,6 @@ Kitteki eşyalar etkinlik bitince silinir; kendi eşyalarınız geri verilir.
 Etkinlikteki oyuncu sayısı **4 ya da daha aza** düşünce etkinlik biter. Ölü oyuncular 5 dakikaları dolana kadar sayıya dahildir. Etkinlik bittiği anda **canlı** olan her oyuncu ödül alır:
 
 * 2.000.000 gold Banka Checki
-* Ödül çantası: Değerli Hazine Sandığı, Solo Dungeon Key'ler, Binek Res Scroll, Magic Ingot ve Magic Log, Stat Full Deed, Random Egg, Devil ve Dragon Set Deed, Party Statue, Devil ve Dragon set parçaları, Olgun Ostard Egg'ler ve golem.
+* Ödül çantası: Değerli Hazine Sandığı, Solo Dungeon Key'ler, Binek Res Scroll, Magic Log, Stat Full Deed, Random Egg, Devil ve Dragon Set Deed, Party Statue, Devil ve Dragon set parçaları, Olgun Ostard Egg'ler ve golem.
 
 Bitişte herkes safe alana döner, kit silinir ve kendi eşyalarınız geri verilir.

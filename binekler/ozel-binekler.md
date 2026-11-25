@@ -48,7 +48,7 @@ Bir bineğin statlarını, ölünce kaç Binek Resurrection Scroll ile dirildiğ
 | Manticore                     | Sadece pure mage biner; oyunculara teleport, mana/can yenileme |
 | Nightmare                     | Canınız azalınca otomatik can basar                            |
 | Numa                          | 4 büyüye bağışıklık                                            |
-| Indra                         | Hits Talisman ve Mana Sandals daha güçlü                       |
+| Indra                         | Sınıf tılsımının can doldurması iki katı                       |
 | Primal Raptor                 | Teleport engeli                                                |
 | Orn                           | Teleport engeli                                                |
 | Arctic Bear                   | Fireball büyünüz güçlenir                                      |
@@ -78,7 +78,7 @@ Bucephalus, Grayer, Bloodwing ve Percheron vuruş yediklerinde zehri her zaman t
 
 ## Bucephalus
 
-![Bucephalus](../.gitbook/assets/binek-bucephalus.png)
+![Bucephalus](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2F42xOtCnLoPQTYg2PVmz0%2Fbinek-bucephalus.png?alt=media)
 
 * **Komut:** `.binekbonus` ya da `.hucum`
 
@@ -276,9 +276,9 @@ Kanatlı aslan. **Blinkstrike** (5 dakikada bir): **4 kare** içindeki, görüş
 
 ## Baihu
 
-![Baihu](../.gitbook/assets/binek-baihu.png)
+![Baihu](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FeSLjnva0yF3PWSkhHnTP%2Fbinek-baihu.png?alt=media)
 
-* **Nereden:** [Zindan Seviyesi](../pvm/zindan-seviyesi.md): seviye 30'da `.seviye` menüsünden 750.000 Zindan Puanı + 10.000 Lanetli Kemik + 100.000.000 gold karşılığında (her bedelde bir tane), ya da Despise, Deceit ve Destard bosslarından nadiren
+* **Nereden:** [Zindan Seviyesi](../pvm/zindan-seviyesi "relative-link"): seviye 30'da `.seviye` menüsünden 750.000 Zindan Puanı + 10.000 Lanetli Kemik + 100.000.000 gold karşılığında (her bedelde bir tane), ya da Despise, Deceit ve Destard bosslarından nadiren
 * **Komut:** `.binekbonus` ya da `.buzmizragi`
 
 Zindanların beyaz kaplanı. **Buz Mızrağı** (5 dakikada bir): **8 kare** içindeki, görüş alanınızdaki bir oyuncuya hasar verir; hedef **3 saniye** boyunca koşamaz, sadece yürüyebilir. Safe alandaki, ölü ve Frozier'e binmiş oyunculara atılamaz. Hedef 2 dakika binek bonusu korumasına girer.
@@ -312,7 +312,7 @@ Zindanların beyaz kaplanı. **Buz Mızrağı** (5 dakikada bir): **8 kare** iç
 
 ## Arion
 
-![Arion](../.gitbook/assets/binek-arion.png)
+![Arion](https://1640369235-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX60u1YQAtqTQWsJqUzvn%2Fuploads%2FDJnjGyTOfEqYU6n3lr3V%2Fbinek-arion.png?alt=media)
 
 * **Nereden:** Köy Hediyesi: köyü olan guildin üyeleri Dilek Taşı'ndan haftada bir, 10.000.000 gold karşılığında alır (**Köyler** sayfası)
 * **Komut:** `.binekbonus` ya da `.cannefesi`
@@ -366,7 +366,7 @@ Köy Bineği ile aynı kurallara bağlıdır: köyün boyalarıyla boyanır, kü
 
 * **Nereden:** Soul Egg
 
-**Binince:** **Hits Talisman** ve **Mana Sandals** daha fazla can ve mana basar.
+**Binince:** Sınıf tılsımın (Talisman of Mage / Warlock / Warrior) can kayıplarını iki kat hızlı doldurur.
 
 ## Primal Raptor
 

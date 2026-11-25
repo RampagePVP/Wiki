@@ -14,7 +14,11 @@ Robeler özellikle warlock ve mage için önemlidir: büyü bağışıklığı, 
 
 ### Mage robe şartı
 
-High Mage Robe için Magery, Meditation ve Evaluating Intelligence 99.1 üstü, bütün savaş yetenekleri 20 altı olmalı. Arch Mage Robe ayrıca **Evaluating Intelligence 110** ister.
+High Mage Robe için Magery, Meditation ve Evaluating Intelligence 99.1 üstü, bütün savaş yetenekleri 20 altı olmalı. Arch Mage Robe için de Evaluating Intelligence **100** yeterlidir.
+
+{% hint style="warning" %}
+**PvP Turnuvası**'na Arch Mage Robe ile girilmez; kayıtta çantanızdaki ve üzerinizdeki Arch Mage Robe bankanıza konur. Turnuvaya High Mage Robe ile girin.
+{% endhint %}
 
 ## Mage robelerinin ekstra büyü hasarı
 
@@ -28,7 +32,7 @@ Robe geliştirme için **Upgrade** sayfasına bakın.
 
 ## Notum Robe ve Mind Blast şarjı
 
-Notum Robe'a **Magic Bottle (Mind Blast)** ile şarj eklenir (en fazla 5). Şarjı varken sana atılan Mind Blast tamamen engellenir ve 1 şarj gider (`* Mind Blast Resist *`). Magic Bottle, Forge of Skill'den çıkan Magic Ingot ile yapılır (bkz. **Upgrade**).
+Notum Robe'a **Magic Bottle (Mind Blast)** ile şarj eklenir (en fazla 5). Şarjı varken sana atılan Mind Blast tamamen engellenir ve 1 şarj gider (`* Mind Blast Resist *`). Magic Bottle, safe alandaki **Magic Office** NPC'sinden 2 Magic Log karşılığında alınır (bkz. **Gold, Kumbara ve Satıcılar**).
 
 ## Diğer robeler
 

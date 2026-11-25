@@ -99,7 +99,7 @@ Talismanlar **7 gün** sürer ve sadece kendi sınıfınız (ünvanınız) taraf
 | Talisman of Warlock | Küçük can kayıplarınızı sürekli doldurur (zehirliyken çalışmaz) | Etrafınıza düşmanları yakalayan örümcek ağları atar, siz takılmazsınız. Safe alanda kullanılmaz                |
 | Talisman of Mage    | Küçük can kayıplarınızı sürekli doldurur (zehirliyken çalışmaz) | Seçtiğiniz hedefi zehirler, etrafına zehir bulutu düşürür. Sadece savaş becerisi olmayan tam Mage kullanabilir |
 
-Full Takı Seti'ndeki **Hits Talisman** her sınıfa açıktır; sadece can yenileme etkisi vardır, `.talismanpower` gücü yoktur.
+Eski Full Takı Seti'ndeki **Hits Talisman** oyundan kaldırıldı; can doldurma artık sadece bu sınıf talismanlarında var. **Indra** binicisinde talismanın can doldurması iki katıdır.
 
 ## Silver Coin
 

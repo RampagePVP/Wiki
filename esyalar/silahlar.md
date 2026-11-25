@@ -15,25 +15,22 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 
 ## Silah seviyeleri
 
-| Seviye            | Nereden                | Gereken yetenek                     |
-| ----------------- | ---------------------- | ----------------------------------- |
-| Might (+6)        | Satıcı                 | Silah yeteneği 100, Tactics 100     |
-| Force (+9)        | Silah Stone            | Silah yeteneği 100, Tactics 100     |
-| Power (+12)       | 12 Bag, Upgrade Scroll | Silah yeteneği 100, Tactics 100     |
-| Vanquishing (+15) | 15 Bag, Upgrade Scroll | Silah yeteneği **110**, Tactics 100 |
+| Seviye            | Nereden                | Gereken yetenek                 |
+| ----------------- | ---------------------- | ------------------------------- |
+| Might (+6)        | Satıcı                 | Silah yeteneği 100, Tactics 100 |
+| Force (+9)        | Silah Stone            | Silah yeteneği 100, Tactics 100 |
+| Power (+12)       | 12 Bag, Upgrade Scroll | Silah yeteneği 100, Tactics 100 |
+| Vanquishing (+15) | 15 Bag, Upgrade Scroll | Silah yeteneği 100, Tactics 100 |
 
 * Silah çantaları (12 / 15 Bag) sadece safe alanda ve çantanda açılır; içinden rastgele bir silah çıkar.
-* Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için +9 ve +12 silahları sorunsuz kullanır. **+15 silahlar için ilgili yeteneği Skill Book ile 110'a çıkarman gerekir** (bkz. **Upgrade**):
-  * **Swordsmanship 110**: Halberd, Bardiche, Axe türleri, Scimitar, Katana, Bladed Staff
-  * **Fencing 110**: Kryss, Spear, Short Spear, Pike, Pitchfork, Lance
-  * **Macefighting 110**: Club, War Mace, Hammer Pick, War Hammer, Quarter Staff, Black Staff
+* Warrior ve warlock'un bütün savaş yetenekleri 100 olduğu için bütün seviyelerdeki silahları sorunsuz kullanır. İlgili yetenek: Halberd, Bardiche, Axe türleri, Scimitar, Katana ve Bladed Staff için **Swordsmanship**; Kryss, Spear, Short Spear, Pike, Pitchfork ve Lance için **Fencing**; Club, War Mace, Hammer Pick, War Hammer, Quarter Staff ve Black Staff için **Macefighting**.
 * Silahlar Upgrade Scroll ile bir üst seviyeye geliştirilebilir (bkz. **Upgrade**).
 
 ## Kritik vuruş (Critical Stone)
 
 **Critical Stone**, +15 (Vanquishing) silaha **kritik vuruş** özelliği ekler.
 
-**Nereden çıkar:** Ender Hazine kasasından ve dungeonlardaki **Dungeon Chest**'lerden şansa bağlı olarak çıkar (bkz. **Hazine** ve **Dungeonlar**).
+**Nereden çıkar:** Ender Hazine kasasından, dungeonlardaki **Dungeon Chest**'lerden ve uyanan zindanların **Dungeon Boss** ganimetinden şansa bağlı olarak çıkar (bkz. **Hazine**, **Dungeonlar** ve **Zindan Seviyesi**).
 
 1. Taş ve silah çantanda olmalı.
 2. Taşa çift tıkla, +15 (Vanquishing) silahını seç.
@@ -66,16 +63,6 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 * 9 ve 12 Bag'den: Axe türleri, Halberd, Bardiche, Scimitar, Katana, Kryss, Spear, Short Spear, Pitchfork, Club, War Mace, Hammer Pick, War Hammer.
 * 15 Bag'den bunlara ek olarak Bladed Staff, Pike ve Black Staff da çıkar.
 
-## Fire silahlar
-
-| Silah       | Gereken                        | Bonuslar        |
-| ----------- | ------------------------------ | --------------- |
-| Fire Spear  | Fencing 100, Tactics 100       | Parablow, Yakar |
-| Fire Katana | Swordsmanship 100, Tactics 100 | Bleeding, Yakar |
-
-* **Fire Silahı Seç** belgesine safe alanda çift tıklayıp Fire Spear ya da Fire Katana seçersin; silah **belgenin kalan süresiyle** çantana gelir. Süresi dolan belge ve silah silinir.
-* Fire silahlar upgrade edilemez.
-
 ## Yaylar
 
 | Yay        | Bonus            | Nereden                                    |
@@ -86,7 +73,7 @@ STR'in stat eşyalarıyla çok yükselirse vuruşların biraz yavaşlar.
 | Energy Bow | Stam Shoot       | 25 Magic Log                               |
 | Elven Bow  | —                | Safe alandaki Diğer Menü taşından ücretsiz |
 
-* Magic Log yayları **Archery tam 110**, Parrying ve Tactics 98 üstü ister (Skill Book ile Archery'si 110 olan warrior).
+* Magic Log yayları **Archery 100**, Parrying ve Tactics 98 üstü ister.
 * Elven Bow için Archery 90 yeterli.
 * Yay bonusları **Silah Bonusları** sayfasında.
 * **Archery of Infinity** (ok çantası): giyiliyken yayların daha hızlı atar, 7 gün süreli.
@@ -107,12 +94,12 @@ Bu sayfadaki silahlar kullandıkça yıpranır:
 
 Silahlar safe alandaki **Repair Stone**'un yanında (en fazla 2 kare) **Repair Scroll** ile tamir edilir. Scroll'a çift tıklayıp tamir edilecek eşyayı seçersin. Gereken scroll sayısı silahın seviyesine göre değişir:
 
-| Seviye             | Repair Scroll |
-| ------------------ | ------------- |
-| Might (+6)         | 1             |
-| +9                 | 2             |
-| +12, Fire silahlar | 3             |
-| +15                | 8             |
+| Seviye     | Repair Scroll |
+| ---------- | ------------- |
+| Might (+6) | 1             |
+| +9         | 2             |
+| +12        | 3             |
+| +15        | 8             |
 
 ## Zehirli silah
 

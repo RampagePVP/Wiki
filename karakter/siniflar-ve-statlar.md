@@ -14,7 +14,7 @@ Sınıfını ilk girişte Başlangıç taşından, sonradan da safe alandaki **S
 
 * Snooping ve Stealing her sınıfta 0'dır.
 * Skill Stone'dan sınıf değiştirince üzerindeki büyüler silinir, giyili eşyaların çantana düşer ve binekten inersin. Safe alanda inilen binek 30 dakika içinde tekrar binilmezse silinir; sınıf değiştirdikten sonra bineğine tekrar binmeyi unutma.
-* **Skill Book** ile 110.0'a çıkardığın yetenek (Fencing, Swordsmanship, Macefighting, Evaluating Intelligence, Archery) sınıf değiştirdiğinde kaybolmaz; o sınıfta yetenek açık olduğu sürece yine 110.0 olur. Ayrıntılar **Upgrade** sayfasında.
+* Yetenekler en fazla **100.0** olur; yetenekleri 100'ün üstüne çıkaran Skill Book'lar kaldırıldı.
 * Seçtiğin sınıf karakterinin ünvanı olur (Warrior / Warlock / Mage). Bazı eşyalar (ör. Stat Potion) ve Deadly Poison'un warrior bonusu bu ünvana bakar.
 
 ## Eşyalar sınıfı nasıl tanır?
@@ -25,7 +25,7 @@ Eşyalar ünvana değil, çoğunlukla yeteneklerine bakar:
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Warrior eşyaları (Godness ve Dragon setleri, Notum Robe)  | Tactics yaklaşık 100, Magery ve Meditation yaklaşık 0                                    |
 | Warlock eşyaları (Perfect Robe)                           | Magery ve Tactics 99.1 üstü                                                              |
-| Mage eşyaları (High Mage Robe, Mage Shield, Mana Sandals) | Magery, Meditation, Evaluating Intelligence 99.1 üstü ve bütün savaş yetenekleri 20 altı |
+| Mage eşyaları (High Mage Robe, Mage Shield)               | Magery, Meditation, Evaluating Intelligence 99.1 üstü ve bütün savaş yetenekleri 20 altı |
 | Warlock/Mage setleri (Ranger, Devil Özel) ve Armorer Helm | Magery (setlerde 40 üstü, helmde 99.1 üstü)                                              |
 
 {% hint style="info" %}
@@ -49,7 +49,6 @@ Statlarını safe alandaki **Stat Stone**'a çift tıklayarak ya da `.stat` komu
 
 * Bu kuralda "mage", Magery 99.1 ve üstü olup bütün savaş yetenekleri (Fencing, Swordsmanship, Macefighting, Archery, Wrestling, Tactics) 20 altında olan karakterdir. Warlock ve warrior etkilenmez.
 * Stat menüsü mage'e 35'ten fazla DEX yazdırmaz.
-* Kuralı aşan mage'de **mana bot** (Mana Sandals'ın düzenli mana vermesi) çalışmaz; oyuna girişte de uyarı çıkar. Statlarını menüden düzeltince mana bot tekrar çalışır.
 * Kanat, pelerin gibi eşyaların verdiği DEX bu sınıra sayılmaz; kural sadece menüde seçtiğin DEX'e bakar.
 
 ### Fazla stat kontrolü
@@ -60,15 +59,13 @@ Oyuna girişte statlarının toplamı, 225'i ve giydiğin stat eşyalarının bo
 
 Bu eşyalar giyildiğinde stat verir, çıkarıldığında ya da süresi dolduğunda verdiği statı geri alır.
 
-| Eşya                                   | Bonus                              | Not                                                    |
-| -------------------------------------- | ---------------------------------- | ------------------------------------------------------ |
-| Shirt of Stat Defense                  | STR ve INT                         | 7 gün süreli                                           |
-| Earrings of Stat Defense (Stat Küpesi) | STR ve INT                         | 7 gün süreli                                           |
-| Guild Pelerin                          | Guild kudretine göre bütün statlar | Sadece taraf seçmiş guildlerin üyeleri giyebilir       |
-| Pvp Commander kanadı                   | Bütün statlar                      | Sadece PvP lig kralı giyebilir                         |
-| Stat Potion                            | Bütün statlar, 10 dakika           | Sadece Warrior ve Warlock içebilir; aynı anda bir tane |
-| Godness seti                           | STR                                | Bütün parçalar giyiliyken                              |
+| Eşya                       | Bonus                              | Not                                                    |
+| -------------------------- | ---------------------------------- | ------------------------------------------------------ |
+| Guild Pelerin / Guild Cape | Guild kudretine göre bütün statlar | Sadece taraf seçmiş guildlerin üyeleri giyebilir       |
+| Pvp Commander kanadı       | Bütün statlar                      | Sadece PvP lig kralı giyebilir                         |
+| Stat Potion                | Bütün statlar, 10 dakika           | Sadece Warrior ve Warlock içebilir; aynı anda bir tane |
+| Godness seti               | STR                                | Bütün parçalar giyiliyken                              |
 
-## Mana bot
-
-**Mana Sandals** (sadece mage giyebilir) giyiliyken birkaç saniyede bir manan kendiliğinden dolar. Mage DEX kuralını aşan mage'de mana bot çalışmaz.
+{% hint style="info" %}
+Shirt of Stat Defense, Earrings of Stat Defense (Stat Küpesi), Mana Sandals ve Hits Talisman oyundan kaldırıldı. Takı setinden sadece **Animal Belt** kaldı.
+{% endhint %}

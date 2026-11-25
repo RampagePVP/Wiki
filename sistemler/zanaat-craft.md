@@ -1,11 +1,12 @@
 # Zanaat (Craft)
 
-Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Tezgahı**'nda kask, ev dekoru, trofe, kozmetik giysi, gala kıyafeti ve sarf eşyası üretebilirsiniz. Golemlerinizi birleştirip **Steel Golem** de yapabilirsiniz. Shadow Hood, Kasa ve Steel Golem dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
+Maden, balık, PvP ve zindanlardan topladığınız malzemelerle safe alandaki **Zanaat Atölyesi**'nde kask, ev dekoru, trofe, kozmetik giysi, gala kıyafeti ve sarf eşyası üretebilirsiniz. Golemlerinizi birleştirip **Steel Golem** de yapabilirsiniz. Shadow Hood, Kasa ve Steel Golem dışındaki zanaat ürünleri savaşta güç vermez; çoğu evinizi süslemek ve gösteriş içindir.
 
-## Zanaat Tezgahı
+## Zanaat Atölyesi
 
-* Safe alanda birkaç **Zanaat Tezgahı** (örs) vardır. Tezgaha en fazla **3 kare** yakından çift tıklayınca zanaat menüsü açılır.
-* Tezgah sadece safe alanda ve canlıyken kullanılır.
+* **Zanaat Atölyesi**, safe alanın güneybatısındaki gölün doğu kıyısındadır: taş zeminli bir atölye; demirci ocağı, örs, dokuma tezgâhı, çıkrık ve marangoz tezgâhı. Antrenman alanı (mankenler, okçuluk hedefleri) atölyenin hemen güneyindedir.
+* Atölyedeki parçaların (zemin hariç) herhangi birine en fazla **3 kare** yakından çift tıklayınca zanaat menüsü açılır. Bu parçalara **Zanaat Tezgahı** denir.
+* Atölye sadece safe alanda ve canlıyken kullanılır.
 
 | Bölge | İçerik                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +18,7 @@ Yeten malzeme ve gold **yeşil**, eksik olan **kırmızı** yazar.
 ## Nasıl üretilir?
 
 1. Gereken malzemeleri **çantanıza** alın. Bankadaki ya da depodaki malzemeler sayılmaz.
-2. Tezgaha çift tıklayın, soldan kategoriyi seçin ve ürünün altındaki **Üret** butonuna basın.
+2. Atölyedeki bir tezgaha çift tıklayın, soldan kategoriyi seçin ve ürünün altındaki **Üret** butonuna basın.
 3. Malzemeler çantanızdan, gold bankanızdaki **kumbaradan** düşülür. Ürün çantanıza gelir.
 
 * Üretim her zaman başarılı olur.

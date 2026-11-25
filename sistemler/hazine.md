@@ -45,22 +45,22 @@ Safe Alan'a dönünce `.depo` menüsündeki **Hepsini Yatır**'a basın. Hazine 
 
 ## Define Avcısı
 
-**Define Avcısı**, Ender Hazine sandıklarınızı sizin yerinize açan 7 günlük bir eşyadır. Dövüşmenize gerek yoktur: siz oyundayken (AFK olsanız bile) hazinelerinizi açar ve ganimeti bankanıza getirir.
+**Define Avcısı**, Ender Hazine ve Değerli Hazine sandıklarınızı sizin yerinize açan 7 günlük bir eşyadır. Dövüşmenize gerek yoktur: siz oyundayken (AFK olsanız bile) hazinelerinizi açar ve ganimeti bankanıza getirir.
 
-1. Ender Hazine sandıklarınızı çantanıza koyun.
-2. Define Avcısı'na çantanızdayken çift tıklayın. Menüde kalan süre, yoldaki hazineler ve çantanızdaki sandık sayısı yazar.
-3. Kaç sandık vereceğinizi seçin: **1, 5, 10** ya da **20**. Avcı yanınızda belirir ve hazinelerinizi açmaya gider.
+1. Ender Hazine ya da Değerli Hazine sandıklarınızı çantanıza koyun.
+2. Define Avcısı'na çantanızdayken çift tıklayın. Menüde kalan süre, yoldaki hazineler ve çantanızdaki sandık sayıları yazar.
+3. Menüde iki sandık türünün ayrı satırı vardır. Kaç sandık vereceğinizi seçin: **1, 5, 10** ya da **20**. Avcı yanınızda belirir ve hazinelerinizi açmaya gider.
 
-| Kural        | Değer                                                                                                                    |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Ücret        | Sandık başına **100.000 gold**; sandıkları verdiğiniz anda kumbaranızdan düşer (bankanızda kumbara olmalı)               |
-| Süre         | Hazineler sırayla açılır, her biri **20 dakika** sürer                                                                   |
-| Ganimet      | Her hazine için ayrı bir **Define Avcisi Ganimeti** çantasıyla bankanıza gelir; kasayı kendiniz açtığınızdakiyle aynıdır |
-| Aynı anda    | En fazla **20** hazine yolda olabilir                                                                                    |
-| Kabul edilen | Sadece açılmamış Ender Hazine sandığı (haritaya çevrilmiş Ender Hazine ve diğer sandıklar alınmaz)                       |
-| Yabani binek | Avcıyla açılan hazinelerde çıkmaz                                                                                        |
-| Kim kullanır | Sadece eşyanın sahibi                                                                                                    |
-| Süre bitince | Yeni sandık verilemez; yoldaki hazineler yine gelir                                                                      |
+| Kural        | Değer                                                                                                                                                           |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ücret        | Ender Hazine başına **100.000 gold**, Değerli Hazine Sandığı başına **50.000 gold**; sandıkları verdiğiniz anda kumbaranızdan düşer (bankanızda kumbara olmalı) |
+| Süre         | Hazineler sırayla açılır, her biri **20 dakika** sürer; önce Ender Hazineler gelir                                                                              |
+| Ganimet      | Her hazine için ayrı bir **Define Avcisi Ganimeti** çantasıyla bankanıza gelir; kasayı kendiniz açtığınızdakiyle aynıdır                                        |
+| Aynı anda    | İki tür birlikte en fazla **20** hazine yolda olabilir                                                                                                          |
+| Kabul edilen | Açılmamış Ender Hazine ve Değerli Hazine sandıkları (haritaya çevrilmiş sandıklar, Belirsiz Sandık ve Görev Kasası alınmaz)                                     |
+| Yabani binek | Avcıyla açılan hazinelerde çıkmaz                                                                                                                               |
+| Kim kullanır | Sadece eşyanın sahibi                                                                                                                                           |
+| Süre bitince | Yeni sandık verilemez; yoldaki hazineler yine gelir                                                                                                             |
 
 {% hint style="warning" %}
 Avcı sadece **siz oyundayken** çalışır. Oyundan çıkarsanız (bağlantı kopması dahil) o ana kadar gelen ganimetler bankanızda kalır; açılmamış sandıklar bankanıza, ücretleri kumbaranıza geri verilir.
@@ -78,17 +78,17 @@ Her kasadan bazı eşyalar her zaman çıkar, bazıları ise şansa bağlıdır.
 ### Değerli Hazine Sandığı
 
 * **Her zaman:** gold çeki, Belirsiz Sandık, Armorer Helm (Bone), Olgun Ostard Egg, Binek Res Scroll, Upgrade Scroll (+12), Binek Armor / Dex / Str belgeleri.
-* **Şansa bağlı:** Random Egg, Armorer Helm (Orc), +12 ve +15 silah çantası, Light Bow, Mage Shield, Solo Dungeon Key, Party Statue, Magic Ingot, Magic Log.
+* **Şansa bağlı:** Random Egg, Armorer Helm (Orc), +12 ve +15 silah çantası, Light Bow, Mage Shield, Solo Dungeon Key, Party Statue, Magic Log.
 * **Nadir:** Advanced Golem figürü, Stat Full belgesi.
 
 ### Görev Kasası
 
-* **Her zaman:** gold çekleri, Solo Dungeon Key, Magic Log, Magic Ingot, Random Egg.
+* **Her zaman:** gold çekleri, Solo Dungeon Key, Magic Log, Random Egg.
 * **Şansa bağlı:** Stat Full belgesi.
 
 ### Ender Hazine
 
-* **Her zaman:** Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +15 silah çantası, Upgrade Scroll (+15), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Deed of Storm, Binek Res Scroll, Magic Log, Magic Ingot, Str / Dex / Binek Armor belgeleri.
+* **Her zaman:** Değerli Hazine Sandığı, Armor Helm Upgrade Scroll, Random Egg, +15 silah çantası, Upgrade Scroll (+15), Solo Dungeon Key, Advanced Golem figürü, Puzzle Parça Çantası, Mage Scroll (Arch), gold çeki, Deed of Storm, Binek Res Scroll, Magic Log, Str / Dex / Binek Armor belgeleri.
 * **Şansa bağlı:** fazladan Random Egg, Ranger ve Godness set parçası, Critical Stone, Stat Full belgesi.
 
 ## Hazine yükseltme (Haydut)

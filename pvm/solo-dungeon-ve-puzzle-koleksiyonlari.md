@@ -44,7 +44,7 @@ Dungeon Master ölünce safe alana gönderilir ve ödül çantasını alırsın�
 
 ### Ödül çantası
 
-Çantada her zaman şunlar vardır: Silah Çantası (+12) ve (+15), 500k gold çekleri, Puzzle Parça Çantası, Değerli Hazine Sandığı, Ender Hazine, Random Egg, Armorer Helm (Orc) ve (Bone), Stat Full Deed, Magic Log, Magic Ingot, Upgrade Scroll (+12), Binek Res Scroll, Binek Armor / Dex / Str Deed ve Armor Helm Upgrade Scroll.
+Çantada her zaman şunlar vardır: Silah Çantası (+12) ve (+15), 500k gold çekleri, Puzzle Parça Çantası, Değerli Hazine Sandığı, Ender Hazine, Random Egg, Armorer Helm (Orc) ve (Bone), Stat Full Deed, Magic Log, Upgrade Scroll (+12), Binek Res Scroll, Binek Armor / Dex / Str Deed ve Armor Helm Upgrade Scroll.
 
 Şansa bağlı olarak ayrıca Ranger ya da Godness set parçası, Party Statue, Golem (Advanced) ya da bir silah (Bladed Staff, Quarter Staff, Scythe, Pike, Lance ya da Black Staff) çıkabilir.
 
@@ -99,19 +99,27 @@ Storm Dungeon'dan sadece Storm Puzzle parçası çıkar. Kutuların büyük ço�
 
 İki ayrı koleksiyon var. İkisi de **hesaba bağlıdır**: aynı hesaptaki bütün karakterler aynı koleksiyonu doldurur. 9 parçanın hepsi tamamlanınca ödül alınır, koleksiyon sıfırlanır ve yeniden doldurulabilir.
 
-|                    | Storm Puzzle                     | Ordeal Puzzle                                                                |
-| ------------------ | -------------------------------- | ---------------------------------------------------------------------------- |
-| Parçalar           | Puzzle 1-9 (renkli)              | Puzzle 1-9 (mühürlü)                                                         |
-| Nereden            | Storm Dungeon ödül kutusu        | Puzzle Parça Çantası                                                         |
-| Koleksiyona ekleme | Parçaya çantanızda çift tıklayın | Safe alandaki **Resurrection of the Ordeal** → "Mühürü Boz!" → parçayı seçin |
-| Koleksiyonu görme  | `.stormpuzzle`                   | Resurrection of the Ordeal'a çift tıklayın                                   |
-| Ödül               | **Armored Steed**                | **Ordeal**                                                                   |
+|                    | Storm Puzzle                                                                 | Ordeal Puzzle                                        |
+| ------------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Parçalar           | Puzzle 1-9 (renkli)                                                          | Puzzle 1-9 (mühürlü)                                 |
+| Nereden            | Storm Dungeon ödül kutusu                                                    | Puzzle Parça Çantası                                 |
+| Koleksiyona ekleme | Parçaya çantanızda çift tıklayın ya da Puzzle Koleksiyonu'nda **Parça Ekle** | Puzzle Koleksiyonu'nda **Mührü Boz** → parçayı seçin |
+| Ödül               | **Armored Steed**                                                            | **Ordeal**                                           |
 
-Parçalar eklendikçe koleksiyon kitabındaki resim tamamlanır. Zaten eklenmiş bir parçayı tekrar ekleyemezsiniz; fazla parçaları başka oyunculara verebilirsiniz.
+### Puzzle Koleksiyonu ekranı
+
+Safe alandaki **Resurrection of the Ordeal**'a çift tıklayınca **Puzzle Koleksiyonu** açılır. İki koleksiyon da bu ekrandadır:
+
+* Soldaki **Ordeal Mührü** ve **Storm Puzzle** sekmeleriyle koleksiyon seçilir; her sekmede kaç parça topladığınız (x / 9), kısa açıklama ve parçaların nereden çıktığı yazar. Ekran en son baktığınız sekmeyle açılır.
+* Sağda 3x3 parça tablosu ve ödül kartı vardır: binek resmi, özelliği, ilerleme çubuğu ve ödülü kaç kişinin aldığı.
+* Alttaki buton: Ordeal'de **Mührü Boz** (parçayı seçip eklersiniz), Storm'da **Parça Ekle** (çantanızdaki Storm parçasını ekler).
+* Storm koleksiyonu `.stormpuzzle` ile de görülebilir.
+
+Zaten eklenmiş bir parçayı tekrar ekleyemezsiniz; fazla parçaları başka oyunculara verebilirsiniz.
 
 ### Ödüller
 
-Koleksiyon kitabındaki **Ödül!** butonu ödül menüsünü açar. 9 parça tamamsa **Ödül Al!** ile binek yanınızda, size ait olarak çıkar. Kitapta ödülü kaç kişinin aldığı da yazar.
+Puzzle Koleksiyonu'ndaki **Ödülü Al** butonu ödül menüsünü açar (9 parça tamamsa buton yeşil yazar). Ödül menüsünde binek yanınızda, size ait olarak çıkar.
 
 * **Armored Steed:** `.ignore` ile rakibin fazla hasar almasını sağlar.
 * **Ordeal:** `.binekbonus` ile rakibe hasar verip ateş çemberine alır.

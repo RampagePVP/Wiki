@@ -6,8 +6,8 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 
 | Bonus              | Etkisi                                                                                 | Gereken (vuran)  | Hangi silahlar                                                                                 |
 | ------------------ | -------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------- |
-| **Bleeding**       | Ek hasar ve kanama: hedef bir süre aralıklarla can kaybeder                            | Swordsmanship 98 | Scimitar, Katana, Bladed Staff, Fire Katana                                                    |
-| **Parablow**       | Ek hasar, hedef kısa süre felç olur                                                    | Fencing 98       | Spear, Short Spear, Pike, Fire Spear                                                           |
+| **Bleeding**       | Ek hasar ve kanama: hedef bir süre aralıklarla can kaybeder                            | Swordsmanship 98 | Scimitar, Katana, Bladed Staff                                                                 |
+| **Parablow**       | Ek hasar, hedef kısa süre felç olur                                                    | Fencing 98       | Spear, Short Spear, Pike                                                                       |
 | **Dismount**       | Hedef binekten düşer ve ek hasar alır                                                  | —                | Halberd, Pitchfork, Lance, Axe türleri (+15), Quarter Staff (+15), Axe ve Bladed Staff (Might) |
 | **Extra Hasar**    | Ek hasar                                                                               | Swordsmanship 98 | Axe, Battle Axe, Double Axe, Two Handed Axe                                                    |
 | **Kendine Çeker**  | Hedef yanına çekilir, ek hasar alır, yaptığı işlem bozulur                             | —                | Bardiche                                                                                       |
@@ -16,11 +16,11 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 | ↳ Stam Shot        | Ek hasar, hedefin staminası çok daha fazla düşer, yaptığı işlem bozulur (`Stam Shot!`) | —                | (Stamshot'lı silahlar; Black Staff'ta daha sık)                                                |
 | **Sakatlar**       | Ek hasar, hedef yavaşlar                                                               | Macefighting 98  | Hammer Pick, War Hammer                                                                        |
 | **Halüsinasyon**   | Hedef bir süre halüsinasyon görür                                                      | —                | Black Staff (+15)                                                                              |
-| **Yakar**          | Ek hasar                                                                               | Fencing 98       | Fire Spear, Fire Katana                                                                        |
 
 ### Bonusların ayrıntıları
 
 * **Hedefin canı az olunca bonus çıkmaz.** Bonusların çoğu sadece hedefin canı belli bir seviyenin üstündeyken tetiklenir; böylece bonus tek başına öldürmez.
+* **Bleeding, Parablow ve Dismount sayaçla çıkar.** Her vuruşta ayrı zar atılmaz; isabetlerin sayılır ve belli sayıda isabetten sonra bonus kesin tetiklenir, sonra sayaç baştan başlar. Bu yüzden art arda gelmez, uzun süre hiç çıkmaması da olmaz. Canı az olan ya da bonusa karşı block'u olan hedefe yapılan vuruşlar sayılmaz. Bekleme süresi içindeki isabetler sayılır; hak dolmuşsa bekleme bitince ilk isabette çıkar. Helm absorb'u bonusu emerse sayaç yine baştan başlar.
 * **Bleeding**: Kanayan hedefe tekrar Bleeding çıkmaz. Kanama Bleed Potion ya da bandajla (Healing ve Anatomy 70) durdurulur. Kanaman varken Greater Heal içemezsin.
 * **Parablow**: Felçli hedef bu sürede hasar alırsa felç hemen çözülür. Felçliyken bandaj kullanılamaz.
 * **Dismount**: Düşen oyuncu kısa bir süre tekrar binemez ("Binekten düşürüldünüz, X saniye binemezsiniz").
@@ -44,10 +44,10 @@ Sunucu silahlarının her türünün vuruş sırasında şansla tetiklenen bir b
 
 Elinde silah yokken wrestling vuruşlarında çalışan iki bonus komutla açılıp kapatılır:
 
-| Komut     | Gereken                   | Etkisi                                                                                                                          |
-| --------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `.stun`   | Wrestling ve Anatomy 80   | Hedef kısa süre sersemler ("Sersemler"). Sersemlemenin ilk anlarında vuruş alırsa erken çözülebilir.                            |
-| `.disarm` | Wrestling ve Arms Lore 80 | Hedefin iki elindeki eşyalar çantasına düşer ("Silahsizlandirilir"). Hedef en fazla 1 kare uzakta ve iki elinde de eşya olmalı. |
+| Komut     | Gereken                   | Etkisi                                                                                                                                          |
+| --------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.stun`   | Wrestling ve Anatomy 80   | Hedef kısa süre sersemler ("Sersemler"). Sersemlemenin ilk anlarında vuruş alırsa erken çözülebilir.                                            |
+| `.disarm` | Wrestling ve Arms Lore 80 | Hedefin elindeki eşyalar çantasına düşer ("Silahsizlandirilir"). Hedef en fazla 1 kare uzakta olmalı; tek elli, iki elli silah ve kalkan düşer. |
 
 Hedefin canı çok azken bu bonuslar çıkmaz. Komutu tekrar yazınca bonus kapanır.
 
@@ -68,7 +68,7 @@ Yay bonusları sadece oyunculara çıkar.
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Bleeding          | Armorer Helm **Bleed Absorb** şarjı; Order/Chaos Shield'da **Bleeding Block**                                             |
 | Parablow          | Armorer Helm **Parablow Absorb** şarjı; Order/Chaos Shield'da **Paradarbe Block**                                         |
-| Dismount          | Armorer Helm **Dismount Absorb** şarjı; Grayer bineği                                                                     |
+| Dismount          | Armorer Helm **Dismount Absorb** şarjı; Grayer ya da Bucephalus bineği                                                    |
 | Critical Damage   | Order/Chaos Shield'da **Critical Darbe Block** ("Critical Absorb")                                                        |
 | Binek saldırıları | Order/Chaos Shield'da **Binek Defence** ya da Animal of Belt: binek vuruşlarının bir kısmı engellenir ("Belt of Defence") |
 

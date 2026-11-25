@@ -35,7 +35,7 @@ Golem figürüne çantanızdayken çift tıklayın, golem yanınızda size ait o
 
 Golemin oyunculara verdiği hasar oyuncunun armoruna göre değişir; armoru yüksek oyuncular daha az hasar alır.
 
-**Animal Shield / Belt of Defence** özelliği olan eşyalar golem vuruşunu da belli bir ihtimalle engeller.
+**Animal Shield / Belt of Defence** özelliği olan eşyalar (ör. **Animal Belt**) golem vuruşunu da belli bir ihtimalle engeller.
 
 ## Küçültme ve depolama
 

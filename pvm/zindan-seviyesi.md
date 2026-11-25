@@ -109,8 +109,9 @@ Bütün bosslar seviye 30'dur ve çok güçlüdür; grupla gidin.
 * **1.000.000 gold** çeki
 * Şansınız yaver giderse **2–5 Rampage Coin** (seviyeniz arttıkça şansınız artar)
 * Çantanıza **Zindan Boss Ganimeti** çantası:
-  * Her zaman: 150 Lanetli Kemik, 10 Binek Resurrection Scroll, 1 Belirsiz Sandık, 1 Random Egg
-  * Ayrıca şunlardan biri: Random Egg, Ranger set parçası, Godness set parçası, Ender Hazine, Upgrade Scroll, Str/Dex/Armor binek deed'leri, Armor Helm Upgrade Scroll, Stat Full Deed ya da büyük ikramiye (Ender Hazine ve Random Egg)
+  * Her zaman: 150 Lanetli Kemik, 10 Binek Resurrection Scroll, 1 Ender Hazine, 1 Random Egg
+  * Ana ödüller: Random Egg, Ranger set parçası, Godness set parçası, Ender Hazine, Upgrade Scroll, Str/Dex/Armor binek deed'leri, Armor Helm Upgrade Scroll, Stat Full Deed. Her birinin şansı ayrı atılır, birkaçı birlikte çıkabilir; hiçbiri tutmazsa biri kesin verilir. Yani her bosstan **en az bir** ana ödül alırsınız.
+  * Ek şans (ana ödülün üstüne): **Critical Stone**, **+15 silah** ve büyük ikramiye (Ender Hazine ve Random Egg)
 * **Despise, Deceit ve Destard** bosslarında "her zaman" kısmı **iki katıdır** ve bu bosslardan nadiren **Baihu** düşer (boss başına bir tane; kazanan, ödül alanlar arasından rastgele seçilir).
 
 ## Baihu (zindan bineği)

@@ -99,11 +99,11 @@ Kudret 10 en yüksek seviyedir. Guild kudret sıralaması `.top10` menüsünden 
 
 Guild menüsünde "Guild Eşyaları" bölümünden ücretsiz alınır. Sadece Order ya da Chaos guildleri alabilir.
 
-| Eşya           | Kim alabilir       | Açıklama                                                                                                                                                           |
-| -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Guild Kalkanı  | Bütün üyeler       | Guildin yönüne göre Order ya da Chaos Shield. **24 saatte bir** alınabilir; yenisi alınınca eskileri silinir. Sadece aynı yöndeki guildlerin üyeleri kullanabilir. |
-| Guild Pelerini | Bütün üyeler       | Giyince statlarınıza bonus verir; bonus guildin kudret seviyesiyle birlikte artar. Giyilince guildin adını alır.                                                   |
-| Guild Bayrağı  | Sadece guildmaster | Guildmaster'ın tutabileceği, guildin adını taşıyan bayrak. Yere atılırsa bankaya gider.                                                                            |
+| Eşya           | Kim alabilir       | Açıklama                                                                                                                                                                                                      |
+| -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Guild Kalkanı  | Bütün üyeler       | Guildin yönüne göre Order ya da Chaos Shield. **24 saatte bir** alınabilir; yenisi alınınca eskileri silinir. Sadece aynı yöndeki guildlerin üyeleri kullanabilir.                                            |
+| Guild Pelerini | Bütün üyeler       | Giyince statlarınıza bonus verir; bonus guildin kudret seviyesiyle birlikte artar. Giyilince guildin adını alır. İki görünümden birini seçersiniz: **Guild Pelerin** ya da **Guild Cape** (özellikleri aynı). |
+| Guild Bayrağı  | Sadece guildmaster | Guildmaster'ın tutabileceği, guildin adını taşıyan bayrak. Yere atılırsa bankaya gider.                                                                                                                       |
 
 {% hint style="info" %}
 Order ve Chaos kalkanları sadece ana çantanızda taşınabilir; sandıklara ya da çanta içindeki çantalara konamaz.

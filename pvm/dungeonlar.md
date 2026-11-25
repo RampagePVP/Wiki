@@ -54,13 +54,13 @@ Sandık açıldıktan 1 dakika sonra konumunuz bütün sunucuya duyurulur. Diğe
 
 **Sandıktan çıkanlar:**
 
-| Ne sıklıkla | Eşya                                                                                                                        |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Her zaman   | Puzzle Parça Çantası                                                                                                        |
-| Sık         | Değerli Hazine Sandığı, Silah Çantası (+12)                                                                                 |
-| Ara sıra    | 250k gold çeki, Random Egg, Magic Log, Armor Helm Upgrade Scroll, Binek Res Scroll                                          |
-| Nadir       | 1m gold çeki, Silah Çantası (+15), Magic Ingot, Critical Stone, Ender Hazine, Ranger ve Godness set parçası, Stat Full Deed |
-| Çok nadir   | Ranger set parçası, Ender Hazine, Godness set parçası, Stat Full Deed                                                       |
+| Ne sıklıkla | Eşya                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Her zaman   | Puzzle Parça Çantası                                                                                           |
+| Sık         | Değerli Hazine Sandığı, Silah Çantası (+12)                                                                    |
+| Ara sıra    | 250k gold çeki, Random Egg, Magic Log, Armor Helm Upgrade Scroll, Binek Res Scroll                             |
+| Nadir       | 1m gold çeki, Silah Çantası (+15), Critical Stone, Ender Hazine, Ranger ve Godness set parçası, Stat Full Deed |
+| Çok nadir   | Ranger set parçası, Ender Hazine, Godness set parçası, Stat Full Deed                                          |
 
 ## Canavarlara karşı genel kurallar
 

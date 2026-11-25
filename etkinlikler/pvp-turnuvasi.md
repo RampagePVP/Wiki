@@ -23,22 +23,22 @@ Her gece 23:00'te otomatik açılan 1vs1 PvP Turnuvası, eleme usulü birebir d�
 * Aynı bilgisayardan yalnızca bir karakter katılabilir.
 * Üzerinizde **Güç Yüzüğü** varsa katılamazsınız. Çıkarmak için `.yuzukcikar` yazın.
 * Üzerinizdeki stat potion etkisi silinir.
-* Üzerinizde ya da çantanızda yasaklı bir eşya varsa kayıt olamazsınız; menü hangi eşya olduğunu yazar.
+* Üzerinizde ya da çantanızda yasaklı bir eşya varsa kayıt olurken kendiliğinden **bankanıza** konur ve hangi eşyanın konduğu yazılır. Bankanız yoksa kayıt olamazsınız.
 
 ## Yasaklı eşyalar
 
 Turnuvada herkesin eşit şartlarda dövüşmesi için güçlü eşyalar yasaktır. Başlıcaları:
 
 * Üst seviye set parçaları, kalkanları ve set deed'leri (Godness, Ranger). Devil ve Dragon setleri serbesttir.
-* Armorer Helm ve özel kalkanlar
-* Özel robeler
+* Armorer Helm, zanaatla üretilen Shadow Hood ve Kasa, özel kalkanlar
+* Özel robeler ve **Arch Mage Robe** (mage'ler High Mage Robe ile girer)
 * +9 ve üstü silahlar, özel silahlar ve özel yaylar
 * Stat ya da özel bonus veren takı, kemer, gözlük ve talisman'lar
 * Güç Yüzüğü, Pvp Commander kanadı, Guildmaster Bayrak
 * Stat potion'lar
 
 {% hint style="info" %}
-Liste uzundur ve güncellenebilir. Kayıt menüsü, çantanızda bulduğu ilk yasaklı eşyanın adını yazar; eşyayı bankaya bırakıp tekrar deneyin.
+Liste uzundur ve güncellenebilir. Yasaklı eşyalar kayıtta bankanıza konur; turnuvadan sonra bankanızdan geri alırsınız.
 {% endhint %}
 
 ## Turnuva nasıl işler?

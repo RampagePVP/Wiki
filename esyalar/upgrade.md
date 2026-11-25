@@ -1,6 +1,6 @@
 # Upgrade
 
-Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eşyaları eritip yetenek kitabı ve özel eşya yapabilirsin. Bu sayfada bütün geliştirme yolları var.
+Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eşyaları eritip Magic Log kazanabilirsin. Bu sayfada bütün geliştirme yolları var.
 
 ## Genel kurallar
 
@@ -20,8 +20,7 @@ Silahlarını, mage robelerini, helm ve kalkanlarını geliştirebilir; eski eş
 * Başarılı olunca silah aynı türün bir üst seviyesine dönüşür ve %100 sağlam olur. +15 başarısı bütün sunucuya duyurulur.
 * **+15 (Vanquishing)** en üst seviyedir. +15 silaha **Critical Stone** basılarak kritik vuruş eklenebilir (bkz. **Silahlar**).
 * Upgrade edilebilen türler: Halberd, Bardiche, Axe, Battle Axe, Double Axe, Two Handed Axe, War Axe, Scimitar, Katana, Broadsword, Longsword, Cutlass, Bladed Staff, Kryss, War Fork, Spear, Short Spear, Pike, Pitchfork, Club, War Mace, Hammer Pick, War Hammer, Quarter Staff.
-* **Upgrade edilemez:** Fire Spear, Fire Katana.
-* +15 için gereken 110 yetenek **Silahlar** sayfasında.
+* +15 silahları kullanmak için gereken yetenekler **Silahlar** sayfasında.
 
 ## Mage robe upgrade'i
 
@@ -31,7 +30,7 @@ High Mage Robe, mage scroll'uyla Arch Mage Robe'a geliştirilir. Arch Mage Robe,
 | ------------------------------- | ------------------- | -------------- | ------------ |
 | Upgrade Mage Scroll **\[Arch]** | High Mage Robe      | Arch Mage Robe | 200.000 gold |
 
-Arch Mage Robe'u giymek için **Evaluating Intelligence 110** gerekir.
+Arch Mage Robe'u giymek için **Evaluating Intelligence 100** gerekir.
 
 ## Armorer Helm absorb
 
@@ -74,32 +73,23 @@ Guild eşyası **Shield Bonus Book** ile Order ya da Chaos Shield'a 24 saatlik b
 | ------------------------- | --------------------------------------------- | ------------------- |
 | Magic Bottle (Mind Blast) | Notum Robe'a +1 Mind Blast şarjı (en fazla 5) | Her yerde, çantanda |
 
-## Eritme ve yetenek geliştirme (Forge of Skill)
+Magic Bottle, safe alandaki **Magic Office** NPC'sinden **2 Magic Log** karşılığında alınır (bkz. **Gold, Kumbara ve Satıcılar**).
+
+## Eritme (Forge of Skill)
 
 Safe alandaki **Forge of Skill**'e çift tıklayıp (en fazla 3 kare uzaktan) eritilecek eşyayı seçersin. Eşya çantanda ya da üzerinde olmalı.
 
-| Eritilen eşya             | Ödül                                         |
-| ------------------------- | -------------------------------------------- |
-| +12 silah                 | Şansa bağlı: 1 Magic Ingot ya da 1 Magic Log |
-| +15 silah, Arch Mage Robe | Her zaman 1 Magic Ingot ya da 1 Magic Log    |
+| Eritilen eşya             | Ödül                     |
+| ------------------------- | ------------------------ |
+| +12 silah                 | Şansa bağlı: 1 Magic Log |
+| +15 silah, Arch Mage Robe | Her zaman 1 Magic Log    |
 
-Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!"). Fire silahlar eritilemez.
+Başarısız olursa eşya yine gider ("Malzemeniz Heba Oldu!").
 
-### Magic Ingot
-
-Safe alanda Magic Ingot'a çift tıklayınca menü açılır:
-
-| Ödül                                    | Gereken       |
-| --------------------------------------- | ------------- |
-| Skill Book: +10 Fencing                 | 5 Magic Ingot |
-| Skill Book: +10 Swordsmanship           | 5 Magic Ingot |
-| Skill Book: +10 Macefighting            | 5 Magic Ingot |
-| Skill Book: +10 Evaluating Intelligence | 5 Magic Ingot |
-| Skill Book: +10 Archery                 | 5 Magic Ingot |
-| Magic Bottle (Mind Blast)               | 2 Magic Ingot |
-
-**Skill Book** safe alanda, ilgili yetenek **tam 100.0** iken kullanılır ve yeteneği **110.0** yapar. 110'a çıkmış yetenek için tekrar kullanılamaz. 110 yetenek, sınıf değiştirsen de korunur (bkz. **Sınıflar ve Statlar**). +15 silahlar ve Magic Log yayları 110 yetenek ister.
+{% hint style="info" %}
+Magic Ingot ve yetenekleri 110'a çıkaran Skill Book'lar oyundan kaldırıldı. Elinizdeki ve deponuzdaki Magic Ingot'lar aynı sayıda Magic Log'a çevrildi; 110 olan savaş yetenekleri ve Evaluating Intelligence 100'e indirildi.
+{% endhint %}
 
 ### Magic Log
 
-25 Magic Log ile safe alanda Fire Bow, Earth Bow, Energy Bow ya da Ice Bow yapılır (Archery 110 gerekir; bkz. **Silahlar**).
+25 Magic Log ile safe alanda Fire Bow, Earth Bow, Energy Bow ya da Ice Bow yapılır (Archery 100 gerekir; bkz. **Silahlar**). Magic Log ile alınabilen diğer eşyalar **Gold, Kumbara ve Satıcılar** sayfasındaki Magic Office bölümünde.

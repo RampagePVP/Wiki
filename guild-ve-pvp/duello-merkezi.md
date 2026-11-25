@@ -16,7 +16,7 @@ Menünün sekmeleri:
 | --------------- | --------------------------------------------------------------------------------------------------------- |
 | 1v1 Düello      | 1v1 rakip arama ve belirli bir oyuncuya davet (Rakip Seç)                                                 |
 | 2v2 / 3v3       | Takım maçı için rakip arama (tek başınıza ya da partinizle)                                               |
-| Düelloları İzle | Süren maçlar; tribüne gidip izlemek                                                                       |
+| Düelloları İzle | Arenaların durumu ve süren maçlar (izleme şimdilik kapalı)                                                |
 | Sıralamalar     | Bu sezonun en iyileri (1v1, 2v2 ve 3v3 ayrı)                                                              |
 | Profilim        | Her mod için rütbe, Şan, galibiyet-mağlubiyet-beraberlik, seri; ödül için puanlı maç sayınız ve unvanınız |
 | Kurallar        | Lig kurallarının tamamı                                                                                   |
@@ -37,13 +37,14 @@ Menünün sekmeleri:
 
 ## Eşyalar
 
-* **Eşya sınırı yoktur.** Kendi zırh, silah, takı ve spellbook'unuzla girersiniz. Stat veren giyilebilir eşyalar (takılar, gömlek, pelerin vb.) maçta da geçerlidir.
+* **Eşya sınırı yoktur.** Kendi zırh, silah, takı ve spellbook'unuzla girersiniz. Stat veren giyilebilir eşyalar (pelerin, kanat vb.) maçta da geçerlidir.
 * Girişte runebook, figür, animal deed, golem, kendi iksir, bandaj, TP ve yağlarınız bankanızdaki **Düello Emaneti** çantasına konur, maç sonunda çantanıza geri gelir.
 * Arena herkese aynı seti verir: Greater Heal, Greater Cure, Total Refresh, Bleed, Greater Agility ve Hallucination iksirlerinden **4'er**, **7** bandaj ve **5** TP.
 * Girişte üzerinizdeki büyüler (Bless, Strength, Agility, Cunning, Protection, Reactive Armor, Magic Reflection) ve silah zehri silinir. Can, mana ve stamina dolar.
 
 ## Maç
 
+* **Arenalar:** Her mod için üç ayrı kapalı arena vardır (1v1, 2v2 ve 3v3, toplam 9). Takımlar karşılıklı başlangıç noktalarına yerleşir.
 * **Lootsuz:** Ölen eşya kaybetmez, elenir ve Safe alana döner.
 * **Bineksiz:** Girerken bineğinizden inersiniz, bineğiniz Safe alanın dönüş noktasında sizi bekler.
 * Takım maçlarında takımlar **Kırmızı** ve **Mavi**'dir. Takım arkadaşınıza saldıramazsınız.
@@ -60,6 +61,9 @@ Arenadan çıkılamaz. Maç sırasında oyundan çıkan oyuncu **elenir** (eşya
 
 * **Büyüler:** Recall, Gate Travel, Mark, Invisibility, Wall of Stone, Fire Field, Poison Field, Paralyze Field, Energy Field, Blade Spirits, Energy Vortex, Summon Creature, elemental / daemon çağırma ve Resurrection.
 * **Skiller:** Hiding ve Stealth.
+
+**Teleport** kullanılabilir, ama arenanın dışına atılamaz.
+
 * **Eşyalar:** Runebook, animal deed, golem ve binek figürleri.
 
 ## Şan ve rütbeler
@@ -83,7 +87,7 @@ Arenadan çıkılamaz. Maç sırasında oyundan çıkan oyuncu **elenir** (eşya
 
 Şu maçlar oynanır ama Şan, seri ve sezon maç sayısı değişmez:
 
-* Aynı IP ya da aynı bilgisayardan iki kişinin olduğu maçlar.
+* Aynı IP'den bağlanan ya da aynı bilgisayarı kullanmış hesapların olduğu maçlar. Bilgisayara geçmişe göre bakılır: aynı bilgisayardan bir kez bile girmiş hesaplar birbirine bağlı sayılır ve bu bağ zincirleme işler (A ile B, B ile C aynı bilgisayarı kullandıysa A ile C de bağlıdır). Bağlı hesaplar otomatik eşleşmede karşılaşmaz; Rakip Seç ile oynayabilirler ama maç puansızdır.
 * Aynı iki tarafın aynı gün içindeki **3.** maçından itibaren olanlar.
 
 ## Sezon ve ödüller
@@ -102,4 +106,4 @@ Arenadan çıkılamaz. Maç sırasında oyundan çıkan oyuncu **elenir** (eşya
 
 ## Düelloları izlemek
 
-Menüdeki **Düelloları İzle** sekmesinden süren bir maçın tribününe gidebilirsiniz (bir tribünde en fazla 30 kişi). Tribünde yazı yazılamaz, büyü ve skill kullanılamaz, kimse kimseye saldıramaz. Safe alana dönmek için tribündeki **mavi kapıya** çift tıklayın. İzlediğiniz maç bitince Safe alana kendiliğinden dönersiniz.
+Yeni arenalarda tribün olmadığı için maç izleme **şimdilik kapalı**. **Düelloları İzle** sekmesinde arenaların boş ya da dolu olduğu ve süren maçlar görünür.

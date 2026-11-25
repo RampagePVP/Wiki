@@ -83,13 +83,13 @@ Ev kontratlarının kullanımı **Evler** sayfasında anlatılıyor.
 
 Safe Alan'daki **Tüccar** (Kara Borsa) özel eşyalar satar. Çift tıklayınca menü açılır (en fazla 10 kare uzaktan). Alışveriş sadece **Safe Alan**'da yapılır, ödeme kumbaradan düşer.
 
-| Ürün                | Açıklama                                                                       | Fiyat           |
-| ------------------- | ------------------------------------------------------------------------------ | --------------- |
-| Ender Hazine        | 1 Ender Hazine sandığı                                                         | 50.000.000 gold |
-| Donate Npc Bow      | NPC'lere karşı güçlü yay, 7 gün                                                | 1.500.000 gold  |
-| Full Takı Seti      | Talisman, Mana Sandals, Stat Küpesi, Statshirt, Animal Shield (her biri 7 gün) | 1.000.000 gold  |
-| Full Stat Deed      | Binek Stat Full belgesi                                                        | 10.000.000 gold |
-| Archery of Infinity | 7 gün                                                                          | 1.000.000 gold  |
+| Ürün                | Açıklama                                         | Fiyat           |
+| ------------------- | ------------------------------------------------ | --------------- |
+| Ender Hazine        | 1 Ender Hazine sandığı                           | 50.000.000 gold |
+| Donate Npc Bow      | NPC'lere karşı güçlü yay, 7 gün                  | 1.500.000 gold  |
+| Animal Belt         | Binek saldırılarının bir kısmını engeller, 7 gün | 1.000.000 gold  |
+| Full Stat Deed      | Binek Stat Full belgesi                          | 10.000.000 gold |
+| Archery of Infinity | 7 gün                                            | 1.000.000 gold  |
 
 ## Eşya satma (Seller)
 
@@ -128,16 +128,18 @@ Safe Alan'daki **the Seller** yazan satıcı belirli eşyaları gold karşılı�
 
 ## Magic Exchange
 
-Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Magic Log karşılığında eşya verir. Malzemeler çantanızdan alınır; işlem sadece safe alanda yapılır.
+Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Log karşılığında eşya verir. Malzemeler çantanızdan alınır; işlem sadece safe alanda yapılır.
 
-| Ürün                          | Bedel           |
-| ----------------------------- | --------------- |
-| 1 adet +15 silah çantası      | 5 Magic Ingot   |
-| 500 Binek Res Scroll          | 20 Magic Ingot  |
-| 5.000.000 gold'luk banka çeki | 35 Magic Log    |
-| Ender Hazine                  | 75 Magic Log    |
-| Stat Full belgesi             | 75 Magic Ingot  |
-| Raptor                        | 300 Magic Ingot |
+| Ürün                      | Bedel         |
+| ------------------------- | ------------- |
+| 1 adet +15 silah çantası  | 5 Magic Log   |
+| 500 Binek Res Scroll      | 20 Magic Log  |
+| Ender Hazine              | 75 Magic Log  |
+| Stat Full belgesi         | 75 Magic Log  |
+| Raptor                    | 300 Magic Log |
+| Magic Bottle (Mind Blast) | 2 Magic Log   |
+
+Magic Ingot oyundan kaldırıldı; elinizdeki ve deponuzdaki Magic Ingot'lar aynı sayıda Magic Log'a çevrildi.
 
 ## Hediye Stoğu (Hediye Bileti)
 
@@ -174,7 +176,6 @@ Safe Alan'daki **Magic Office** yazan NPC'ye çift tıklayın. Magic Ingot ve Ma
 | -------------------------------- | ------------- |
 | 20 Değerli Hazine                | 2.500         |
 | 1.000 Binek Res Scroll           | 3.250         |
-| 5 Magic Ingot                    | 5.000         |
 | Rastgele bir Ranger set parçası  | 15.000        |
 | Rastgele bir Godness set parçası | 15.000        |
 

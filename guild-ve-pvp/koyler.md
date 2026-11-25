@@ -20,6 +20,7 @@ Moongate menüsündeki **Köyler** butonu 6 köyü ve sahibi olan guildleri list
 
 * Köye sadece köyün sahibi guildin üyeleri girebilir. Diğer oyuncular kapıdan geri atılır.
 * Canınız %50'nin altındayken kendi köyünüze giremezsiniz.
+* Üzerinizde poison (zehir büyüsü) varken köye giremezsiniz; önce zehri temizleyin.
 * Köyün içi safe alan gibi korunur.
 * Peşinizdeki kendi bineğiniz sizinle birlikte içeri alınır. Bineğinizi kapıda bırakmak istiyorsanız inip `all stay` deyin, dışarıda kalır.
 
