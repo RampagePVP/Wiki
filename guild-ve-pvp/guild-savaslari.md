@@ -1,6 +1,6 @@
 # Guild Savaşları
 
-Guildler birbirleriyle sahada ve Britain Mezarı için yarışır. Bu sayfa guildler arası rekabetin yollarını anlatır.
+Guildler birbirleriyle sahada, her gece Gece Guild Savaşı'nda ve Britain Mezarı için yarışır. Bu sayfa guildler arası rekabetin yollarını anlatır.
 
 ## Guildler arası PvP
 
@@ -9,6 +9,31 @@ Başka bir guildin üyesini öldürdüğünüzde guildiniz **+1 guild puanı** (
 Öldürmenin puan sayılması için öldürülen oyuncunun fame'i en az 7000 olmalı ve son 5 dakika içinde puan verecek şekilde ölmemiş olmalıdır. Ayrıntılar **Sıralamalar** sayfasındaki "PvP öldürme puanı" bölümünde.
 
 Guild puanları `.top10` menüsündeki **Guild Sıralaması**'nda görünür.
+
+## Gece Guild Savaşı
+
+Her gece **19:00 – 02:00** arasında guildler arası öldürmeler ayrı bir gece sıralamasında sayılır. Kayıt ya da gate yoktur: guildi olan herkes nerede olursa olsun kendiliğinden yarışır.
+
+* Başka bir guildin üyesini öldürdüğünüzde siz ve guildiniz **1 gece puanı** alırsınız. Son vuruşu bineğiniz yaparsa puan size yazılır.
+* Öldürülen oyuncunun fame'i **en az 5000** olmalıdır (genel PvP puanındaki 7000 sınırından düşüktür).
+* İki taraf da guildli olmalı ve guildleri farklı olmalıdır. Aynı hesaptaki ya da aynı bilgisayardaki bir karakteri öldürmek sayılmaz.
+* Aynı oyuncu 5 dakika içinde tekrar puan vermez. Aynı kişiyi bir gecede en fazla **3** kez öldürmek sayılır.
+* Etkinliklerde, düelloda ve arenalarda yapılan öldürmeler sayılmaz (Deathmatch, CTF, Köprü Savaşı, Takım Savaşı, turnuvalar, Düello Merkezi, mini etkinlikler vb.).
+
+**Duyurular:** 19:00'da başlangıç; 21:00, 23:00 ve 01:00'de ilk 3 guild; 01:45'te son 15 dakika; 02:00'de sonuç bütün sunucuya duyurulur.
+
+**Ödüller (02:00):**
+
+| Sıra                        | Ödül                 |
+| --------------------------- | -------------------- |
+| 1. guild                    | 100.000 kudret puanı |
+| 2. guild                    | 50.000 kudret puanı  |
+| En çok öldürme yapan oyuncu | Gecenin oyuncu ödülü |
+
+* Ödül için en az **5** puan gerekir. Eşitlikte o puana önce ulaşan kazanır.
+* Oyunda olmayan kazanan da ödülünü alır; oyuna girince bildirilir.
+
+`.gecesavasi` yazınca süren gecenin canlı sıralaması açılır: ilk 3 guild, ilk 3 oyuncu ve kendi öldürme sayınız. Savaş bittiyse son gecenin sonucu görünür.
 
 ## Britain Mezarı (Guild Wars)
 

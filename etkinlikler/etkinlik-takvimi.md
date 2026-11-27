@@ -8,16 +8,17 @@ Saatler sunucu saatidir (Türkiye saati). Otomatik etkinlikler haftanın her gü
 
 ## Günlük otomatik etkinlikler
 
-| Saat          | Etkinlik                  | Nasıl katılınır                                       | Ayrıntı                   |
-| ------------- | ------------------------- | ----------------------------------------------------- | ------------------------- |
-| 00:00 – 20:01 | Deathmatch (Ölümsüz Alan) | Safe alandaki Deathmatch gate'i                       | Deathmatch sayfası        |
-| 16:00         | Kartopu                   | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |
-| 17:00         | Bisiklet Yarışı           | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |
-| 18:00         | Explosion                 | Safe alandaki etkinlik gate'i (3 dk açık)             | Mini Etkinlikler sayfası  |
-| 19:00         | GM Topuk                  | Safe alandaki etkinlik gate'i (5 dk açık)             | Mini Etkinlikler sayfası  |
-| 22:00         | Günlük Quest (Ejderha)    | Safe alandaki Quest gate'i (ejderha ölene kadar açık) | Quest ve Champion sayfası |
-| 22:30         | Günlük Champion           | Moonglow Lycaeum bölgesine gidin                      | Quest ve Champion sayfası |
-| 23:00         | 1vs1 PvP Turnuvası        | Safe alandaki PvP gate'i (10 dk açık)                 | PvP Turnuvası sayfası     |
+| Saat          | Etkinlik                  | Nasıl katılınır                                                                              | Ayrıntı                   |
+| ------------- | ------------------------- | -------------------------------------------------------------------------------------------- | ------------------------- |
+| 00:00 – 20:01 | Deathmatch (Ölümsüz Alan) | Safe alandaki Deathmatch gate'i                                                              | Deathmatch sayfası        |
+| 16:00         | Kartopu                   | Safe alandaki etkinlik gate'i (3 dk açık)                                                    | Mini Etkinlikler sayfası  |
+| 17:00         | Bisiklet Yarışı           | Safe alandaki etkinlik gate'i (3 dk açık)                                                    | Mini Etkinlikler sayfası  |
+| 18:00         | Explosion                 | Safe alandaki etkinlik gate'i (3 dk açık)                                                    | Mini Etkinlikler sayfası  |
+| 19:00         | GM Topuk                  | Safe alandaki etkinlik gate'i (5 dk açık)                                                    | Mini Etkinlikler sayfası  |
+| 19:00 – 02:00 | Gece Guild Savaşı         | Katılım gerekmez; guildi olanlar her yerde puan toplar (diğer etkinliklerle aynı anda sürer) | Guild Savaşları sayfası   |
+| 22:00         | Günlük Quest (Ejderha)    | Safe alandaki Quest gate'i (ejderha ölene kadar açık)                                        | Quest ve Champion sayfası |
+| 22:30         | Günlük Champion           | Moonglow Lycaeum bölgesine gidin                                                             | Quest ve Champion sayfası |
+| 23:00         | 1vs1 PvP Turnuvası        | Safe alandaki PvP gate'i (10 dk açık)                                                        | PvP Turnuvası sayfası     |
 
 {% hint style="warning" %}
 Aynı anda yalnızca bir etkinlik yapılabilir. Önceki etkinlik hâlâ sürüyorsa (örneğin Quest ejderhası 23:00'e kadar ölmediyse) o saatteki etkinlik o gün açılmaz.

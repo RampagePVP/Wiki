@@ -74,3 +74,24 @@ Vendorun süresi dolduğunda (ya da vendoru terk ettiğinizde):
 {% hint style="info" %}
 Vendor süresini taştan takip edin. Süre bittiğinde eşyalarınız kaybolmaz ama satıştan kalkar ve bankanıza gider.
 {% endhint %}
+
+## Açık Arttırma (binek ihalesi)
+
+Safe Alan'daki **Açık Arttırma** taşında zaman zaman yetkililerin açtığı **binek ihaleleri** yapılır. İhale başladığında ve sürerken saatte bir bütün sunucuya duyurulur; teklifler Discord'a da düşer.
+
+* Taşa tek tıklayınca kalan süre ve son teklif görünür.
+* İhale açıkken taşa çift tıklayınca menü açılır: ihaledeki binek, en yüksek teklif, **bitiş fiyatı**, son teklifi veren ve kalan süre.
+* Teklif kutusuna tutarı **sadece rakamla** yazın (nokta koymadan, örnek: `150000000`) ve **TEKLİF VER**'e basın. Taşa en fazla 10 kare yakın olmalısınız.
+
+| Kural             | Açıklama                                                                   |
+| ----------------- | -------------------------------------------------------------------------- |
+| İlk teklif        | En az başlangıç fiyatı kadar                                               |
+| Sonraki teklifler | En yüksek tekliften fazla olmalı                                           |
+| Ödeme             | Teklif verdiğiniz anda kumbaranızdan düşer                                 |
+| Geçilen teklif    | Daha yüksek teklif gelince önceki teklif sahibinin kumbarasına iade edilir |
+| Kendi teklifiniz  | Kendi teklifinizin üstüne teklif veremezsiniz                              |
+| Bitiş fiyatı      | Bu tutara ulaşan teklif ihaleyi hemen kazanır; fazlası alınmaz             |
+| Bekleme           | İki teklif arasında 5 saniye                                               |
+
+* Süre dolunca en yüksek teklifi veren bineği kazanır ve bütün sunucuya duyurulur. Oyundaysa binek sahipli olarak yanında belirir; oyunda değilse figür olarak bankasına konur ve oyuna girince bildirilir.
+* Hiç teklif gelmezse ihale teklifsiz kapanır.
